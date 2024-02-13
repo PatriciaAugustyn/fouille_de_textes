@@ -1,1 +1,1 @@
-# fouille_de_textes
+# Projet M1 - Fouille de textes
