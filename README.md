@@ -1,6 +1,6 @@
 # Projet M1 - Fouille de textes
 
-Ce projet est en cours ... [ stay tuned ]
+> Ce projet est en cours ... [ stay tuned ]
 
 ## En quoi consiste ce projet ?
 
