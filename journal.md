@@ -6,3 +6,9 @@
 ### Patricia
 
 ### Lise
+
+(26/02/2024)
+
+- Nous avons choisis de travailler sur la classification des recettes de cuisine avec un corpus de liens depuis internet.
+
+- Nos catégories seraient : apéritif / entrée / plat / dessert / boisson .
