@@ -51,5 +51,10 @@ Pour une meilleure organisation, nous avons classé les sites en deux catégorie
 ## Semaine 2
 
 ### Patricia
+Cette semaine, j'ai terminé à récolter les liens pour la partie ***test***. Mais aussi, Lise a regardé les droits d’utilisation des données des sites de recettes de cuisine. En regardant, nous avons vu que nous pouvons aspirer les liens car nous ne sommes pas dans un cas où nous allons récupérer les liens pour une fin commerciale, mais dans le cas d'un devoir (privé).
+
+De plus, cette semaine Lise a presque terminé de récupérer les liens pour notre partie ***entraînement***. 
+
+Comme nous nous rencontrons tous les mardi pour en parler, nous allons voir la suite du projet et parler de l'avancement !
 
 ### Lise
