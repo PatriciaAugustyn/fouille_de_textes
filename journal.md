@@ -62,3 +62,6 @@ Comme nous nous rencontrons tous les mardi pour en parler, nous allons voir la s
 (12/03/24)
 
 J'ai lancé le script d'aspiration qui est présent dans le dossier donnees/programmes/aspiration.sh. Ce dernier a été repris du travail fait en PPE1 au semestre dernier. Il vient aspirer nos URLs et créer nos fichiers xml d'aspiration. Ces derniers ont été rangés dans le dossier donnees/aspirations/ puis dans des sous dossiers triés par données d'entrainement ou de test et par type d'étiquette.
+Le programme se lance de la manière suivante : bash aspiration.sh <nom_étiquette> <url_à_aspirer>.
+En lançant l'aspiration, nous nous sommes rendu compte qu'un site bloque les aspirations, nou s devons donc trouver de nouvelles urls.
+
