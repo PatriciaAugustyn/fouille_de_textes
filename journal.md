@@ -58,3 +58,7 @@ De plus, cette semaine Lise a presque terminé de récupérer les liens pour not
 Comme nous nous rencontrons tous les mardi pour en parler, nous allons voir la suite du projet et parler de l'avancement !
 
 ### Lise
+
+(12/03/24)
+
+J'ai lancé le script d'aspiration qui est présent dans le dossier donnees/programmes/aspiration.sh. Ce dernier a été repris du travail fait en PPE1 au semestre dernier. Il vient aspirer nos URLs et créer nos fichiers xml d'aspiration. Ces derniers ont été rangés dans le dossier donnees/aspirations/ puis dans des sous dossiers triés par données d'entrainement ou de test et par type d'étiquette.
