@@ -60,10 +60,10 @@ Comme nous nous rencontrons tous les mardi pour en parler, nous allons voir la s
 **(12/03/24)**
 Lise a lancé le programme aspiration.sh pour récolter nos URLs d'entrainement et créer nos fichiers HTML. Ce programme a été récupéré, suite au cours de PPE1 du semestre 1.
 En regardant ces fichiers, nous avons vu que le lien :
-- [cuisine.journaldesfemmes.fr] [cuisine.journaldesfemmes.fr] renvoyait des fichiers vides avec des erreurs
+- [cuisine.journaldesfemmes.fr](cuisine.journaldesfemmes.fr) renvoyait des fichiers vides avec des erreurs
 
 Ainsi, nous avons changé ce lien par celui-ci :
-- [https://www.regal.fr/recettes] [https://www.regal.fr/recettes]
+- [https://www.regal.fr/recettes](https://www.regal.fr/recettes)
 
 ### Lise
 
