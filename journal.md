@@ -48,7 +48,7 @@ Pour une meilleure organisation, nous avons classé les sites en deux catégorie
 - Nos catégories seraient : apéritif / entrée / plat / dessert / boisson .
 
 
-## Semaine 2
+## Semaine 2 et 3
 
 ### Patricia
 Cette semaine, j'ai terminé à récolter les liens pour la partie ***test***. Mais aussi, Lise a regardé les droits d’utilisation des données des sites de recettes de cuisine. En regardant, nous avons vu que nous pouvons aspirer les liens car nous ne sommes pas dans un cas où nous allons récupérer les liens pour une fin commerciale, mais dans le cas d'un devoir (privé).
@@ -56,6 +56,14 @@ Cette semaine, j'ai terminé à récolter les liens pour la partie ***test***. M
 De plus, cette semaine Lise a presque terminé de récupérer les liens pour notre partie ***entraînement***. 
 
 Comme nous nous rencontrons tous les mardi pour en parler, nous allons voir la suite du projet et parler de l'avancement !
+
+**(12/03/24)**
+Lise a lancé le programme aspiration.sh pour récolter nos URLs d'entrainement et créer nos fichiers HTML. Ce programme a été récupéré, suite au cours de PPE1 du semestre 1.
+En regardant ces fichiers, nous avons vu que le lien :
+- [cuisine.journaldesfemmes.fr] [cuisine.journaldesfemmes.fr] renvoyait des fichiers vides avec des erreurs
+
+Ainsi, nous avons changé ce lien par celui-ci :
+- [https://www.regal.fr/recettes] [https://www.regal.fr/recettes]
 
 ### Lise
 
