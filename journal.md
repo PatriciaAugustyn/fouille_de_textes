@@ -73,3 +73,6 @@ J'ai lancé le script d'aspiration qui est présent dans le dossier donnees/prog
 Le programme se lance de la manière suivante : bash aspiration.sh <nom_étiquette> <url_à_aspirer>.
 En lançant l'aspiration, nous nous sommes rendu compte qu'un site bloque les aspirations, nou s devons donc trouver de nouvelles urls.
 
+(13/02/24)
+
+Nous avons ajouté les txt des urls de test, et ainsi fait leurs aspirations qui ont été rangées dans le dossier donnees/aspirations/test/ par site et par étiquette.
