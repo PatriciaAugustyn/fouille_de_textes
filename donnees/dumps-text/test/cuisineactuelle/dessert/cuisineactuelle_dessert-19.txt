@@ -1,0 +1,436 @@
+   #Flux RSS pour cuisineactuelle.fr
+
+   publicité
+
+   Naviguez dans l'univers
+
+   (BUTTON)
+
+   Naviguer dans l'univers
+     __________________________________________________________________
+
+     *
+     *
+
+   (BUTTON)
+   [avatar.svg] Mon profil
+     * Mon carnet de recettes
+     * Gérer mon profil
+     * Mes préférences de communication
+     * Déconnexion
+
+   (BUTTON) Menu Fermer
+   Mon carnet de recettes
+   Se connecter Connexion
+   Mon profil
+    1. Mon carnet de recettes
+    2. Gérer mon profil
+    3. Mes préférences de communication
+    4. Déconnexion
+
+   Toutes vos recettes
+   sauvegardées
+
+   (BUTTON)
+    1. Mon carnet de recettes
+    2. Recettes (BUTTON)
+         1. Recettes par plat
+         2. Apéritif
+         3. Entrée
+         4. Plat
+         5. Dessert
+         6. Boisson
+         7. Sauce
+         8. Pain & viennoiserie
+         1. Recettes par ingrédient
+         2. Légume
+         3. Viande
+         4. Poisson
+         5. Fromage
+         6. Fruit
+         7. Chocolat
+         1. Recettes Santé & allergies
+         2. Minceur
+         3. Végan
+         4. Végétarien
+         5. Sans lactose
+         6. Détox
+         7. Sans sucre
+         8. Sans gluten
+         1. Recettes par thème
+         2. Recettes de bases
+         3. Recettes traditionnelles
+         4. Recettes pas chères
+         5. Recettes faciles
+         6. Recettes rapides
+         7. Recettes de saison
+         8. Recettes pour enfants
+         9. Recettes originales
+    3. Inspirations (BUTTON)
+         1. Cuisine du monde Cuisine du monde
+         1. Cuisine régionale Cuisine régionale
+         1. Fêtes & évènements
+         2. Chandeleur
+         3. Fête des mères
+         4. Mardi gras
+         5. Pâques
+         6. Noël
+         7. Galette des rois
+         8. Ramadan
+         1. Modes de cuisson
+         2. Robots culinaires
+         3. Four
+         4. Cocotte
+         5. Micro-ondes
+         6. Vapeur
+         7. Barbecue
+         8. Wok
+         1. Plus d'idées
+         2. Apéro dînatoire
+         3. Brunch & Petit déjeuner
+         4. Buffet
+         5. Panier pique-nique
+         6. Réception
+         7. Tea time
+         8. Recettes gastronomiques
+         9. Recettes de chefs
+    4. Culture food (BUTTON)
+         1. Idées de menus
+         2. Menu de la semaine
+         3. Idées de repas
+         4. Tendances culinaires
+         1. Guide par ingrédient
+         2. Conservation des aliments
+         3. Tout savoir sur...
+         4. Cuisson des aliments
+         1. Les petits plus en cuisine
+         2. Conseils et astuces
+         3. Anti-gaspi
+         4. Guide d'achat
+         5. Gestes techniques
+         6. Actu food
+         1. Nutrition Nutrition
+         1. Vins et cocktails Vins et cocktails
+    5. Ramadan
+    6. Actu
+    7. Concours
+    8. Recette aléatoire
+    9. S'abonner au magazine
+   10. Newsletter
+
+   S'abonner au magazine
+   Je m'abonne
+   Newsletter
+
+   ____________________
+
+Recherche avancée
+
+   Par prix
+   (*) € ( ) €€ ( ) €€€ ( ) €€€€
+
+   Par note
+   (*) & plus ( ) & plus ( ) & plus ( ) & plus ( )
+
+   Par difficulté
+   (*) Facile ( ) Moyen ( ) Difficile
+   Valider Reset (BUTTON) Réinitialiser
+
+   Trouvez une recette…
+   ____________________
+   Rechercher
+   Rechercher
+
+   ____________________ (BUTTON) Rechercher
+
+   Mon carnet
+
+    1. Accueil
+    2. Recette par plat
+    3. Dessert
+    4. Bûche
+
+   cuisineactuelle.fr
+
+   Dessert (BUTTON) Être alerté des nouvelles recettes Suivre (BUTTON) Ne
+   plus être alerté Suivi
+
+Biscuit roulé au dulce de leche
+
+   5 /5
+   Donnez votre avis
+
+   20 min
+
+   10 min
+
+   Moyen
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   (BUTTON) Sauvegarder (BUTTON) Sauvegardé
+   Voir mon carnet de recettes Retirer de ma collection
+   (BUTTON) Imprimer (BUTTON) Voir la photo
+   de course
+
+
+Ingrédients
+
+   (BUTTON)
+   8__ personnes
+   (BUTTON)
+     * 4Oeufs
+     * 130g Farine
+     * 125g Sucre
+     * 35g Beurre
+     * 1Pot de dulce de leche
+     * 2cuil. à soupe Sucre glace
+     * 1pincée Sel
+     * Calories = Elevé
+
+   Ingrédients
+     * 4Oeufs
+     * 130g Farine
+     * 125g Sucre
+     * 35g Beurre
+     * 1Pot de dulce de leche
+     * 2cuil. à soupe Sucre glace
+     * 1pincée Sel
+     * Calories = Elevé
+
+Étapes de préparation
+
+    1. Séparez les blancs des jaunes de vos 4 œufs. Montez les blancs en
+       neige avec une pincée de sel.
+    2. Faites fondre le beurre au micro-ondes.
+    3. Mettez les jaunes d’œufs avec le sucre dans la cuve de votre robot.
+       Mélangez au fouet jusqu’à ce que la préparation devienne mousseuse.
+    4. Ajoutez petit à petit la farine puis le beurre tout en mélangeant.
+    5. Incorporez vos blancs en neige à cette pâte à l’aide d’une maryse
+       en soulevant la masse.
+    6. Versez votre pâte sur une plaque de cuisson recouverte de papier
+       sulfurisé ou d’une feuille de silicone. Enfournez à 200 °C pendant
+       7 minutes.
+    7. Déposez votre génoise sur un torchon humide et laissez-la
+       légèrement refroidir.
+    8. Tartinez la surface de votre génoise de dulche de leche. Roulez
+       délicatement l’ensemble. Éliminez les extrémités.
+    9. Saupoudrez votre bûche de sucre glace en vous aidant d’une passoire
+       fine.
+
+   Biscuit roulé au dulce de leche © ISTOCK/GETTY IMAGES
+   Biscuit roulé au dulce de leche
+   (BUTTON) Fermer
+   Thomas Clouet
+
+Astuces et conseils pour Biscuit roulé au dulce de leche
+
+Comment rouler ce biscuit roulé au dulce de leche sans le casser ?
+
+   À la sortie du four, déposez votre génoise sur un torchon légèrement
+   humidifié et saupoudré de sucre glace afin d’éviter qu’elle ne colle à
+   ce dernier. Roulez délicatement votre gâteau encore chaud sans
+   garniture et sans trop serrer en vous aidant du torchon pour lui donner
+   sa forme définitive. Enveloppez votre génoise dans le torchon et
+   laissez-la refroidir à température ambiante. Déroulez votre pâte,
+   garnissez la surface de garniture puis roulez de nouveau votre gâteau
+   en serrant plus cette fois-ci. Une seconde technique consiste à rouler
+   votre génoise garnie en une fois lorsqu’elle est tiède. Le plus
+   important est de prendre son temps et d’être précautionneux.
+
+Comment faire du dulce de leche maison ?
+
+   Faites cuire une boite de concentré sucré au bain-marie dans une
+   cocotte-minute pendant 30 à 40 minutes. Une autre méthode consiste à
+   faire cuire votre boite de lait concentré sucré dans une casserole
+   toujours au bain-marie pendant 2 heures en prenant soin de remettre de
+   l’eau afin que la boite soit toujours immergée.
+   (BUTTON) Voir plus Voir moins
+
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+
+Vos commentaires
+
+   • 0
+
+   Photo de l'internaute
+   13/03/2024
+
+   (BUTTON) Modifier
+
+Contenus sponsorisés
+
+Jetez un oeil à ces recettes
+
+   Dulce de leche
+   Dulce de leche
+   5
+
+   Dulce de leche
+   Dulce de leche
+   5
+
+   Moelleux au dulce de leche
+   Moelleux au dulce de leche
+   5
+
+Contenus sponsorisés
+
+Encore plus de recettes
+
+   cuisine de fêtesRecette de NoëlBûcheGâteaux
+
+     * (BUTTON) Je sauvegarde
+       Sauvegardé
+     * (BUTTON) Je cuisine
+     * (BUTTON) Les ingrédients
+
+   Dulce de leche
+
+   Dulce de leche
+   5.0
+
+Découvrez aussi...
+
+   Galette des rois à la frangipane et dulce de leche
+   Galette des rois à la frangipane et dulce de leche
+   Roulé automnal en fête
+   Roulé automnal en fête
+   La vraie recette des biscuits de Noël américains
+   La vraie recette des biscuits de Noël américains
+   Biscuit roulé à la confiture de framboise spécial "fête des mères"
+   Biscuit roulé à la confiture de framboise spécial "fête des mères"
+   Biscuit roulé
+   Biscuit roulé
+   Biscuits de Noël
+   Biscuits de Noël
+   Biscuits de Noël
+   Biscuits de Noël
+   Biscuit de Noël alsacien
+   Biscuit de Noël alsacien
+   Biscuit Sacher de Noël
+   Biscuit Sacher de Noël
+   Les petits biscuits de Noël
+   Les petits biscuits de Noël
+   Roulés de Noël à la cannelle
+   Roulés de Noël à la cannelle
+   Biscuit roulé facile
+   Biscuit roulé facile
+   Biscuit roulé à l'ananas
+   Biscuit roulé à l'ananas
+   Biscuit roulé à l'orange
+   Biscuit roulé à l'orange
+   Biscuit roulé aux griottes
+   Biscuit roulé aux griottes
+
+Nos suggestions de recettes
+
+     * Biscuits de Noël avec glaçage
+     * Biscuits formes de Noël
+     * Biscuits de Noel alsaciens
+     * Biscuits de Noël à la cannelle
+     * Mr biscuit de Noel
+     * Biscuits de Noël au citron
+     * Biscuits aux épices de Noël
+
+Recette par plat
+
+   Yaourt
+   Yaourt
+
+   Tiramisu
+   Tiramisu
+
+   Tartes
+   Tartes
+
+   Tarte tatin
+   Tarte tatin
+
+   Muffins
+   Muffins
+
+   Mousses
+   Mousses
+
+   Meringue
+   Meringue
+
+   Madeleines
+   Madeleines
+   Voir plus de Recette par plat
+   Macaron, Glace, Gaufres, Gâteaux, Flans, Cupcake, Crumbles, Crêpes,
+   Crème, Panna cotta, Confiserie, Compotes,
+
+Vidéos gourmandes
+
+   Qu'est-ce que le dulce de leche et comment le préparer ?
+   Qu'est-ce que le dulce de leche et comment le préparer ?
+
+   Délicieux bredele : nos recettes de biscuits de Noël alsaciens
+   Délicieux bredele : nos recettes de biscuits de Noël alsaciens
+
+   Biscuit roulé aux fraises : Cyril Lignac dévoile l'astuce de sa maman
+   pour rouler le biscuit sans le casser
+   Biscuit roulé aux fraises : Cyril Lignac dévoile l'astuce de sa maman
+   pour rouler le biscuit sans le casser
+   Voir + de vidéos Cuisine
+
+Des recettes & des astuces pour me régaler
+
+   Je m'inscris aux newsletters
+
+Top recettes
+
+   Authentique et délicieuse mousse au chocolat
+   Authentique et délicieuse mousse au chocolat
+   4.6
+
+   Cookies moelleux américains
+   Cookies moelleux américains
+   4.4
+
+   Fondant au chocolat rapide
+   Fondant au chocolat rapide
+   4.1
+
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+   (BUTTON)
+   Ajouter à mes favoris
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Twitter
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   Abonnement prismashop
+
+   Cuisine Actuelle vous livre toutes ses recettes de cuisine
+
+   ©2024 - Prisma Média - Groupe Vivendi - Tous droits réservés
+     * Conditions générales d'utilisation
+     * Paramétrer vos cookies
+     * Mentions Légales
+     * Charte pour la protection des données
+     * Publicité
+     * Contacts & Crédits
+     * Votre kiosque
+     * Équipe éditoriale
+
+   Fréquentation certifiée par l'OJD
+   facebook instagram pinterest

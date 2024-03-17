@@ -1,0 +1,542 @@
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-KHBLFN
+
+   [caz.svg] [caz-white.svg]
+     * Recettes (BUTTON)
+          +
+               o Catégories
+               o Les bases Les bases
+               o Apéritif Apéritif
+               o Entrées Entrées
+               o Plats Plats
+               o Desserts Desserts
+               o Boissons Boissons
+               o Menu de la semaine Menu de la semaine
+               o Menu de la semaine Batch Cooking Menu de la semaine Batch
+                 Cooking
+               o Ingrédients
+               o Viandes Viandes
+               o Poissons Poissons
+               o Fruits Fruits
+               o Légumes Légumes
+               o Fromage Fromage
+               o Cuisson des aliments Cuisson des aliments
+               o Émissions
+               o Top Chef Top Chef
+               o Tous en Cuisine avec Cyril Lignac Tous en cuisine
+               o Le meilleur Pâtissier Le Meilleur Pâtissier
+               o Le Meilleur Pâtissier les Professionnels Le Meilleur
+                 Pâtissier les Professionnels
+               o RTL Vous Régale RTL vous régale
+               o RTL Nous Voilà Bien RTL Nous voilà bien
+               o Objectif Top Chef Objectif Top Chef
+               o Batch Cooking Batchcooking
+               o RTL L'Astuce du Chef L'astuce du Chef
+               o L'Académie des Gâteaux L'Académie des Gâteaux
+               o Le combat des régions Le combat des régions
+               o La Meilleure Boulangerie de France La meilleure
+                 Boulangerie de France
+               o Snack Masters Snack Masters
+               o Recettes d'hiver
+               o Recettes d'hiver à réaliser en Février avec des aliments
+                 de saison bien sûr ! Recettes de Février
+               o Tartiflette facile et rapide Tartiflette facile et rapide
+               o Recette facile de tarte salée à emporter au bureau Tarte
+                 pour pause déj'
+               o Pâtes à la carbonara et noix de muscade Plats d'hiver en
+                 20 min
+               o Gratin de poireaux aux fruits de mer Gratins hivernaux
+               o soupe a la patate douce Soupes d'hiver express
+               o Recette de crêpe facile Crêpes réconfortantes
+               o Idées de recettes à réaliser en Mars avec des aliments de
+                 saison ! Recettes de Mars
+               o Soupe de butternut Soupe de butternut
+               o blanquette de veau à l'ancienne Blanquette de veau
+               o sauce bechamel Sauce Béchamel maison
+     * Menu (BUTTON)
+          +
+               o Menu sur mesure
+               o Blettes sautées à l'ail Menu vegan du 11 au 15 mars
+               o Tarte aux poireaux et gruyère Menu végé du 11 au 15 mars
+               o Bagels pizza au chorizo Menu étudiant du 11 au 15 mars
+               o Riz cantonnais à l'ananas Menu familial du 11 au 15 mars
+               o Menu pas cher
+               o Paillassons lyonnais de pommes de terre Menu du 11 au 15
+                 mars
+               o pudding salé Menu du 4 au 8 mars
+               o Gratin léger de navets à la crème et au fromage Menu du
+                 26 février au 1 mars
+               o Menu Batch Cooking
+               o beignets de blettes Menu du 11 au 15 mars
+               o Menu Batch Cooking du 4 mars au 8 mars Menu du 4 au 8
+                 mars
+               o Menu Batch Cooking du 26 février au 1er mars Menu du 26
+                 février au 1 mars
+     * Thèmes (BUTTON)
+          +
+               o Robots culinaires
+               o Recettes Thermomix Recettes Thermomix
+               o Recettes Cookeo Recettes Cookeo
+               o Recettes Companion Recettes Companion
+               o Recettes Monsieur Cuisine Recettes Monsieur Cuisine
+               o Recettes Cook Expert Recettes Cook Expert
+               o Recettes KitchenAid Recettes KitchenAid
+               o Recettes à l'extracteur de jus Recettes à l'extracteur de
+                 jus
+               o Recettes Compact Cook Recettes Compact Cook
+               o Les classiques
+               o Recettes traditionnelles Recettes traditionnelles
+               o Recettes pas chères Recettes pas chères
+               o Cuisine régionale Cuisine régionale
+               o Cuisine du monde Cuisine du monde
+               o Cuisine maman / bébé Cuisine maman / bébé
+               o Recettes de chefs Recettes de chefs
+               o Bien manger Bien manger
+               o Recettes faciles et rapides Recettes faciles et rapides
+               o Recettes anti-gaspi Recettes anti-gaspi
+               o Recettes préférées des Français Recettes préférées des
+                 Français
+               o Fêtes
+               o Catégorie plats Ramadan Ramadan
+               o Fête de Pâques Pâques
+               o Fêtes des mères
+               o Halloween Halloween
+               o dinde de thanksgiving Thanksgiving
+               o chapon de noel Recettes de Noël
+               o fête - nouvel an Nouvel An
+               o Epiphanie - galette des rois Galette des Rois
+               o nouvel-an-lunaire Nouvel An lunaire
+               o Comment réchauffer des crêpes ? Chandeleur
+               o beignets Mardi-gras
+               o 15 recettes de poisson blanc Saint-Valentin
+               o Fêtes : gâteaux d'anniversaire Gâteaux d'anniversaire
+               o Minceur
+               o Mousse concombres, crevettes Apéritif minceur
+               o Scampis au beurre allégé Entrées minceur
+               o Soupe de lentilles corail au Monsieur Cuisine Soupes
+                 minceur
+               o Cookies light Desserts minceur
+               o toasts légumes Plats minceur
+               o boisson detox concombre pomme et gingembre Recettes détox
+     * 🧀 Journée du fromage
+     * 🌙 Ramadan (BUTTON)
+          +
+               o Top recettes
+               o Msemen Msemen
+               o Chorba algérienne Chorba algérienne
+               o Tajine au poulet Tajine de poulet aux épices
+               o Houmous libanais Houmous libanais
+               o La véritable recette de couscous La véritable recette de
+                 couscous
+               o brick thon oeuf Bricks au thon et à l'oeuf
+               o Menu Ramadan Menu
+               o dattes ramadan Menu du Ramadan du 11 au 15 mars
+               o idée menu de ramadan Menu spécial Ramadan 2024
+               o Astuces
+               o Ramadan 2024 Quelles sont les dates du Ramadan 2024 ?
+               o idée menu de ramadan Idée de menu complet pour Ramadan
+               o diapo bricks 10 astuces pour réussir ses bricks
+               o épices Quelles épices pour un tajine ?
+               o Comment cuire des pois chiches secs ? Comment cuire des
+                 pois chiches secs ?
+               o conserver la menthe fraiche Comment conserver de la
+                 menthe fraîche ?
+               o Toutes nos recettes
+               o recette ramadan 80 recettes pour fêter le Ramadan
+               o 35 desserts pour le Ramadan 35 desserts pour le Ramadan
+               o Tajine aux lentilles 30 recettes végétariennes pour le
+                 Ramadan
+               o chakchouka 50 idées de plat pour le Ramadan
+               o bricks figues chèvre 30 recettes de bricks pour le
+                 Ramadan
+     * 🐰 Pâques (BUTTON)
+          +
+               o Top recettes
+               o Gigot d'agneau à l'ail
+               o Épaule d'agneau entière rôtie au four
+               o Pâté berrichon ou pâté de Pâques
+               o Gigot d'agneau au four (cuisson lente)
+               o Œufs mimosa au thon de ma grand-mère
+               o Gâteau de pâques au chocolat
+               o Astuces
+               o 5 astuces pour réussir la cuisson du gigot d'agneau
+               o Comment cuire des œufs durs ?
+               o Comment cuire des asperges ?
+               o Comment cuire une souris d'agneau ?
+               o Comment bien choisir sa viande d'agneau ?
+               o Comment faire des oeufs en chocolat sans moule ?
+               o Toutes nos recettes
+               o 100 recettes rapides pour votre repas de pâques
+               o 100 idées pour un repas de Pâques traditionnel
+               o 50 desserts de Pâques facile
+               o 50 idées d'entrées pour pâques 2024
+               o 50 idées d'accompagnements de gigot d'agneau
+     * TopChef Top Chef, saison 15 : le concours culinaire sur M6
+     * Actus (BUTTON)
+          +
+               o Actualités
+               o actu - chaud devant Actualités récentes
+               o Tous des Chefs Actualités des chefs
+               o Aliments
+               o actu - conservation Conservation
+               o actu - cuisson Cuisson
+               o Encyclopedie Glossaire
+               o Conseils
+               o Dessert diététique de pommes et poire au four Suggestions
+                 du chefs
+               o LA technique efficace Apprendre à cuisiner
+
+     * Tous en cuisine Top Chef Objectif Top Chef Le Meilleur Pâtissier
+       Tous des chefs
+
+     * 🌙
+     *
+     * ____________________
+     *
+
+   ____________________ (BUTTON)
+
+    1. Accueil
+
+     Categories
+
+     Desserts
+
+     Cupcakes
+
+     Recette Cupcakes nature
+
+Cupcakes nature
+
+   Cupcakes nature
+   Par catherine
+   50 min
+   Facile
+   € 0,52 €/pers
+   219/pers
+   25 commentaires
+   (BUTTON)
+
+   S’ils ne datent pas d’hier, les cupcakes ont connu une ascension
+   fulgurante dans les années 2000. Indissociables de leurs caissettes en
+   papier, ils se fraient aujourd’hui une place dans les vitrines de tous
+   les coffee shops ! Ces petits gâteaux individuels américains, dont la
+   forme rappelle le muffin, doivent tout leur attrait visuel à leur
+   glaçage spiralé au cream cheese, tantôt pastel tantôt flashy selon leur
+   humeur. Une douceur à croquer avec le thé ou le café au goûter !
+
+Ingrédients :
+
+   (BUTTON) 12 Pers.
+   €   6,24 €
+     * Pour la pâte à Cupcake
+     * Farine de blé Farine de blé 125 g
+     * sucre en poudre Sucre en poudre 100 g
+     * Beurre mou Beurre mou 100 g
+     * Œuf(s) Œuf(s) 2
+     * Levure chimique Levure chimique 0,5 Sachet
+     * Sachet de sucre vanillé Sachet de sucre vanillé 0,5 sachet(s)
+
+     * Pour le glaçage
+     * Philadelphia (ou St Moret) Philadelphia (ou St Moret) 400 g
+     * Sucre glace Sucre glace 150 g
+     * Citron(s) Citron(s) 1
+     * Colorant alimentaire Colorant alimentaire Quelques gouttes
+     * Vermicelle de couleur Vermicelle de couleur 1 poignée(s)
+
+Préparation :
+
+     * Préparation 30 min
+     * Cuisson 20 min
+     * (BUTTON)
+
+     * 1
+       Préchauffez le four th.6 (180°C). Préparez la pâte à cupcakes. Dans
+       un saladier, cassez les œufs. Ajoutez le sucre en poudre, le sucre
+       vanillé et fouettez le mélange pour le faire blanchir. Versez
+       ensuite la farine de blé tamisée avec la levure chimique et remuez
+       avec une cuillère en bois. Faites fondre le beurre à la casserole
+       ou au micro-ondes selon votre préférence. Incorporez-le à la pâte
+       et mélangez bien pour obtenir une texture homogène.
+     * 2
+       Garnissez des moules à muffins de caissettes en papier.
+       Remplissez-les ensuite de pâte aux 2/3 pour permettre la levée des
+       cupcakes à la cuisson sans débordement. Enfournez pour 15 min.
+       Surveillez la cuisson en plantant la lame d’un couteau dans un
+       cupcake : si la lame ressort sèche, c’est cuit. Laissez les
+       cupcakes refroidir à température ambiante.
+     * 3
+       Confectionnez le nappage de vos gourmandises. Dans un saladier,
+       battez au fouet électrique le cream cheese, le jus de citron et le
+       sucre glace pour obtenir une crème bien ferme et lisse. Si vous le
+       souhaitez, ajoutez quelques gouttes de colorant alimentaire à la
+       crème.
+     * 4
+       À l’aide d’une poche à douille ou d’une spatule, étalez le glaçage
+       sur vos cupcakes refroidis. Vous pouvez décorez les cupcakes avec
+       quelques vermicelles ou des fleurs en pâte à sucre. Proposez vos
+       pâtisseries à vos convives pour le goûter, avec un bon thé ou café.
+
+Diététique :
+
+   Cette recette de cupcakes basique est idéale en toute occasion et fait
+   généralement l’unanimité. Pour la rendre plus légère, il est tout à
+   fait possible de diminuer la quantité de sucre dans la recette. La
+   farine blanche peut être remplacée par de la farine semi-complète plus
+   riche en fibres et en minéraux et le beurre peut être remplacé par de
+   l’huile de colza, plus riche en acides gras essentiels à la santé. Pour
+   varier les plaisirs, ne pas hésiter à ajouter des fruits frais à la
+   pâte. Enfin, le nappage au Philadelphia pourra être remplacé par un
+   glaçage au fromage blanc, beaucoup moins riche en graisses et en
+   calories.
+   Café Pas Cher Thé Recettes Etats-unis Dessert pas cher
+
+Astuces
+
+   Des cupcakes avec une touche exotique ? Remplacez 40 g de farine de blé
+   par de la noix de coco en poudre, et troquez le beurre pour de l'huile
+   de coco fondue. Et pour les accros à la coco, optez pour un glaçage à
+   base de lait de coco : il vous suffit de fouetter au batteur électrique
+   50 ml de lait de coco, 75 g de beurre et 200 g de sucre glace. Trop
+   gourmand !
+
+Questions fréquentes
+
+   Peut-on conserver ces cupcakes pendant quelques jours ?
+
+   Oui, vous pouvez conserver vos cupcakes pendant 2 à 3 jours dans un
+   endroit sec. Enroulez-les dans un film alimentaire ou placez-les dans
+   un contenant hermétique. En revanche, nous vous conseillons fortement
+   de préparer le glaçage peu de temps avant de servir vos cupcakes afin
+   que le cream cheese soit bien frais.
+
+   Pourquoi mes cupcakes se sont déformés à la cuisson ?
+
+   Il peut y avoir plusieurs raisons à cela. Il se peut que vous ayez mis
+   trop de levure. Veillez à bien respecter les quantités d’ingrédients
+   précisées dans la recette. Aussi, nous vous conseillons d’utiliser un
+   four à chaleur tournante et de ne pas l’ouvrir pendant la cuisson.
+   Utilisez bien des moules à cupcakes et des caissettes. Cela leur
+   permettra de bien garder leur forme. Et dernière chose, ne remplissez
+   pas trop vos caissettes au risque de voir la pâte déborder pendant la
+   cuisson, ce qui donnera une forme assez particulière à vos cupcakes !
+   Mais ne vous inquiétez pas, ils seront tout aussi bons.
+
+   Comment faire une jolie décoration avec le glaçage ?
+
+   Afin de réaliser de jolis cupcakes, nous vous conseillons fortement
+   d’utiliser une poche à douille. Concernant le choix des douilles, nous
+   vous suggérons les douilles suivantes : 1M en forme d’étoile ouverte,
+   2D en forme d’étoile fermée ou encore la douille toute simple ronde.
+   Réalisez un mouvement circulaire de l’extérieur vers l’intérieur avec
+   votre poche au-dessus de votre cupcake. Il faut que votre glaçage soit
+   assez consistant pour que la forme se tienne bien.
+   Abonnez-vous aux recettes pas chères en Newsletters et recevez
+   Top 30 des recettes Cuisineaz
+   ____________________ OK
+   Top 30 des recettes Cuisineaz
+
+   Votre adresse email sera utilisée par Digital Prisma Players pour vous
+   envoyer votre newsletter contenant des offres commerciales
+   personnalisées. Elle pourra également être transférée à certains de nos
+   partenaires, sous forme pseudonymisée, si vous avez accepté dans notre
+   bandeau cookies que vos données personnelles soient collectées via des
+   traceurs et utilisées à des fins de publicité personnalisée. A tout
+   moment, vous pourrez vous désinscrire en utilisant le lien de
+   désabonnement intégré dans la newsletter et/ou refuser l’utilisation de
+   traceurs via le lien « Préférences Cookies » figurant sur notre
+   service. Pour en savoir plus et exercer vos droits , prenez
+   connaissance de notre Charte de Confidentialité.
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Noter la recette:
+   (BUTTON) ENVOYER
+
+Commentaires :
+
+     * (25)
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Noter la recette:
+   (BUTTON) ENVOYER
+
+   La pâte n’a est montée puis est redescendu la pâte est amer je
+   déconseille
+   Romane
+   15 mars 2023
+   (BUTTON) 0 (BUTTON) 0 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   A déconseiller !!! J'ai fait cette recette et elle n'est pas du tout
+   bonne ! Pâte rigide , gout amer, l' odeurs ne donne pas envie et j'en
+   passe .... Je déconseille vivement cette recette.
+   Nael
+   11 mars 2023
+   (BUTTON) 1 (BUTTON) 0 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Nul, j'ai essayer une première fois ca a fait des trou dedans et
+   deuxième fois rebelote je ne conseille pas cette recette. Je suis très
+   déçu
+   Yannick
+   28 décembre 2022
+   (BUTTON) 0 (BUTTON) 0 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   J'utilise cette recette depuis longtemps et toujours réussie sans
+   problème. Avez-vous bien respecter les dosages ?
+   Kmc
+   18 janvier 2023
+   (BUTTON) 0 (BUTTON) 0 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   je trouve sa vraiment magnifique !!! cela mérite vraiment 5 étoile
+   Alix
+   17 juin 2020
+   (BUTTON) 6 (BUTTON) 3 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Vos avis de gourmands et de passionnés de cuisine sont indispensables
+   pour que nos recettes plaisent! Merci pour tous ces commentaires qui
+   ont permis à l’équipe de CuisineAZ de les améliorer!
+   Equipe CuisineAZ
+   13 juillet 2017
+   (BUTTON) 10 (BUTTON) 9 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   j'ai adoré c'etait trop bon ma famille a gouter elle a dit que c'était
+   merveilleu
+   stephanie
+   01 mai 2017
+   (BUTTON) 7 (BUTTON) 5 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Très sucré, même si je sais que c' est un peu la caractéristique des
+   cupcakes Cependant j' allègerais un peu le tout: moins de beurre, plus
+   de légèreté.
+   la danse des casseroles
+   05 avril 2017
+   (BUTTON) 9 (BUTTON) 5 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Bonne recette! Personnellement, je "crème" mon beurre et mon sucre à
+   grande vitesse pendant 3 ou 4 minutes pour bien aérer la pâte, puis
+   j'ajoute les oeufs toujours à grande vitesse, ensuite j'intègre les
+   ingrédients secs à basse vitesse, cela donne un cupcake très aérien
+   patty
+   05 avril 2017
+   (BUTTON) 9 (BUTTON) 5 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Ce qui m'a attiré vers cette recette c'est le visuel ! Elle donne
+   vraiment envie. Ce qui est bien avec les cupcakes c'est que nous
+   pouvons les décorer comme nous le voulons avec des colorants, des
+   petites décorations alimentaires....
+   Caroline
+   05 avril 2017
+   (BUTTON) 11 (BUTTON) 4 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Pour un goûter au top aussi bon pour les yeux que pour la faim .ces
+   magnifiques cupcakes . Merci pour la recette
+   joel
+   05 avril 2017
+   (BUTTON) 10 (BUTTON) 5 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Facile à réaliser cette recette est moelleuse et une base pour les
+   cupcake. Cela m'a laissé du temps pour la décoration !
+   Dominique
+   05 avril 2017
+   (BUTTON) 8 (BUTTON) 7 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   C'est délicieux merci beaucoup !!!
+   Djoulia
+   25 novembre 2016
+   (BUTTON) 15 (BUTTON) 9 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Vraiment super recette de beau cupcake merci
+   Mikael
+   25 octobre 2016
+   (BUTTON) 8 (BUTTON) 9 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Bonjour! Comme dans cette recette de cupcake il n'y a pas de lait je me
+   demandais pourquoi il n'est pas nécessaire et quel est le mieux, sans
+   ou avec? Merci!
+   Philippine
+   20 mai 2016
+   (BUTTON) 16 (BUTTON) 16 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Sans c'est très bien comme avec !
+   Djoulia
+   25 novembre 2016
+   (BUTTON) 9 (BUTTON) 4 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Super recette! Très bonne et facile pour débuter. J ai juste utilisé de
+   la mascarpone à la place du cream cheese. C était parfait!
+   Caroline
+   23 juin 2015
+   (BUTTON) 57 (BUTTON) 21 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   j'ai testé la recette , se sont les plus moelleux cupcake que j'ai
+   mangé jusqu'a présent , je garde précieusement la recette
+   brigitte
+   20 avril 2015
+   (BUTTON) 43 (BUTTON) 5 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   delicieux et facile
+   Guillaume
+   27 mai 2014
+   (BUTTON) 5 (BUTTON) 4 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   trop bon !!
+   Capucine
+   06 avril 2014
+   (BUTTON) 23 (BUTTON) 26 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Je vais essaier
+   Mimisse
+   14 mars 2014
+   (BUTTON) 22 (BUTTON) 49 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   c'est trop bon je vous le dit
+   Capucine
+   06 avril 2014
+   (BUTTON) 3 (BUTTON) 6 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Ça à l'air très bon! Je vais tester! ;)
+   Justine
+   22 février 2014
+   (BUTTON) 23 (BUTTON) 12 (BUTTON) Signaler un abus (BUTTON) Répondre
+   Plus de commentaires
+
+Recettes similaires :
+
+   Cupcakes au chocolat
+   Cupcakes au chocolat
+   duo de cupcakes moelleux
+   Duo de cupcakes moelleux
+   cupcake vanille
+   Cupcakes au mascarpone goût vanille
+   cupcakes au nutella
+   Cupcakes au Nutella
+   Cupcakes à la vanille
+   Cupcakes à la vanille
+   Cupcakes au Kitchenaid
+   Cupcakes au Kitchenaid
+   cupcake mariée
+   Cupcakes de la mariée
+   Cupcakes au Monsieur Cuisine
+   Cupcakes au Monsieur Cuisine
+   Cupcakes hérissés orange et chocolat
+   Cupcakes hérissés orange et chocolat
+   Cupcakes au citron
+   Cupcakes au citron
+   Haut de page
+
+   PasseportSanté.net Meteocity Deco.fr Fourchette & Bikini
+     * Annonceurs - Publicité
+     * Partenariats
+     * Presse
+
+     * Nous contacter
+     * Mentions légales
+     * Charte de confidentialité
+     * (BUTTON) Paramétrer mes cookies

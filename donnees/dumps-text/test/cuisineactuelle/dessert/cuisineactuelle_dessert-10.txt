@@ -1,0 +1,407 @@
+   #Flux RSS pour cuisineactuelle.fr
+
+   publicité
+
+   Naviguez dans l'univers
+
+   (BUTTON)
+
+   Naviguer dans l'univers
+     __________________________________________________________________
+
+     *
+     *
+
+   (BUTTON)
+   [avatar.svg] Mon profil
+     * Mon carnet de recettes
+     * Gérer mon profil
+     * Mes préférences de communication
+     * Déconnexion
+
+   (BUTTON) Menu Fermer
+   Mon carnet de recettes
+   Se connecter Connexion
+   Mon profil
+    1. Mon carnet de recettes
+    2. Gérer mon profil
+    3. Mes préférences de communication
+    4. Déconnexion
+
+   Toutes vos recettes
+   sauvegardées
+
+   (BUTTON)
+    1. Mon carnet de recettes
+    2. Recettes (BUTTON)
+         1. Recettes par plat
+         2. Apéritif
+         3. Entrée
+         4. Plat
+         5. Dessert
+         6. Boisson
+         7. Sauce
+         8. Pain & viennoiserie
+         1. Recettes par ingrédient
+         2. Légume
+         3. Viande
+         4. Poisson
+         5. Fromage
+         6. Fruit
+         7. Chocolat
+         1. Recettes Santé & allergies
+         2. Minceur
+         3. Végan
+         4. Végétarien
+         5. Sans lactose
+         6. Détox
+         7. Sans sucre
+         8. Sans gluten
+         1. Recettes par thème
+         2. Recettes de bases
+         3. Recettes traditionnelles
+         4. Recettes pas chères
+         5. Recettes faciles
+         6. Recettes rapides
+         7. Recettes de saison
+         8. Recettes pour enfants
+         9. Recettes originales
+    3. Inspirations (BUTTON)
+         1. Cuisine du monde Cuisine du monde
+         1. Cuisine régionale Cuisine régionale
+         1. Fêtes & évènements
+         2. Chandeleur
+         3. Fête des mères
+         4. Mardi gras
+         5. Pâques
+         6. Noël
+         7. Galette des rois
+         8. Ramadan
+         1. Modes de cuisson
+         2. Robots culinaires
+         3. Four
+         4. Cocotte
+         5. Micro-ondes
+         6. Vapeur
+         7. Barbecue
+         8. Wok
+         1. Plus d'idées
+         2. Apéro dînatoire
+         3. Brunch & Petit déjeuner
+         4. Buffet
+         5. Panier pique-nique
+         6. Réception
+         7. Tea time
+         8. Recettes gastronomiques
+         9. Recettes de chefs
+    4. Culture food (BUTTON)
+         1. Idées de menus
+         2. Menu de la semaine
+         3. Idées de repas
+         4. Tendances culinaires
+         1. Guide par ingrédient
+         2. Conservation des aliments
+         3. Tout savoir sur...
+         4. Cuisson des aliments
+         1. Les petits plus en cuisine
+         2. Conseils et astuces
+         3. Anti-gaspi
+         4. Guide d'achat
+         5. Gestes techniques
+         6. Actu food
+         1. Nutrition Nutrition
+         1. Vins et cocktails Vins et cocktails
+    5. Ramadan
+    6. Actu
+    7. Concours
+    8. Recette aléatoire
+    9. S'abonner au magazine
+   10. Newsletter
+
+   S'abonner au magazine
+   Je m'abonne
+   Newsletter
+
+   ____________________
+
+Recherche avancée
+
+   Par prix
+   (*) € ( ) €€ ( ) €€€ ( ) €€€€
+
+   Par note
+   (*) & plus ( ) & plus ( ) & plus ( ) & plus ( )
+
+   Par difficulté
+   (*) Facile ( ) Moyen ( ) Difficile
+   Valider Reset (BUTTON) Réinitialiser
+
+   Trouvez une recette…
+   ____________________
+   Rechercher
+   Rechercher
+
+   ____________________ (BUTTON) Rechercher
+
+   Mon carnet
+
+    1. Accueil
+    2. Recette par plat
+    3. Dessert
+
+   cuisineactuelle.fr
+
+   Gâteau aux poires et aux amandes DEL SOCORRO / SUCRÉ SALÉ
+   Dessert (BUTTON) Être alerté des nouvelles recettes Suivre (BUTTON) Ne
+   plus être alerté Suivi
+
+Gâteau aux poires et aux amandes
+
+   5 /5
+   Donnez votre avis
+
+   15 min
+
+   45 min
+
+   Bon marché
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   (BUTTON) Sauvegarder (BUTTON) Sauvegardé
+   Voir mon carnet de recettes Retirer de ma collection
+   (BUTTON) Imprimer
+   de course
+
+
+Ingrédients
+
+   (BUTTON)
+   4__ personnes
+   (BUTTON)
+     * 4Poires
+     * 3Oeufs
+     * 100g Beurre mou
+     * 10g Pour le moule
+     * 100g Farine
+     * 100g Poudre d’amande
+     * 70g Sucre de canne
+     * 50g Amandes effilées
+     * 1sachet Levure chimique
+
+   Ingrédients
+     * 4Poires
+     * 3Oeufs
+     * 100g Beurre mou
+     * 10g Pour le moule
+     * 100g Farine
+     * 100g Poudre d’amande
+     * 70g Sucre de canne
+     * 50g Amandes effilées
+     * 1sachet Levure chimique
+
+Étapes de préparation
+
+    1. Épluchez et découpez les poires en fines tranches, réservez.
+       Préchauffez le four à 180 °C. (th.6).
+    2. Mélangez dans le bol d’un batteur le beurre avec le sucre,
+       jusqu’à ce que la préparation soit onctueuse. Ajoutez la farine,
+       la levure, la poudre d’amande et les œufs un à un. Fouettez
+       jusqu’à obtenir une pâte homogène.
+    3. Beurrez un moule, versez-y la préparation. Déposez dessus les
+       lamelles de poire et parsemez d’amandes. Enfournez pour 45 min.
+       Servez tiède ou froid.
+
+   Gâteau aux poires et aux amandes
+   (BUTTON) Fermer
+
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+
+Vos commentaires
+
+   • 0
+
+   Photo de l'internaute
+   13/03/2024
+
+   (BUTTON) Modifier
+
+Contenus sponsorisés
+
+Jetez un oeil à ces recettes
+
+   Gâteau végétalien aux amandes et aux poires
+   Gâteau végétalien aux amandes et aux poires
+   4
+
+   Gâteau au yaourt poires amandes
+   Gâteau au yaourt poires amandes
+   4.2
+
+   Ma recette de gâteau au chocolat
+   Ma recette de gâteau au chocolat
+   3.7
+
+Contenus sponsorisés
+
+Encore plus de recettes
+
+   amandes effiléesrecette pas chererecettes d'hiverfruitspoirerecette
+   d'hivergâteauDessert
+
+     * (BUTTON) Je sauvegarde
+       Sauvegardé
+     * (BUTTON) Je cuisine
+     * (BUTTON) Les ingrédients
+
+   Gâteau au yaourt poires amandes
+
+   Gâteau au yaourt poires amandes
+   4.2
+
+Découvrez aussi...
+
+   Gâteau amandes, poires et chocolat
+   Gâteau amandes, poires et chocolat
+   Recette smoothie hiver
+   Recette smoothie hiver
+   Poires pochées au chocolat et aux amandes effilées
+   Poires pochées au chocolat et aux amandes effilées
+   Tuiles aux amandes : recette express
+   Tuiles aux amandes : recette express
+   Recette smoothie lait d'amande
+   Recette smoothie lait d'amande
+   Gratin poire - chocolat - amandes effilées
+   Gratin poire - chocolat - amandes effilées
+   Gâteau chocolat framboises et amandes effilées
+   Gâteau chocolat framboises et amandes effilées
+   Recette gâteau Halloween au chocolat
+   Recette gâteau Halloween au chocolat
+   Gâteau de semoule: La meilleure recette
+   Gâteau de semoule: La meilleure recette
+   Recette gâteau châtaigne corse
+   Recette gâteau châtaigne corse
+   Recette Thermomix gâteau de semoule
+   Recette Thermomix gâteau de semoule
+   Recette Thermomix gâteau au yaourt
+   Recette Thermomix gâteau au yaourt
+   Recette gâteau magique à la vanille
+   Recette gâteau magique à la vanille
+   La recette du topping poire et pépites de chocolat
+   La recette du topping poire et pépites de chocolat
+   Recette salade de fruits
+   Recette salade de fruits
+   Gâteau aux amandes
+   Gâteau aux amandes
+
+Nos suggestions de recettes
+
+     * Gâteau aux amandes
+     * Gâteau aux poires
+     * Gâteau à l'amande
+     * Gâteau aux amandes
+     * Gâteau à l'amande
+     * Gâteau renversé à l'ananas : La meilleure recette
+     * Gâteau carotte : recette originale à la suisse
+
+Recette par plat
+
+   Jus de fruits
+   Jus de fruits
+
+   Jus de légumes
+   Jus de légumes
+
+   Cocktail sans alcool
+   Cocktail sans alcool
+
+   Yaourt
+   Yaourt
+
+   Vinaigrette
+   Vinaigrette
+
+   Verrines
+   Verrines
+
+   Tourtes
+   Tourtes
+
+   Tortilla
+   Tortilla
+   Voir plus de Recette par plat
+   Toasts, Tiramisu, Terrines, Tartiflettes, Tartares, Tartes, Tarte
+   tatin, Tapas, Tajines, Sushis, Soupes, Smoothie,
+
+Vidéos gourmandes
+
+   Gâteau moelleux aux poires et aux amandes : la recette rapide de
+   Laurent Mariotte
+   Gâteau moelleux aux poires et aux amandes : la recette rapide de
+   Laurent Mariotte
+
+   Gâteaux aux poires : nos meilleures recettes
+   Gâteaux aux poires : nos meilleures recettes
+
+   Gâteau poire noisettes et chocolat : la recette simple comme bonjour
+   Gâteau poire noisettes et chocolat : la recette simple comme bonjour
+   Voir + de vidéos Cuisine
+
+Des recettes & des astuces pour me régaler
+
+   Je m'inscris aux newsletters
+
+Top recettes
+
+   Authentique et délicieuse mousse au chocolat
+   Authentique et délicieuse mousse au chocolat
+   4.6
+
+   Cookies moelleux américains
+   Cookies moelleux américains
+   4.4
+
+   Fondant au chocolat rapide
+   Fondant au chocolat rapide
+   4.1
+
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+   (BUTTON)
+   Ajouter à mes favoris
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Twitter
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   Abonnement prismashop
+
+   Cuisine Actuelle vous livre toutes ses recettes de cuisine
+
+   ©2024 - Prisma Média - Groupe Vivendi - Tous droits réservés
+     * Conditions générales d'utilisation
+     * Paramétrer vos cookies
+     * Mentions Légales
+     * Charte pour la protection des données
+     * Publicité
+     * Contacts & Crédits
+     * Votre kiosque
+     * Équipe éditoriale
+
+   Fréquentation certifiée par l'OJD
+   facebook instagram pinterest

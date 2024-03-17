@@ -1,0 +1,432 @@
+   #Flux RSS pour cuisineactuelle.fr
+
+   publicité
+
+   Naviguez dans l'univers
+
+   (BUTTON)
+
+   Naviguer dans l'univers
+     __________________________________________________________________
+
+     *
+     *
+
+   (BUTTON)
+   [avatar.svg] Mon profil
+     * Mon carnet de recettes
+     * Gérer mon profil
+     * Mes préférences de communication
+     * Déconnexion
+
+   (BUTTON) Menu Fermer
+   Mon carnet de recettes
+   Se connecter Connexion
+   Mon profil
+    1. Mon carnet de recettes
+    2. Gérer mon profil
+    3. Mes préférences de communication
+    4. Déconnexion
+
+   Toutes vos recettes
+   sauvegardées
+
+   (BUTTON)
+    1. Mon carnet de recettes
+    2. Recettes (BUTTON)
+         1. Recettes par plat
+         2. Apéritif
+         3. Entrée
+         4. Plat
+         5. Dessert
+         6. Boisson
+         7. Sauce
+         8. Pain & viennoiserie
+         1. Recettes par ingrédient
+         2. Légume
+         3. Viande
+         4. Poisson
+         5. Fromage
+         6. Fruit
+         7. Chocolat
+         1. Recettes Santé & allergies
+         2. Minceur
+         3. Végan
+         4. Végétarien
+         5. Sans lactose
+         6. Détox
+         7. Sans sucre
+         8. Sans gluten
+         1. Recettes par thème
+         2. Recettes de bases
+         3. Recettes traditionnelles
+         4. Recettes pas chères
+         5. Recettes faciles
+         6. Recettes rapides
+         7. Recettes de saison
+         8. Recettes pour enfants
+         9. Recettes originales
+    3. Inspirations (BUTTON)
+         1. Cuisine du monde Cuisine du monde
+         1. Cuisine régionale Cuisine régionale
+         1. Fêtes & évènements
+         2. Chandeleur
+         3. Fête des mères
+         4. Mardi gras
+         5. Pâques
+         6. Noël
+         7. Galette des rois
+         8. Ramadan
+         1. Modes de cuisson
+         2. Robots culinaires
+         3. Four
+         4. Cocotte
+         5. Micro-ondes
+         6. Vapeur
+         7. Barbecue
+         8. Wok
+         1. Plus d'idées
+         2. Apéro dînatoire
+         3. Brunch & Petit déjeuner
+         4. Buffet
+         5. Panier pique-nique
+         6. Réception
+         7. Tea time
+         8. Recettes gastronomiques
+         9. Recettes de chefs
+    4. Culture food (BUTTON)
+         1. Idées de menus
+         2. Menu de la semaine
+         3. Idées de repas
+         4. Tendances culinaires
+         1. Guide par ingrédient
+         2. Conservation des aliments
+         3. Tout savoir sur...
+         4. Cuisson des aliments
+         1. Les petits plus en cuisine
+         2. Conseils et astuces
+         3. Anti-gaspi
+         4. Guide d'achat
+         5. Gestes techniques
+         6. Actu food
+         1. Nutrition Nutrition
+         1. Vins et cocktails Vins et cocktails
+    5. Ramadan
+    6. Actu
+    7. Concours
+    8. Recette aléatoire
+    9. S'abonner au magazine
+   10. Newsletter
+
+   S'abonner au magazine
+   Je m'abonne
+   Newsletter
+
+   ____________________
+
+Recherche avancée
+
+   Par prix
+   (*) € ( ) €€ ( ) €€€ ( ) €€€€
+
+   Par note
+   (*) & plus ( ) & plus ( ) & plus ( ) & plus ( )
+
+   Par difficulté
+   (*) Facile ( ) Moyen ( ) Difficile
+   Valider Reset (BUTTON) Réinitialiser
+
+   Trouvez une recette…
+   ____________________
+   Rechercher
+   Rechercher
+
+   ____________________ (BUTTON) Rechercher
+
+   Mon carnet
+
+    1. Accueil
+    2. Recette par plat
+    3. Plat
+
+   cuisineactuelle.fr
+
+   Endives caramélisées au miel, boudins blancs grillés et pignons Chemin
+   / Saveurs / Sunray Photo
+   caramelisé (BUTTON) Être alerté des nouvelles recettes Suivre (BUTTON)
+   Ne plus être alerté Suivi
+
+Endives caramélisées au miel, boudins blancs grillés et pignons
+
+   3 /5 1 note
+   Lire l'avis
+
+   20 min
+
+   30 min
+
+   Bon marché
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   (BUTTON) Sauvegarder (BUTTON) Sauvegardé
+   Voir mon carnet de recettes Retirer de ma collection
+   (BUTTON) Imprimer
+   de course
+
+
+Ingrédients
+
+   (BUTTON)
+   4__ personnes
+   (BUTTON)
+     * 2Boudins blancs
+     * 4Endives blanches
+     * 1Endive rouge
+     * 40g Beurre
+     * 50g Pignons
+     * 1Cuil à soupe de miel
+     * Fleur de sel
+     * Poivre
+
+   Ingrédients
+     * 2Boudins blancs
+     * 4Endives blanches
+     * 1Endive rouge
+     * 40g Beurre
+     * 50g Pignons
+     * 1Cuil à soupe de miel
+     * Fleur de sel
+     * Poivre
+
+Étapes de préparation
+
+    1. Faites torréfier les pignons à sec dans une poêle, réservez.
+       Retirez les feuilles abîmées et le cœur des endives. Découpez les
+       endives blanches en quatre dans le sens de la longueur.
+    2. Faites fondre la moitié du beurre dans une poêle et déposez les
+       endives blanches. Faites-les dorer doucement, ajoutez 4 cuil. à
+       soupe d’eau et le miel, salez, poivrez et baissez le feu. Laissez
+       mijoter doucement pendant 15 à 20 min : les endives doivent être
+       tendres et translucides, et il doit rester un peu de jus dans le
+       fond de la poêle. Réservez au chaud.
+    3. Faites pocher les boudins blancs dans de l’eau bouillante pendant 5
+       min. Égouttez-les, retirez leur boyau et découpez-les en tranches
+       d’environ 2 cm d’épaisseur. Faites fondre le reste de beurre dans
+       une poêle et faites-y dorer quelques instants les tranches de
+       boudin sur leurs deux faces. Salez, poivrez.
+    4. Déposez les endives avec leur jus de cuisson dans des assiettes.
+       Répartissez les tranches de boudin blanc, parsemez de pignons et
+       d’endive rouge crue détaillée très finement dans le sens de la
+       longueur. Servez sans attendre.
+
+   Endives caramélisées au miel, boudins blancs grillés et pignons
+   (BUTTON) Fermer
+   Juliette Tercaefs
+
+Astuces et conseils pour Endives caramélisées au miel, boudins blancs grillés
+et pignons
+
+   Découvrez également notre recette d'endives au jambon.
+   (BUTTON) Voir plus Voir moins
+
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+
+Vos commentaires
+
+   • 1
+   Photo de l'internaute
+   11/01/2024
+
+   Cuire les endives à couvert?
+   (BUTTON) Modifier
+
+   Photo de l'internaute
+   13/03/2024
+
+   Cuire les endives à couvert?
+   (BUTTON) Modifier
+   Photo de l'internaute
+   13/03/2024
+
+   (BUTTON) Modifier
+
+Contenus sponsorisés
+
+Jetez un oeil à ces recettes
+
+   Recette boudin blanc maison
+   Recette boudin blanc maison
+   2.5
+
+   Recette endive végétarienne
+   Recette endive végétarienne
+   2.7
+
+   Recettes avec endives et carottes
+   Recettes avec endives et carottes
+   3.3
+
+Contenus sponsorisés
+
+Encore plus de recettes
+
+   caramelisésucré salémielrecettes de Noëlendivepignonsrecettes
+   d'hiverrecette d'hiverboudin blancRecette de NoëlPlat
+
+     * (BUTTON) Je sauvegarde
+       Sauvegardé
+     * (BUTTON) Je cuisine
+     * (BUTTON) Les ingrédients
+
+   Recette endive végétarienne
+
+   Recette endive végétarienne
+   2.7
+
+Découvrez aussi...
+
+   Recette Noël Thermomix
+   Recette Noël Thermomix
+   Huîtres de Noël au boudin blanc
+   Huîtres de Noël au boudin blanc
+   Endives au jambon : la meilleure recette
+   Endives au jambon : la meilleure recette
+   Salade d'endives la meilleure recette
+   Salade d'endives la meilleure recette
+   Recette smoothie hiver
+   Recette smoothie hiver
+   Recette ravioli chèvre miel
+   Recette ravioli chèvre miel
+   recette blanc de poulet farci
+   recette blanc de poulet farci
+   Feuilleté de boudin blanc sucré salé
+   Feuilleté de boudin blanc sucré salé
+   La vraie recette des biscuits de Noël américains
+   La vraie recette des biscuits de Noël américains
+   Boudin blanc
+   Boudin blanc
+   Recette de mafé
+   Recette de mafé
+   Recette de coleslaw
+   Recette de coleslaw
+   Recette de la ratatouille
+   Recette de la ratatouille
+   Recette risotto
+   Recette risotto
+   Recette des cygnes
+   Recette des cygnes
+
+Nos suggestions de recettes
+
+     * Recette des makrouts
+     * Boudin blanc de Noël, salade de mâche et truffes
+     * Pastilla au boudin noir, pommes, pignons, raisins et miel
+     * Brioche au sucre: La meilleure recette
+     * Tarte aux endives caramélisées
+     * Friand au boudin blanc
+     * Boudin blanc du Mans
+
+Recette par plat
+
+   Jus de fruits
+   Jus de fruits
+
+   Jus de légumes
+   Jus de légumes
+
+   Cocktail sans alcool
+   Cocktail sans alcool
+
+   Yaourt
+   Yaourt
+
+   Vinaigrette
+   Vinaigrette
+
+   Verrines
+   Verrines
+
+   Tourtes
+   Tourtes
+
+   Tortilla
+   Tortilla
+   Voir plus de Recette par plat
+   Toasts, Tiramisu, Terrines, Tartiflettes, Tartares, Tartes, Tarte
+   tatin, Tapas, Tajines, Sushis, Soupes, Smoothie,
+
+Vidéos gourmandes
+
+   Entrée de Noël express en 30 minutes : la recette pas chère du
+   feuilleté au boudin blanc
+   Entrée de Noël express en 30 minutes : la recette pas chère du
+   feuilleté au boudin blanc
+
+   Boudin blanc : options de cuisson, astuces, recettes... tout savoir !
+   Boudin blanc : options de cuisson, astuces, recettes... tout savoir !
+
+   Comment enlever l'amertume des endives (+ la recette des endives au
+   jambon)
+   Comment enlever l'amertume des endives (+ la recette des endives au
+   jambon)
+   Voir + de vidéos Cuisine
+
+Des recettes & des astuces pour me régaler
+
+   Je m'inscris aux newsletters
+
+Top recettes
+
+   Saumon en papillote
+   Saumon en papillote
+   4.1
+
+   Nouilles sautées au poulet
+   Nouilles sautées au poulet
+   4.3
+
+   Saucisse lentille cookeo
+   Saucisse lentille cookeo
+   4.2
+
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+   (BUTTON)
+   Ajouter à mes favoris
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Twitter
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   Abonnement prismashop
+
+   Cuisine Actuelle vous livre toutes ses recettes de cuisine
+
+   ©2024 - Prisma Média - Groupe Vivendi - Tous droits réservés
+     * Conditions générales d'utilisation
+     * Paramétrer vos cookies
+     * Mentions Légales
+     * Charte pour la protection des données
+     * Publicité
+     * Contacts & Crédits
+     * Votre kiosque
+     * Équipe éditoriale
+
+   Fréquentation certifiée par l'OJD
+   facebook instagram pinterest

@@ -1,0 +1,420 @@
+   #Flux RSS pour cuisineactuelle.fr
+
+   publicité
+
+   Naviguez dans l'univers
+
+   (BUTTON)
+
+   Naviguer dans l'univers
+     __________________________________________________________________
+
+     *
+     *
+
+   (BUTTON)
+   [avatar.svg] Mon profil
+     * Mon carnet de recettes
+     * Gérer mon profil
+     * Mes préférences de communication
+     * Déconnexion
+
+   (BUTTON) Menu Fermer
+   Mon carnet de recettes
+   Se connecter Connexion
+   Mon profil
+    1. Mon carnet de recettes
+    2. Gérer mon profil
+    3. Mes préférences de communication
+    4. Déconnexion
+
+   Toutes vos recettes
+   sauvegardées
+
+   (BUTTON)
+    1. Mon carnet de recettes
+    2. Recettes (BUTTON)
+         1. Recettes par plat
+         2. Apéritif
+         3. Entrée
+         4. Plat
+         5. Dessert
+         6. Boisson
+         7. Sauce
+         8. Pain & viennoiserie
+         1. Recettes par ingrédient
+         2. Légume
+         3. Viande
+         4. Poisson
+         5. Fromage
+         6. Fruit
+         7. Chocolat
+         1. Recettes Santé & allergies
+         2. Minceur
+         3. Végan
+         4. Végétarien
+         5. Sans lactose
+         6. Détox
+         7. Sans sucre
+         8. Sans gluten
+         1. Recettes par thème
+         2. Recettes de bases
+         3. Recettes traditionnelles
+         4. Recettes pas chères
+         5. Recettes faciles
+         6. Recettes rapides
+         7. Recettes de saison
+         8. Recettes pour enfants
+         9. Recettes originales
+    3. Inspirations (BUTTON)
+         1. Cuisine du monde Cuisine du monde
+         1. Cuisine régionale Cuisine régionale
+         1. Fêtes & évènements
+         2. Chandeleur
+         3. Fête des mères
+         4. Mardi gras
+         5. Pâques
+         6. Noël
+         7. Galette des rois
+         8. Ramadan
+         1. Modes de cuisson
+         2. Robots culinaires
+         3. Four
+         4. Cocotte
+         5. Micro-ondes
+         6. Vapeur
+         7. Barbecue
+         8. Wok
+         1. Plus d'idées
+         2. Apéro dînatoire
+         3. Brunch & Petit déjeuner
+         4. Buffet
+         5. Panier pique-nique
+         6. Réception
+         7. Tea time
+         8. Recettes gastronomiques
+         9. Recettes de chefs
+    4. Culture food (BUTTON)
+         1. Idées de menus
+         2. Menu de la semaine
+         3. Idées de repas
+         4. Tendances culinaires
+         1. Guide par ingrédient
+         2. Conservation des aliments
+         3. Tout savoir sur...
+         4. Cuisson des aliments
+         1. Les petits plus en cuisine
+         2. Conseils et astuces
+         3. Anti-gaspi
+         4. Guide d'achat
+         5. Gestes techniques
+         6. Actu food
+         1. Nutrition Nutrition
+         1. Vins et cocktails Vins et cocktails
+    5. Ramadan
+    6. Actu
+    7. Concours
+    8. Recette aléatoire
+    9. S'abonner au magazine
+   10. Newsletter
+
+   S'abonner au magazine
+   Je m'abonne
+   Newsletter
+
+   ____________________
+
+Recherche avancée
+
+   Par prix
+   (*) € ( ) €€ ( ) €€€ ( ) €€€€
+
+   Par note
+   (*) & plus ( ) & plus ( ) & plus ( ) & plus ( )
+
+   Par difficulté
+   (*) Facile ( ) Moyen ( ) Difficile
+   Valider Reset (BUTTON) Réinitialiser
+
+   Trouvez une recette…
+   ____________________
+   Rechercher
+   Rechercher
+
+   ____________________ (BUTTON) Rechercher
+
+   Mon carnet
+
+    1. Accueil
+    2. Recette par plat
+    3. Dessert
+    4. Tartes
+
+   cuisineactuelle.fr
+
+   Dessert (BUTTON) Être alerté des nouvelles recettes Suivre (BUTTON) Ne
+   plus être alerté Suivi
+
+Tarte au fromage parfumée au citron
+
+   5 /5
+   Donnez votre avis
+
+   25 min
+
+   50 min
+
+   Bon marché
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   (BUTTON) Sauvegarder (BUTTON) Sauvegardé
+   Voir mon carnet de recettes Retirer de ma collection
+   (BUTTON) Imprimer (BUTTON) Voir la photo
+   de course
+
+
+Ingrédients
+
+   (BUTTON)
+   4__ personnes
+   (BUTTON)
+     * 1Citron bio
+     * 4Oeufs
+     * 300g Fromage blanc
+     * 150g Fromage frais à tartiner
+     * 25cl Lait fermenté
+     * 15g Beurre
+     * 1Pâte brisée
+     * 125g Sucre semoule
+     * 50g Fécule de pomme de terre
+     * 25g Farine
+     * 1cuil. à soupe Sucre glace
+     * 1pincée Sel
+
+   Ingrédients
+     * 1Citron bio
+     * 4Oeufs
+     * 300g Fromage blanc
+     * 150g Fromage frais à tartiner
+     * 25cl Lait fermenté
+     * 15g Beurre
+     * 1Pâte brisée
+     * 125g Sucre semoule
+     * 50g Fécule de pomme de terre
+     * 25g Farine
+     * 1cuil. à soupe Sucre glace
+     * 1pincée Sel
+
+Étapes de préparation
+
+    1. Préchauffez le four à 180 °C (th.6). Étalez la pâte au rouleau et
+       foncez-en un moule à tarte beurré. Piquez le fond de pâte avec une
+       fourchette.
+    2. Travaillez le fromage blanc avec le fromage frais au batteur, tout
+       en incorporant les jaunes d’œufs, puis enfin le sucre semoule.
+       Ajoutez la fécule et la farine, ainsi que le lait fermenté et le
+       zeste du citron râpé finement.
+    3. Montez les blancs et le sel en neige ferme avec le batteur.
+       Incorporez-la délicatement à l’appareil précédent, jusqu’à ce qu’il
+       n’y ait plus de grumeaux.
+    4. Versez sur le fond de tarte et enfournez pour 50 min, jusqu’à ce
+       que le dessus de la tarte soit doré et la pâte bien croustillante.
+    5. Renversez délicatement la tarte sur une grille à gâteau et
+       laissez-la refroidir. Replacez-la à l’endroit et saupoudrez-la de
+       sucre glace.
+
+   Tarte au fromage parfumée au citron © Radvaner / Sucré Salé
+   Tarte au fromage parfumée au citron
+   (BUTTON) Fermer
+
+Astuces et conseils pour Tarte au fromage parfumée au citron
+
+   Variante : remplacez le fromage blanc par de la ricotta et le fromage
+   frais par du mascarpone. Ajoutez un trait de liqueur de citron et si
+   vous en avez la possibilité, remplacez le zeste de citron par celui
+   d’un demi-cédrat.
+   (BUTTON) Voir plus Voir moins
+
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+
+Vos commentaires
+
+   • 0
+
+   Photo de l'internaute
+   13/03/2024
+
+   (BUTTON) Modifier
+
+Contenus sponsorisés
+
+Jetez un oeil à ces recettes
+
+   Gâteau au fromage blanc au citron
+   Gâteau au fromage blanc au citron
+   4
+
+   Gâteau au fromage blanc et au citron
+   Gâteau au fromage blanc et au citron
+   2.5
+
+   Gâteau au citron et fromage blanc
+   Gâteau au citron et fromage blanc
+   2
+
+Contenus sponsorisés
+
+Encore plus de recettes
+
+   recette pas cherefromage blancgâteaufromage
+   fraisagrumescitronpâtisseriepâte briséeTartesDessert
+
+     * (BUTTON) Je sauvegarde
+       Sauvegardé
+     * (BUTTON) Je cuisine
+     * (BUTTON) Les ingrédients
+
+   Gâteau au fromage blanc et au citron
+
+   Gâteau au fromage blanc et au citron
+   2.5
+
+Découvrez aussi...
+
+   Gâteau au fromage et au citron
+   Gâteau au fromage et au citron
+   Agrumes au fromage blanc
+   Agrumes au fromage blanc
+   Gâteau au fromage blanc, spéculoos et citron
+   Gâteau au fromage blanc, spéculoos et citron
+   Confits de citron au fromage frais
+   Confits de citron au fromage frais
+   Tarte au fromage et aux agrumes
+   Tarte au fromage et aux agrumes
+   Fromage frais parfumé aux herbes
+   Fromage frais parfumé aux herbes
+   Tarte au fromage frais
+   Tarte au fromage frais
+   Tarte au fromage blanc
+   Tarte au fromage blanc
+   Gâteau au fromage blanc
+   Gâteau au fromage blanc
+   Gâteau au fromage blanc
+   Gâteau au fromage blanc
+   Tarte au fromage blanc
+   Tarte au fromage blanc
+   Tarte au fromage blanc
+   Tarte au fromage blanc
+
+Nos suggestions de recettes
+
+     * Gâteau au fromage blanc sans pâte
+     * Tarte aux crudités et fromage frais
+     * Gâteau de Pâques fromage blanc-citron et gelée de mangue
+     * Gâteau de fromage frais aux kiwis
+     * Gâteau de mortadelle au fromage frais
+     * Tarte aux courgettes et au fromage frais
+     * Tarte aux poivrons et fromage frais
+
+Recette par plat
+
+   Yaourt
+   Yaourt
+
+   Tiramisu
+   Tiramisu
+
+   Tarte tatin
+   Tarte tatin
+
+   Muffins
+   Muffins
+
+   Mousses
+   Mousses
+
+   Meringue
+   Meringue
+
+   Madeleines
+   Madeleines
+
+   Macaron
+   Macaron
+   Voir plus de Recette par plat
+   Glace, Gaufres, Gâteaux, Flans, Cupcake, Crumbles, Crêpes, Crème, Panna
+   cotta, Confiserie, Compotes, Cookies,
+
+Vidéos gourmandes
+
+   Cyril Lignac : sa recette de tarte aux champignons et fromages à la
+   pâte filo
+   Cyril Lignac : sa recette de tarte aux champignons et fromages à la
+   pâte filo
+
+   Quel fromage frais pour quelle utilisation ?
+   Quel fromage frais pour quelle utilisation ?
+
+   3 recettes d'apéro express avec du fromage frais
+   3 recettes d'apéro express avec du fromage frais
+   Voir + de vidéos Cuisine
+
+Des recettes & des astuces pour me régaler
+
+   Je m'inscris aux newsletters
+
+Top recettes
+
+   Authentique et délicieuse mousse au chocolat
+   Authentique et délicieuse mousse au chocolat
+   4.6
+
+   Cookies moelleux américains
+   Cookies moelleux américains
+   4.4
+
+   Fondant au chocolat rapide
+   Fondant au chocolat rapide
+   4.1
+
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+   (BUTTON)
+   Ajouter à mes favoris
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Twitter
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   Abonnement prismashop
+
+   Cuisine Actuelle vous livre toutes ses recettes de cuisine
+
+   ©2024 - Prisma Média - Groupe Vivendi - Tous droits réservés
+     * Conditions générales d'utilisation
+     * Paramétrer vos cookies
+     * Mentions Légales
+     * Charte pour la protection des données
+     * Publicité
+     * Contacts & Crédits
+     * Votre kiosque
+     * Équipe éditoriale
+
+   Fréquentation certifiée par l'OJD
+   facebook instagram pinterest

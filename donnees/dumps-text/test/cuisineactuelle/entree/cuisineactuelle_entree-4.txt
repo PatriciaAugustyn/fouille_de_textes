@@ -1,0 +1,442 @@
+   #Flux RSS pour cuisineactuelle.fr
+
+   publicité
+
+   Naviguez dans l'univers
+
+   (BUTTON)
+
+   Naviguer dans l'univers
+     __________________________________________________________________
+
+     *
+     *
+
+   (BUTTON)
+   [avatar.svg] Mon profil
+     * Mon carnet de recettes
+     * Gérer mon profil
+     * Mes préférences de communication
+     * Déconnexion
+
+   (BUTTON) Menu Fermer
+   Mon carnet de recettes
+   Se connecter Connexion
+   Mon profil
+    1. Mon carnet de recettes
+    2. Gérer mon profil
+    3. Mes préférences de communication
+    4. Déconnexion
+
+   Toutes vos recettes
+   sauvegardées
+
+   (BUTTON)
+    1. Mon carnet de recettes
+    2. Recettes (BUTTON)
+         1. Recettes par plat
+         2. Apéritif
+         3. Entrée
+         4. Plat
+         5. Dessert
+         6. Boisson
+         7. Sauce
+         8. Pain & viennoiserie
+         1. Recettes par ingrédient
+         2. Légume
+         3. Viande
+         4. Poisson
+         5. Fromage
+         6. Fruit
+         7. Chocolat
+         1. Recettes Santé & allergies
+         2. Minceur
+         3. Végan
+         4. Végétarien
+         5. Sans lactose
+         6. Détox
+         7. Sans sucre
+         8. Sans gluten
+         1. Recettes par thème
+         2. Recettes de bases
+         3. Recettes traditionnelles
+         4. Recettes pas chères
+         5. Recettes faciles
+         6. Recettes rapides
+         7. Recettes de saison
+         8. Recettes pour enfants
+         9. Recettes originales
+    3. Inspirations (BUTTON)
+         1. Cuisine du monde Cuisine du monde
+         1. Cuisine régionale Cuisine régionale
+         1. Fêtes & évènements
+         2. Chandeleur
+         3. Fête des mères
+         4. Mardi gras
+         5. Pâques
+         6. Noël
+         7. Galette des rois
+         8. Ramadan
+         1. Modes de cuisson
+         2. Robots culinaires
+         3. Four
+         4. Cocotte
+         5. Micro-ondes
+         6. Vapeur
+         7. Barbecue
+         8. Wok
+         1. Plus d'idées
+         2. Apéro dînatoire
+         3. Brunch & Petit déjeuner
+         4. Buffet
+         5. Panier pique-nique
+         6. Réception
+         7. Tea time
+         8. Recettes gastronomiques
+         9. Recettes de chefs
+    4. Culture food (BUTTON)
+         1. Idées de menus
+         2. Menu de la semaine
+         3. Idées de repas
+         4. Tendances culinaires
+         1. Guide par ingrédient
+         2. Conservation des aliments
+         3. Tout savoir sur...
+         4. Cuisson des aliments
+         1. Les petits plus en cuisine
+         2. Conseils et astuces
+         3. Anti-gaspi
+         4. Guide d'achat
+         5. Gestes techniques
+         6. Actu food
+         1. Nutrition Nutrition
+         1. Vins et cocktails Vins et cocktails
+    5. Ramadan
+    6. Actu
+    7. Concours
+    8. Recette aléatoire
+    9. S'abonner au magazine
+   10. Newsletter
+
+   S'abonner au magazine
+   Je m'abonne
+   Newsletter
+
+   ____________________
+
+Recherche avancée
+
+   Par prix
+   (*) € ( ) €€ ( ) €€€ ( ) €€€€
+
+   Par note
+   (*) & plus ( ) & plus ( ) & plus ( ) & plus ( )
+
+   Par difficulté
+   (*) Facile ( ) Moyen ( ) Difficile
+   Valider Reset (BUTTON) Réinitialiser
+
+   Trouvez une recette…
+   ____________________
+   Rechercher
+   Rechercher
+
+   ____________________ (BUTTON) Rechercher
+
+   Mon carnet
+
+    1. Accueil
+    2. Recette par plat
+    3. Entrée
+    4. Tartares
+
+   cuisineactuelle.fr
+
+Tartare de saumon sur carpaccio de noix de saint-jacques
+
+   4.9 /5 229 notes
+   Lire l'avis
+
+   20 min
+
+   Assez cher
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   (BUTTON) Sauvegarder (BUTTON) Sauvegardé
+   Voir mon carnet de recettes Retirer de ma collection
+   (BUTTON) Imprimer (BUTTON) Voir la photo
+   de course
+
+
+Ingrédients
+
+   (BUTTON)
+   2__ personnes
+   (BUTTON)
+     * 8Noix de saint Jacques sans corail
+     * 400g Saumon très frais(pavés de saumon)
+     * 2échalotes
+     * 1Petit concombre
+     * 1cuil. à soupe Jus de citron
+     * 1Petit bouquet de ciboulette
+     * 1cuil. à soupe Huile d'olive
+     * 1Filet pour le carpaccio
+     * 1Petite cuillère de caviar(facultatif)
+     * 1cuil. à café Grains de sésame
+     * Sel
+     * Poivre
+     * Calories = Elevé
+
+   Ingrédients
+     * 8Noix de saint Jacques sans corail
+     * 400g Saumon très frais(pavés de saumon)
+     * 2échalotes
+     * 1Petit concombre
+     * 1cuil. à soupe Jus de citron
+     * 1Petit bouquet de ciboulette
+     * 1cuil. à soupe Huile d'olive
+     * 1Filet pour le carpaccio
+     * 1Petite cuillère de caviar(facultatif)
+     * 1cuil. à café Grains de sésame
+     * Sel
+     * Poivre
+     * Calories = Elevé
+
+Étapes de préparation
+
+    1. Réalisez le carpaccio de Saint-jacques : détaillez les noix de
+       Saint-Jacques en très fines lamelles à l'aide d'un couteau très
+       aiguisé. Disposez les lamelles des 4 premières Saint-Jacques sur
+       une assiette de service, et les autres sur une seconde assiette.
+    2. Arrosez-les d'un filet d'huile d'olive et réservez-les au frais.
+    3. Réalisez le tartare : Détaillez le saumon en fines lamelles.
+       Coupez-les ensuite en petits dés, si possible de taille régulière.
+    4. Ciselez la ciboulette. Placez-la dans un saladier, et ajoutez le
+       jus du citron et l'huile d'olive. Salez, poivrez, et mélangez
+       vivement.
+    5. Ciselez les échalotes. Pelez le concombre et coupez-le en 2 dans le
+       sens de la longueur. A l'aide d'une cuillère à café, grattez les
+       graines au centre du concombre pour les éliminer. Détaillez le
+       concombre en tout petits dés.
+    6. Ajoutes les dés de saumon crus dans le saladier, ainsi que les
+       échalotes et les dés de concombre. Parsemez de grains de sésame et
+       mélangez longuement.
+    7. A l'aide d'une grande cuillère, déposez le tartare de saumon au
+       coeur de l'assiette, sur le carpaccio de saint-Jacques.
+    8. Décorez éventuellement de caviar.
+    9. Si possible, réfrigérez 30 min avant de servir.
+
+   Tartare de saumon sur carpaccio de noix de saint-jacques © Veigas /
+   Sucré Salé
+   Tartare de saumon sur carpaccio de noix de saint-jacques
+   (BUTTON) Fermer
+   Hortense Allain-Launay
+
+Astuces et conseils pour Tartare de saumon sur carpaccio de noix de
+saint-jacques
+
+   Remplacez le caviar par des oeufs de lump noirs, bien moins chers !
+   (BUTTON) Voir plus Voir moins
+
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+
+Vos commentaires
+
+   • 1
+   Photo de l'internaute
+   15/12/2022
+
+   Recette coupee a droite !!!!!
+   (BUTTON) Modifier
+
+   Photo de l'internaute
+   13/03/2024
+
+   Recette coupee a droite !!!!!
+   (BUTTON) Modifier
+   Photo de l'internaute
+   13/03/2024
+
+   (BUTTON) Modifier
+
+Contenus sponsorisés
+
+Jetez un oeil à ces recettes
+
+   Carpaccio de noix de Saint-Jacques
+   Carpaccio de noix de Saint-Jacques
+   5
+
+   Tartare aux noix de Saint-Jacques
+   Tartare aux noix de Saint-Jacques
+   3
+
+   Tartare de saumon et Saint-Jacques
+   Tartare de saumon et Saint-Jacques
+   3.7
+
+Contenus sponsorisés
+
+Encore plus de recettes
+
+   TartaresPlatSaumonCoquille Saint-JacquesRéceptionCarpaccios
+
+     * (BUTTON) Je sauvegarde
+       Sauvegardé
+     * (BUTTON) Je cuisine
+     * (BUTTON) Les ingrédients
+
+   Tartare aux noix de Saint-Jacques
+
+   Tartare aux noix de Saint-Jacques
+   3.0
+
+Découvrez aussi...
+
+   Carpaccio de noix de saint-jacques et crevettes
+   Carpaccio de noix de saint-jacques et crevettes
+   Carpaccio de noix de Saint-Jacques au citron
+   Carpaccio de noix de Saint-Jacques au citron
+   Tartare de noix de Saint-Jacques et litchis
+   Tartare de noix de Saint-Jacques et litchis
+   Carpaccio de Saint-Jacques
+   Carpaccio de Saint-Jacques
+   Carpaccio de Saint-Jacques
+   Carpaccio de Saint-Jacques
+   Carpaccio de Saint-Jacques
+   Carpaccio de Saint-Jacques
+   Tartares de saumon et Saint-Jacques à la truffe
+   Tartares de saumon et Saint-Jacques à la truffe
+   Tartare de Saint-Jacques
+   Tartare de Saint-Jacques
+   Aumônière de saumon aux noix de Saint-Jacques
+   Aumônière de saumon aux noix de Saint-Jacques
+   Carpaccio de saint-jacques, caviar citron et son tartare marin
+   Carpaccio de saint-jacques, caviar citron et son tartare marin
+   Carpaccio de Saint-Jacques à l'orange
+   Carpaccio de Saint-Jacques à l'orange
+   Carpaccio de Saint-Jacques à la truffe
+   Carpaccio de Saint-Jacques à la truffe
+   Carpaccio de Saint-Jacques à la mangue
+   Carpaccio de Saint-Jacques à la mangue
+
+Nos suggestions de recettes
+
+     * Carpaccio de saint-jacques aux agrumes
+     * Carpaccio de saint-jacques au yuzu
+     * Carpaccio de Saint-Jacques exotique
+     * Carpaccio de Saint-Jacques au naturel
+     * Carpaccio de Saint-Jacques de Laeticia
+     * Carpaccio de Saint-Jacques aux huîtres
+     * Carpaccio de Saint-Jacques à la mangue
+
+Recette par plat
+
+   Verrines
+   Verrines
+
+   Terrines
+   Terrines
+
+   Sushis
+   Sushis
+
+   Soupes
+   Soupes
+
+   Tartines salées
+   Tartines salées
+
+   Tartes salées
+   Tartes salées
+
+   Salades
+   Salades
+
+   Quiches
+   Quiches
+   Voir plus de Recette par plat
+   Gaspachos, Foie gras, Feuilletés, Carpaccios, Bricks, Aumônières,
+
+Vidéos gourmandes
+
+   Noix de Saint-Jacques et saumon fumé aux baies roses : la recette
+   facile de Cyril Lignac
+   Noix de Saint-Jacques et saumon fumé aux baies roses : la recette
+   facile de Cyril Lignac
+
+   Tartare de saumon : toutes les astuces pour le réussir
+   Tartare de saumon : toutes les astuces pour le réussir
+
+   Comment cuisiner les noix de Saint-Jacques fraîches ou surgelées ?
+   Comment cuisiner les noix de Saint-Jacques fraîches ou surgelées ?
+   Voir + de vidéos Cuisine
+
+Des recettes & des astuces pour me régaler
+
+   Je m'inscris aux newsletters
+
+Top recettes
+
+   Quiche aux poireaux
+   Quiche aux poireaux
+   4
+
+   Brick aux épinards et chèvre
+   Brick aux épinards et chèvre
+   4.3
+
+   Endivettes apéro
+   Endivettes apéro
+   4.3
+
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+   (BUTTON)
+   Ajouter à mes favoris
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Twitter
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+
+Mots Clés
+
+   Andouillette recette Caille au four au lard et aux fruits secs Corail
+   saint jacques Carpaccio de saumon cepes farcis cuisine bresilienne
+   recettes Plat espagnole Mojito framboises recette moules a la plancha
+   tartare de saumon frais tartare de saumon fume Tartare de courgettes
+   tartare de saumon cru Recette avocat saumon Toasts au fromage de chèvre
+   et figues
+   Abonnement prismashop
+
+   Cuisine Actuelle vous livre toutes ses recettes de cuisine
+
+   ©2024 - Prisma Média - Groupe Vivendi - Tous droits réservés
+     * Conditions générales d'utilisation
+     * Paramétrer vos cookies
+     * Mentions Légales
+     * Charte pour la protection des données
+     * Publicité
+     * Contacts & Crédits
+     * Votre kiosque
+     * Équipe éditoriale
+
+   Fréquentation certifiée par l'OJD
+   facebook instagram pinterest

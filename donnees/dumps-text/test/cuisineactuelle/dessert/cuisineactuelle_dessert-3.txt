@@ -1,0 +1,493 @@
+   #Flux RSS pour cuisineactuelle.fr
+
+   publicité
+
+   Naviguez dans l'univers
+
+   (BUTTON)
+
+   Naviguer dans l'univers
+     __________________________________________________________________
+
+     *
+     *
+
+   (BUTTON)
+   [avatar.svg] Mon profil
+     * Mon carnet de recettes
+     * Gérer mon profil
+     * Mes préférences de communication
+     * Déconnexion
+
+   (BUTTON) Menu Fermer
+   Mon carnet de recettes
+   Se connecter Connexion
+   Mon profil
+    1. Mon carnet de recettes
+    2. Gérer mon profil
+    3. Mes préférences de communication
+    4. Déconnexion
+
+   Toutes vos recettes
+   sauvegardées
+
+   (BUTTON)
+    1. Mon carnet de recettes
+    2. Recettes (BUTTON)
+         1. Recettes par plat
+         2. Apéritif
+         3. Entrée
+         4. Plat
+         5. Dessert
+         6. Boisson
+         7. Sauce
+         8. Pain & viennoiserie
+         1. Recettes par ingrédient
+         2. Légume
+         3. Viande
+         4. Poisson
+         5. Fromage
+         6. Fruit
+         7. Chocolat
+         1. Recettes Santé & allergies
+         2. Minceur
+         3. Végan
+         4. Végétarien
+         5. Sans lactose
+         6. Détox
+         7. Sans sucre
+         8. Sans gluten
+         1. Recettes par thème
+         2. Recettes de bases
+         3. Recettes traditionnelles
+         4. Recettes pas chères
+         5. Recettes faciles
+         6. Recettes rapides
+         7. Recettes de saison
+         8. Recettes pour enfants
+         9. Recettes originales
+    3. Inspirations (BUTTON)
+         1. Cuisine du monde Cuisine du monde
+         1. Cuisine régionale Cuisine régionale
+         1. Fêtes & évènements
+         2. Chandeleur
+         3. Fête des mères
+         4. Mardi gras
+         5. Pâques
+         6. Noël
+         7. Galette des rois
+         8. Ramadan
+         1. Modes de cuisson
+         2. Robots culinaires
+         3. Four
+         4. Cocotte
+         5. Micro-ondes
+         6. Vapeur
+         7. Barbecue
+         8. Wok
+         1. Plus d'idées
+         2. Apéro dînatoire
+         3. Brunch & Petit déjeuner
+         4. Buffet
+         5. Panier pique-nique
+         6. Réception
+         7. Tea time
+         8. Recettes gastronomiques
+         9. Recettes de chefs
+    4. Culture food (BUTTON)
+         1. Idées de menus
+         2. Menu de la semaine
+         3. Idées de repas
+         4. Tendances culinaires
+         1. Guide par ingrédient
+         2. Conservation des aliments
+         3. Tout savoir sur...
+         4. Cuisson des aliments
+         1. Les petits plus en cuisine
+         2. Conseils et astuces
+         3. Anti-gaspi
+         4. Guide d'achat
+         5. Gestes techniques
+         6. Actu food
+         1. Nutrition Nutrition
+         1. Vins et cocktails Vins et cocktails
+    5. Ramadan
+    6. Actu
+    7. Concours
+    8. Recette aléatoire
+    9. S'abonner au magazine
+   10. Newsletter
+
+   S'abonner au magazine
+   Je m'abonne
+   Newsletter
+
+   ____________________
+
+Recherche avancée
+
+   Par prix
+   (*) € ( ) €€ ( ) €€€ ( ) €€€€
+
+   Par note
+   (*) & plus ( ) & plus ( ) & plus ( ) & plus ( )
+
+   Par difficulté
+   (*) Facile ( ) Moyen ( ) Difficile
+   Valider Reset (BUTTON) Réinitialiser
+
+   Trouvez une recette…
+   ____________________
+   Rechercher
+   Rechercher
+
+   ____________________ (BUTTON) Rechercher
+
+   Mon carnet
+
+    1. Accueil
+    2. Recette par plat
+    3. Dessert
+    4. Gâteaux
+
+   cuisineactuelle.fr
+
+   Dessert (BUTTON) Être alerté des nouvelles recettes Suivre (BUTTON) Ne
+   plus être alerté Suivi
+
+Rainbow cake facile
+
+   4.8 /5 583 notes
+   Lire les 4 avis
+
+   1 h
+
+   30 min
+
+   Bon marché
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   (BUTTON) Sauvegarder (BUTTON) Sauvegardé
+   Voir mon carnet de recettes Retirer de ma collection
+   (BUTTON) Imprimer (BUTTON) Voir la photo
+   de course
+
+
+Ingrédients
+
+   (BUTTON)
+   8__ personnes
+   (BUTTON)
+   Pour les génoises
+     * 400g Farine
+     * 200g Beurre à température ambiante
+     * 180g Sucre en poudre
+     * 6Oeufs
+     * 1sachet Levure chimique
+     * 25cl Lait
+     * Calories = Elevé
+
+   Pour la chantilly
+     * 500g Crème liquide entière bien froide
+     * 250g Mascarpone
+     * 100g Sucre en poudre
+     * 1cuil. à café Vanille en grains
+     * Calories = Elevé
+
+   Ingrédients
+   Pour les génoises
+     * 400g Farine
+     * 200g Beurre à température ambiante
+     * 180g Sucre en poudre
+     * 6Oeufs
+     * 1sachet Levure chimique
+     * 25cl Lait
+     * Calories = Elevé
+
+   Pour la chantilly
+     * 500g Crème liquide entière bien froide
+     * 250g Mascarpone
+     * 100g Sucre en poudre
+     * 1cuil. à café Vanille en grains
+     * Calories = Elevé
+
+Étapes de préparation
+
+    1. Préchauffez le four à 180 °C.
+    2. Mélangez la farine et la levure.
+    3. Fouettez le beurre mou avec le sucre en poudre dans un saladier
+       pour obtenir une pommade. Ajoutez les œufs un à un en mélangeant et
+       incorporez la farine, puis le lait. Séparez la pâte en 6 en vous
+       aidant d’une balance pour plus de précision.
+    4. Colorez chaque pâte à l’aide de colorants alimentaires pour obtenir
+       les couleurs de l’arc en ciel : violet, bleu, vert, jaune, orange
+       et rouge.
+    5. Versez dans des moules à manqué beurrés d’environ 20 cm de diamètre
+       et enfourner 10 min environ. Laissez refroidir et démoulez
+       délicatement.
+    6. Fouettez la crème liquide et le mascarpone en chantilly dans un
+       saladier en ajoutant le sucre lorsque le mélange commence à
+       épaissir.
+    7. Déposez le cercle rouge sur une assiette de présentation.
+       Tartinez-le de crème chantilly et poursuivez de la même façon avec
+       les cercles orange, jaune, vert, bleu, violet. Terminez en
+       recouvrant entièrement le gâteau de chantilly.
+
+   Rainbow cake facile © Tombini/Sucré salé
+   Rainbow cake facile
+   (BUTTON) Fermer
+   Quitterie Pasquesoone
+
+Astuces et conseils pour Rainbow cake facile
+
+   Gardez au frais jusqu'au moment de servir.
+   (BUTTON) Voir plus Voir moins
+
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+
+Vos commentaires
+
+   • 4
+   Photo de l'internaute
+   06/11/2022
+
+   Je ne l'ai pas encore goûté mais je suis déçue, j'ai pris un moule de
+   20 Cm de diamètre comme indiqué et mes couches sont d'une épaisseur
+   ridicule...
+   (BUTTON) Modifier
+   Photo de l'internaute
+   29/09/2022
+
+   super sympa :)
+   La rédaction
+
+   Merci
+   (BUTTON) Modifier
+   Photo de l'internaute
+   01/10/2021
+
+   aucun
+   (BUTTON) Modifier
+   Photo de l'internaute
+   14/04/2020
+
+   Super!
+   (BUTTON) Modifier
+
+   Photo de l'internaute
+   13/03/2024
+
+   Je ne l'ai pas encore goûté mais je suis déçue, j'ai pris un moule de
+   20 Cm de diamètre comme indiqué et mes couches sont d'une épaisseur
+   ridicule...
+   (BUTTON) Modifier
+   Photo de l'internaute
+   13/03/2024
+
+   super sympa :)
+   (BUTTON) Modifier
+   Photo de l'internaute
+   13/03/2024
+
+   aucun
+   (BUTTON) Modifier
+   Photo de l'internaute
+   13/03/2024
+
+   Super!
+   (BUTTON) Modifier
+   Photo de l'internaute
+   13/03/2024
+
+   (BUTTON) Modifier
+
+Contenus sponsorisés
+
+Jetez un oeil à ces recettes
+
+   Rainbow cake facile
+   Rainbow cake facile
+   3.2
+
+   Rainbow cake
+   Rainbow cake
+   3.3
+
+   Rainbow cake
+   Rainbow cake
+   4.7
+
+Contenus sponsorisés
+
+Encore plus de recettes
+
+   Gâteaux
+
+     * (BUTTON) Je sauvegarde
+       Sauvegardé
+     * (BUTTON) Je cuisine
+     * (BUTTON) Les ingrédients
+
+   Rainbow cake
+
+   Rainbow cake
+   3.3
+
+Découvrez aussi...
+
+   Rainbow cake de crêpes
+   Rainbow cake de crêpes
+   Rainbow cake bowl
+   Rainbow cake bowl
+   Rainbow cake acidulé
+   Rainbow cake acidulé
+   Rainbow cake spécial anniversaire
+   Rainbow cake spécial anniversaire
+   Rainbow cake chocolat blanc
+   Rainbow cake chocolat blanc
+   Rainbow esquimau
+   Rainbow esquimau
+   Rainbow shots
+   Rainbow shots
+   Sablés rainbow
+   Sablés rainbow
+   Rainbow bowl à la semoule
+   Rainbow bowl à la semoule
+   Rainbow tarte aux légumes
+   Rainbow tarte aux légumes
+   Cake au thon facile
+   Cake au thon facile
+   Cake aux olives facile
+   Cake aux olives facile
+   Carrot cake facile
+   Carrot cake facile
+   Layer cake facile
+   Layer cake facile
+   Cake facile au cacao
+   Cake facile au cacao
+   Pop cakes faciles
+   Pop cakes faciles
+
+Nos suggestions de recettes
+
+     * Cake au Nutella facile
+     * Cake marbré facile
+     * Cake aux olives facile
+     * Cake pops facile
+     * Carrot cake : la recette facile
+     * Cake à l’oignon et au fromage facile
+     * Cakes à la noix de coco facile
+
+Recette par plat
+
+   Yaourt
+   Yaourt
+
+   Tiramisu
+   Tiramisu
+
+   Tartes
+   Tartes
+
+   Tarte tatin
+   Tarte tatin
+
+   Muffins
+   Muffins
+
+   Mousses
+   Mousses
+
+   Meringue
+   Meringue
+
+   Madeleines
+   Madeleines
+   Voir plus de Recette par plat
+   Macaron, Glace, Gaufres, Flans, Cupcake, Crumbles, Crêpes, Crème, Panna
+   cotta, Confiserie, Compotes, Cookies,
+
+Vidéos gourmandes
+
+   Qu'est-ce qu'un layer cake ? (+ l'astuce pour un layer cake facile et
+   délicieux !)
+   Qu'est-ce qu'un layer cake ? (+ l'astuce pour un layer cake facile et
+   délicieux !)
+
+   Le cookie cake totalement dément et ultra facile
+   Le cookie cake totalement dément et ultra facile
+
+   Le cake au citron facile et ultra-gourmand de Jeffrey Cagnes
+   Le cake au citron facile et ultra-gourmand de Jeffrey Cagnes
+   Voir + de vidéos Cuisine
+
+Des recettes & des astuces pour me régaler
+
+   Je m'inscris aux newsletters
+
+Top recettes
+
+   Authentique et délicieuse mousse au chocolat
+   Authentique et délicieuse mousse au chocolat
+   4.6
+
+   Cookies moelleux américains
+   Cookies moelleux américains
+   4.4
+
+   Fondant au chocolat rapide
+   Fondant au chocolat rapide
+   4.1
+
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+   (BUTTON)
+   Ajouter à mes favoris
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Twitter
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+
+Mots Clés
+
+   caramel laitier colombo de poisson cuisson courgette ronde couscous
+   vegetarien recette crevette creme fraiche crevette aigre douce bonnes
+   recettes recette créole briochettes aux pépites de chocolat cabillaud
+   en papillotte magrets de canard aux figues gateau avec 100g de chocolat
+   guacamole recette facile recette lapin en gelée confiture de papaye
+   tarte saumon asperges sabayon citron sable confiture salade de mangue
+   sauce à la moutarde recette soufflé potiron tagliatelles de courgettes
+   verrine tzatziki foie gras maison video
+   Abonnement prismashop
+
+   Cuisine Actuelle vous livre toutes ses recettes de cuisine
+
+   ©2024 - Prisma Média - Groupe Vivendi - Tous droits réservés
+     * Conditions générales d'utilisation
+     * Paramétrer vos cookies
+     * Mentions Légales
+     * Charte pour la protection des données
+     * Publicité
+     * Contacts & Crédits
+     * Votre kiosque
+     * Équipe éditoriale
+
+   Fréquentation certifiée par l'OJD
+   facebook instagram pinterest

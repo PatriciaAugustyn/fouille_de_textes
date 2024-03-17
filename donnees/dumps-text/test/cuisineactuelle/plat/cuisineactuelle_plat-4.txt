@@ -1,0 +1,454 @@
+   #Flux RSS pour cuisineactuelle.fr
+
+   publicité
+
+   Naviguez dans l'univers
+
+   (BUTTON)
+
+   Naviguer dans l'univers
+     __________________________________________________________________
+
+     *
+     *
+
+   (BUTTON)
+   [avatar.svg] Mon profil
+     * Mon carnet de recettes
+     * Gérer mon profil
+     * Mes préférences de communication
+     * Déconnexion
+
+   (BUTTON) Menu Fermer
+   Mon carnet de recettes
+   Se connecter Connexion
+   Mon profil
+    1. Mon carnet de recettes
+    2. Gérer mon profil
+    3. Mes préférences de communication
+    4. Déconnexion
+
+   Toutes vos recettes
+   sauvegardées
+
+   (BUTTON)
+    1. Mon carnet de recettes
+    2. Recettes (BUTTON)
+         1. Recettes par plat
+         2. Apéritif
+         3. Entrée
+         4. Plat
+         5. Dessert
+         6. Boisson
+         7. Sauce
+         8. Pain & viennoiserie
+         1. Recettes par ingrédient
+         2. Légume
+         3. Viande
+         4. Poisson
+         5. Fromage
+         6. Fruit
+         7. Chocolat
+         1. Recettes Santé & allergies
+         2. Minceur
+         3. Végan
+         4. Végétarien
+         5. Sans lactose
+         6. Détox
+         7. Sans sucre
+         8. Sans gluten
+         1. Recettes par thème
+         2. Recettes de bases
+         3. Recettes traditionnelles
+         4. Recettes pas chères
+         5. Recettes faciles
+         6. Recettes rapides
+         7. Recettes de saison
+         8. Recettes pour enfants
+         9. Recettes originales
+    3. Inspirations (BUTTON)
+         1. Cuisine du monde Cuisine du monde
+         1. Cuisine régionale Cuisine régionale
+         1. Fêtes & évènements
+         2. Chandeleur
+         3. Fête des mères
+         4. Mardi gras
+         5. Pâques
+         6. Noël
+         7. Galette des rois
+         8. Ramadan
+         1. Modes de cuisson
+         2. Robots culinaires
+         3. Four
+         4. Cocotte
+         5. Micro-ondes
+         6. Vapeur
+         7. Barbecue
+         8. Wok
+         1. Plus d'idées
+         2. Apéro dînatoire
+         3. Brunch & Petit déjeuner
+         4. Buffet
+         5. Panier pique-nique
+         6. Réception
+         7. Tea time
+         8. Recettes gastronomiques
+         9. Recettes de chefs
+    4. Culture food (BUTTON)
+         1. Idées de menus
+         2. Menu de la semaine
+         3. Idées de repas
+         4. Tendances culinaires
+         1. Guide par ingrédient
+         2. Conservation des aliments
+         3. Tout savoir sur...
+         4. Cuisson des aliments
+         1. Les petits plus en cuisine
+         2. Conseils et astuces
+         3. Anti-gaspi
+         4. Guide d'achat
+         5. Gestes techniques
+         6. Actu food
+         1. Nutrition Nutrition
+         1. Vins et cocktails Vins et cocktails
+    5. Ramadan
+    6. Actu
+    7. Concours
+    8. Recette aléatoire
+    9. S'abonner au magazine
+   10. Newsletter
+
+   S'abonner au magazine
+   Je m'abonne
+   Newsletter
+
+   ____________________
+
+Recherche avancée
+
+   Par prix
+   (*) € ( ) €€ ( ) €€€ ( ) €€€€
+
+   Par note
+   (*) & plus ( ) & plus ( ) & plus ( ) & plus ( )
+
+   Par difficulté
+   (*) Facile ( ) Moyen ( ) Difficile
+   Valider Reset (BUTTON) Réinitialiser
+
+   Trouvez une recette…
+   ____________________
+   Rechercher
+   Rechercher
+
+   ____________________ (BUTTON) Rechercher
+
+   Mon carnet
+
+    1. Accueil
+    2. Recette par plat
+    3. Plat
+
+   cuisineactuelle.fr
+
+   magret de canard (BUTTON) Être alerté des nouvelles recettes Suivre
+   (BUTTON) Ne plus être alerté Suivi
+
+Sauté de dinde au paprika et poivron rouge
+
+   4.9 /5 836 notes
+   Lire les 3 avis
+
+   15 min
+
+   15 min
+
+   Bon marché
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   (BUTTON) Sauvegarder (BUTTON) Sauvegardé
+   Voir mon carnet de recettes Retirer de ma collection
+   (BUTTON) Imprimer (BUTTON) Voir la photo
+   de course
+
+
+Ingrédients
+
+   (BUTTON)
+   4__ personnes
+   (BUTTON)
+     * 400g Filets de dinde
+     * 2Poivrons rouges
+     * 1Petit piment rouge(facultatif)
+     * 1cuil. à soupe Rase de paprika en poudre
+     * 1Oignon
+     * 1gousse Ail
+     * 25g Beurre
+     * 25cl Lait de coco
+     * 1cuil. à soupe Sauce soja salée
+     * Calories = Moyen
+
+   Ingrédients
+     * 400g Filets de dinde
+     * 2Poivrons rouges
+     * 1Petit piment rouge(facultatif)
+     * 1cuil. à soupe Rase de paprika en poudre
+     * 1Oignon
+     * 1gousse Ail
+     * 25g Beurre
+     * 25cl Lait de coco
+     * 1cuil. à soupe Sauce soja salée
+     * Calories = Moyen
+
+Étapes de préparation
+
+    1. Pelez et hachez l'oignon et l'ail. Coupez les poivrons et éliminez
+       leurs coeurs, leurs petites graines et toutes les parties blanches.
+       Coupez-les ensuite en fines lanières et réservez.
+    2. Coupez les blancs de dinde en lanières également, de la taille et
+       de l'épaisseur d'un index. Eliminez les graines du petit piment
+       rouge et hachez-le finement.
+    3. Faites chauffer le beurre dans une grande sauteuse sur feu vif.
+       Faites-y dorer l'oignon et l'ail, puis ajoutez les morceaux de
+       dinde et laissez-les colorer quelques instants en mélangeant.
+       Ajoutez les lanières de poivron et le piment. Faites sauter le tout
+       quelques instants, puis versez le lait de coco, la sauce soja et le
+       paprika, et baissez le feu. Couvrez et laissez mijoter 10 min à
+       petits bouillons, avant de servir, par exemple avec un riz rouge.
+
+   Sauté de dinde au paprika et poivron rouge © Studio / Sucré Salé
+   Sauté de dinde au paprika et poivron rouge
+   (BUTTON) Fermer
+   Hortense Allain-Launay
+
+Astuces et conseils pour Sauté de dinde au paprika et poivron rouge
+
+   Pensez à bien vous laver les mains après avoir manipulé le piment !
+
+   Découvrez aussi notre recette de sauté de dinde aux poivrons et
+   paprika.
+   (BUTTON) Voir plus Voir moins
+
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+
+Vos commentaires
+
+   • 3
+   Photo de l'internaute
+   13/12/2023
+
+   Cétraibon en vré.
+   (BUTTON) Modifier
+   Photo de l'internaute
+   18/10/2023
+
+   super recette. un vrai régal accompagné de riz.
+   (BUTTON) Modifier
+   Photo de l'internaute
+   12/03/2023
+
+   recette onctueuse et savoureuse pour la cuisson j'ai favorisé l'huile
+   de pepin de raisin et ajouter une cuillière à soupe de paprika ainsi
+   que pour la sauce soja parfait
+   (BUTTON) Modifier
+
+   Photo de l'internaute
+   13/03/2024
+
+   Cétraibon en vré.
+   (BUTTON) Modifier
+   Photo de l'internaute
+   13/03/2024
+
+   super recette. un vrai régal accompagné de riz.
+   (BUTTON) Modifier
+   Photo de l'internaute
+   13/03/2024
+
+   recette onctueuse et savoureuse pour la cuisson j'ai favorisé l'huile
+   de pepin de raisin et ajouter une cuillière à soupe de paprika ainsi
+   que pour la sauce soja parfait
+   (BUTTON) Modifier
+   Photo de l'internaute
+   13/03/2024
+
+   (BUTTON) Modifier
+
+Contenus sponsorisés
+
+Jetez un oeil à ces recettes
+
+   Sauté de dinde aux poivrons et paprika
+   Sauté de dinde aux poivrons et paprika
+   4
+
+   Calamars sautés aux poivrons et au paprika
+   Calamars sautés aux poivrons et au paprika
+   2.9
+
+   Magret de canard aux pommes sautées
+   Magret de canard aux pommes sautées
+   5
+
+Contenus sponsorisés
+
+Encore plus de recettes
+
+   magret de canardPlatPoivronPrintempsDindeEté
+
+     * (BUTTON) Je sauvegarde
+       Sauvegardé
+     * (BUTTON) Je cuisine
+     * (BUTTON) Les ingrédients
+
+   Calamars sautés aux poivrons et au paprika
+
+   Calamars sautés aux poivrons et au paprika
+   2.9
+
+Découvrez aussi...
+
+   Sauté de dinde aux courgettes, poivron rouge, tomates au multicuiseur
+   Sauté de dinde aux courgettes, poivron rouge, tomates au multicuiseur
+   Magret de canard au chou rouge
+   Magret de canard au chou rouge
+   Magrets de canard aux fruits rouges
+   Magrets de canard aux fruits rouges
+   Brochettes de dinde au paprika
+   Brochettes de dinde au paprika
+   Sauté de bœuf au paprika
+   Sauté de bœuf au paprika
+   Sauté de dinde
+   Sauté de dinde
+   Magret de canard et pommes de terre sautées
+   Magret de canard et pommes de terre sautées
+   Magret de canard et pommes de terre sautées
+   Magret de canard et pommes de terre sautées
+   Magret de canard
+   Magret de canard
+   Magret de canard
+   Magret de canard
+   Magret de canard
+   Magret de canard
+   Sauté de boeuf sauce au paprika
+   Sauté de boeuf sauce au paprika
+
+Nos suggestions de recettes
+
+     * Sauté de dinde au curry
+     * Sauté de dinde au Cookeo
+     * Sauté de dinde Thermomix
+     * Sauté de dinde express
+     * Sauté de dinde à la Provencale
+     * Sauté de dinde aux champignons
+     * Magret de canard à la poêle
+
+Recette par plat
+
+   Jus de fruits
+   Jus de fruits
+
+   Jus de légumes
+   Jus de légumes
+
+   Cocktail sans alcool
+   Cocktail sans alcool
+
+   Yaourt
+   Yaourt
+
+   Vinaigrette
+   Vinaigrette
+
+   Verrines
+   Verrines
+
+   Tourtes
+   Tourtes
+
+   Tortilla
+   Tortilla
+   Voir plus de Recette par plat
+   Toasts, Tiramisu, Terrines, Tartiflettes, Tartares, Tartes, Tarte
+   tatin, Tapas, Tajines, Sushis, Soupes, Smoothie,
+
+Vidéos gourmandes
+
+   Comment saisir un magret de canard ?
+   Comment saisir un magret de canard ?
+
+   Comment cuire un magret de canard ?
+   Comment cuire un magret de canard ?
+
+   Quelle est la meilleure cuisson du magret de canard ?
+   Quelle est la meilleure cuisson du magret de canard ?
+   Voir + de vidéos Cuisine
+
+Des recettes & des astuces pour me régaler
+
+   Je m'inscris aux newsletters
+
+Top recettes
+
+   Saumon en papillote
+   Saumon en papillote
+   4.1
+
+   Nouilles sautées au poulet
+   Nouilles sautées au poulet
+   4.3
+
+   Saucisse lentille cookeo
+   Saucisse lentille cookeo
+   4.2
+
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+   (BUTTON)
+   Ajouter à mes favoris
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Twitter
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+
+Mots Clés
+
+   recette taboulé menthe Plat d ete compote d abricot croissant au beurre
+   Gratin de cougettes Le petit cake au citron, aux myrtilles et au pavot
+   sans beurre Nougat noir recette Recette pizza jambon fromage quatre
+   quart aux pommes Riz sauce soja Tarte Pomme, Sirop d'érable et
+   cranberries Tarte soufflée à la fourme Tournedos rossini recette
+   cupcake nutella
+   Abonnement prismashop
+
+   Cuisine Actuelle vous livre toutes ses recettes de cuisine
+
+   ©2024 - Prisma Média - Groupe Vivendi - Tous droits réservés
+     * Conditions générales d'utilisation
+     * Paramétrer vos cookies
+     * Mentions Légales
+     * Charte pour la protection des données
+     * Publicité
+     * Contacts & Crédits
+     * Votre kiosque
+     * Équipe éditoriale
+
+   Fréquentation certifiée par l'OJD
+   facebook instagram pinterest

@@ -1,0 +1,411 @@
+   #Flux RSS pour cuisineactuelle.fr
+
+   publicité
+
+   Naviguez dans l'univers
+
+   (BUTTON)
+
+   Naviguer dans l'univers
+     __________________________________________________________________
+
+     *
+     *
+
+   (BUTTON)
+   [avatar.svg] Mon profil
+     * Mon carnet de recettes
+     * Gérer mon profil
+     * Mes préférences de communication
+     * Déconnexion
+
+   (BUTTON) Menu Fermer
+   Mon carnet de recettes
+   Se connecter Connexion
+   Mon profil
+    1. Mon carnet de recettes
+    2. Gérer mon profil
+    3. Mes préférences de communication
+    4. Déconnexion
+
+   Toutes vos recettes
+   sauvegardées
+
+   (BUTTON)
+    1. Mon carnet de recettes
+    2. Recettes (BUTTON)
+         1. Recettes par plat
+         2. Apéritif
+         3. Entrée
+         4. Plat
+         5. Dessert
+         6. Boisson
+         7. Sauce
+         8. Pain & viennoiserie
+         1. Recettes par ingrédient
+         2. Légume
+         3. Viande
+         4. Poisson
+         5. Fromage
+         6. Fruit
+         7. Chocolat
+         1. Recettes Santé & allergies
+         2. Minceur
+         3. Végan
+         4. Végétarien
+         5. Sans lactose
+         6. Détox
+         7. Sans sucre
+         8. Sans gluten
+         1. Recettes par thème
+         2. Recettes de bases
+         3. Recettes traditionnelles
+         4. Recettes pas chères
+         5. Recettes faciles
+         6. Recettes rapides
+         7. Recettes de saison
+         8. Recettes pour enfants
+         9. Recettes originales
+    3. Inspirations (BUTTON)
+         1. Cuisine du monde Cuisine du monde
+         1. Cuisine régionale Cuisine régionale
+         1. Fêtes & évènements
+         2. Chandeleur
+         3. Fête des mères
+         4. Mardi gras
+         5. Pâques
+         6. Noël
+         7. Galette des rois
+         8. Ramadan
+         1. Modes de cuisson
+         2. Robots culinaires
+         3. Four
+         4. Cocotte
+         5. Micro-ondes
+         6. Vapeur
+         7. Barbecue
+         8. Wok
+         1. Plus d'idées
+         2. Apéro dînatoire
+         3. Brunch & Petit déjeuner
+         4. Buffet
+         5. Panier pique-nique
+         6. Réception
+         7. Tea time
+         8. Recettes gastronomiques
+         9. Recettes de chefs
+    4. Culture food (BUTTON)
+         1. Idées de menus
+         2. Menu de la semaine
+         3. Idées de repas
+         4. Tendances culinaires
+         1. Guide par ingrédient
+         2. Conservation des aliments
+         3. Tout savoir sur...
+         4. Cuisson des aliments
+         1. Les petits plus en cuisine
+         2. Conseils et astuces
+         3. Anti-gaspi
+         4. Guide d'achat
+         5. Gestes techniques
+         6. Actu food
+         1. Nutrition Nutrition
+         1. Vins et cocktails Vins et cocktails
+    5. Ramadan
+    6. Actu
+    7. Concours
+    8. Recette aléatoire
+    9. S'abonner au magazine
+   10. Newsletter
+
+   S'abonner au magazine
+   Je m'abonne
+   Newsletter
+
+   ____________________
+
+Recherche avancée
+
+   Par prix
+   (*) € ( ) €€ ( ) €€€ ( ) €€€€
+
+   Par note
+   (*) & plus ( ) & plus ( ) & plus ( ) & plus ( )
+
+   Par difficulté
+   (*) Facile ( ) Moyen ( ) Difficile
+   Valider Reset (BUTTON) Réinitialiser
+
+   Trouvez une recette…
+   ____________________
+   Rechercher
+   Rechercher
+
+   ____________________ (BUTTON) Rechercher
+
+   Mon carnet
+
+    1. Accueil
+    2. Recette par plat
+    3. Entrée
+
+   cuisineactuelle.fr
+
+   recettes d'hiver (BUTTON) Être alerté des nouvelles recettes Suivre
+   (BUTTON) Ne plus être alerté Suivi
+
+Crème de céleri aux girolles
+
+   5 /5
+   Donnez votre avis
+
+   15 min
+
+   30 min
+
+   Assez cher
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   (BUTTON) Sauvegarder (BUTTON) Sauvegardé
+   Voir mon carnet de recettes Retirer de ma collection
+   (BUTTON) Imprimer (BUTTON) Voir la photo
+   de course
+
+
+Ingrédients
+
+   (BUTTON)
+   4__ personnes
+   (BUTTON)
+     * 500g Céleri-rave
+     * 1Pomme de terre moyenne
+     * 125g Girolles
+     * 25cl Lait
+     * 20C lde crème fleurette entière
+     * 20g Beurre
+     * 50g Noisettes concassées
+     * 1Cuil. à soupe d’huile d’olive
+     * Sel
+     * Poivre
+
+   Ingrédients
+     * 500g Céleri-rave
+     * 1Pomme de terre moyenne
+     * 125g Girolles
+     * 25cl Lait
+     * 20C lde crème fleurette entière
+     * 20g Beurre
+     * 50g Noisettes concassées
+     * 1Cuil. à soupe d’huile d’olive
+     * Sel
+     * Poivre
+
+Étapes de préparation
+
+    1. Pelez la pomme de terre et le céleri. Coupez-les en morceaux et
+       faites-les cuire dans une casserole
+    2. avec le lait et 25 cl d’eau pendant 25 min.
+    3. Nettoyez pendant ce temps les girolles. Coupez les pieds et essuyez
+       les champignons avec un linge humide.
+    4. Faites revenir les champignons dans une sauteuse à feu doux dans
+       l’huile d’olive chaude pendant 4 à 5 min. Salez et poivrez en fin
+       de cuisson.
+    5. Égouttez la pomme de terre et le céleri, mixez-les jusqu’à
+       consistance fluide, incorporez le beurre en parcelles, la crème,
+       salez et poivrez. Servez dans des bols avec quelques girolles et
+       une pincée de noisettes concassées.
+
+   Crème de céleri aux girolles © Ploton/Sucré Salé
+   Crème de céleri aux girolles
+   (BUTTON) Fermer
+
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+
+Vos commentaires
+
+   • 0
+
+   Photo de l'internaute
+   13/03/2024
+
+   (BUTTON) Modifier
+
+Contenus sponsorisés
+
+Jetez un oeil à ces recettes
+
+   Recette endive végétarienne
+   Recette endive végétarienne
+   2.7
+
+   Recette Thermomix végétarienne
+   Recette Thermomix végétarienne
+   3.6
+
+   Purée de céleri-rave: La meilleure recette
+   Purée de céleri-rave: La meilleure recette
+   4.8
+
+Contenus sponsorisés
+
+Encore plus de recettes
+
+   recettes d'hiverrecettes végétariennesgirollesrecette
+   végétariennesoupechampignonsrecette d'hiverveloutélégumespotagefruits
+   secscéleri ravevegetariennoisetteEntrée
+
+     * (BUTTON) Je sauvegarde
+       Sauvegardé
+     * (BUTTON) Je cuisine
+     * (BUTTON) Les ingrédients
+
+   Recette Thermomix végétarienne
+
+   Recette Thermomix végétarienne
+   3.6
+
+Découvrez aussi...
+
+   Recette smoothie hiver
+   Recette smoothie hiver
+   Potage Conti recette Etchebest
+   Potage Conti recette Etchebest
+   Recette quinoa champignons
+   Recette quinoa champignons
+   Recette champignons coprins
+   Recette champignons coprins
+   Velouté de céleri-rave
+   Velouté de céleri-rave
+   Recette salade de fruits
+   Recette salade de fruits
+   Recette de mafé
+   Recette de mafé
+   Recette de coleslaw
+   Recette de coleslaw
+   Recette de la ratatouille
+   Recette de la ratatouille
+   Recette risotto
+   Recette risotto
+   Recette des cygnes
+   Recette des cygnes
+   Recette des makrouts
+   Recette des makrouts
+   Bolognaise végétarienne aux champignons
+   Bolognaise végétarienne aux champignons
+   Curry de légumes : plat végétarien d'hiver
+   Curry de légumes : plat végétarien d'hiver
+   Champignons farcis végétariens
+   Champignons farcis végétariens
+
+Nos suggestions de recettes
+
+     * Velouté de céleri rave au curry
+     * Légumes farcis végétariens
+     * Soupe à l'oignon : la meilleure recette
+     * Champignons à la grecque: La meilleure recette
+     * Velouté de céleri-rave au curry
+     * Tajine végétarien aux légumes
+     * Curry de légumes végétarien
+
+Recette par plat
+
+   Jus de fruits
+   Jus de fruits
+
+   Jus de légumes
+   Jus de légumes
+
+   Cocktail sans alcool
+   Cocktail sans alcool
+
+   Yaourt
+   Yaourt
+
+   Vinaigrette
+   Vinaigrette
+
+   Verrines
+   Verrines
+
+   Tourtes
+   Tourtes
+
+   Tortilla
+   Tortilla
+   Voir plus de Recette par plat
+   Toasts, Tiramisu, Terrines, Tartiflettes, Tartares, Tartes, Tarte
+   tatin, Tapas, Tajines, Sushis, Soupes, Smoothie,
+
+Vidéos gourmandes
+
+   Velouté de céleri rave au parmesan : la recette ultra réconfortante de
+   Simone Zanoni
+   Velouté de céleri rave au parmesan : la recette ultra réconfortante de
+   Simone Zanoni
+
+   La recette du club sandwich végétarien
+   La recette du club sandwich végétarien
+
+   Batch-cooking végétarien : nos idées de recettes
+   Batch-cooking végétarien : nos idées de recettes
+   Voir + de vidéos Cuisine
+
+Des recettes & des astuces pour me régaler
+
+   Je m'inscris aux newsletters
+
+Top recettes
+
+   Quiche aux poireaux
+   Quiche aux poireaux
+   4
+
+   Brick aux épinards et chèvre
+   Brick aux épinards et chèvre
+   4.3
+
+   Endivettes apéro
+   Endivettes apéro
+   4.3
+
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+   (BUTTON)
+   Ajouter à mes favoris
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Twitter
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   Abonnement prismashop
+
+   Cuisine Actuelle vous livre toutes ses recettes de cuisine
+
+   ©2024 - Prisma Média - Groupe Vivendi - Tous droits réservés
+     * Conditions générales d'utilisation
+     * Paramétrer vos cookies
+     * Mentions Légales
+     * Charte pour la protection des données
+     * Publicité
+     * Contacts & Crédits
+     * Votre kiosque
+     * Équipe éditoriale
+
+   Fréquentation certifiée par l'OJD
+   facebook instagram pinterest

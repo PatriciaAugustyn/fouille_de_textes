@@ -1,0 +1,521 @@
+   #Flux RSS pour cuisineactuelle.fr
+
+   publicité
+
+   Naviguez dans l'univers
+
+   (BUTTON)
+
+   Naviguer dans l'univers
+     __________________________________________________________________
+
+     *
+     *
+
+   (BUTTON)
+   [avatar.svg] Mon profil
+     * Mon carnet de recettes
+     * Gérer mon profil
+     * Mes préférences de communication
+     * Déconnexion
+
+   (BUTTON) Menu Fermer
+   Mon carnet de recettes
+   Se connecter Connexion
+   Mon profil
+    1. Mon carnet de recettes
+    2. Gérer mon profil
+    3. Mes préférences de communication
+    4. Déconnexion
+
+   Toutes vos recettes
+   sauvegardées
+
+   (BUTTON)
+    1. Mon carnet de recettes
+    2. Recettes (BUTTON)
+         1. Recettes par plat
+         2. Apéritif
+         3. Entrée
+         4. Plat
+         5. Dessert
+         6. Boisson
+         7. Sauce
+         8. Pain & viennoiserie
+         1. Recettes par ingrédient
+         2. Légume
+         3. Viande
+         4. Poisson
+         5. Fromage
+         6. Fruit
+         7. Chocolat
+         1. Recettes Santé & allergies
+         2. Minceur
+         3. Végan
+         4. Végétarien
+         5. Sans lactose
+         6. Détox
+         7. Sans sucre
+         8. Sans gluten
+         1. Recettes par thème
+         2. Recettes de bases
+         3. Recettes traditionnelles
+         4. Recettes pas chères
+         5. Recettes faciles
+         6. Recettes rapides
+         7. Recettes de saison
+         8. Recettes pour enfants
+         9. Recettes originales
+    3. Inspirations (BUTTON)
+         1. Cuisine du monde Cuisine du monde
+         1. Cuisine régionale Cuisine régionale
+         1. Fêtes & évènements
+         2. Chandeleur
+         3. Fête des mères
+         4. Mardi gras
+         5. Pâques
+         6. Noël
+         7. Galette des rois
+         8. Ramadan
+         1. Modes de cuisson
+         2. Robots culinaires
+         3. Four
+         4. Cocotte
+         5. Micro-ondes
+         6. Vapeur
+         7. Barbecue
+         8. Wok
+         1. Plus d'idées
+         2. Apéro dînatoire
+         3. Brunch & Petit déjeuner
+         4. Buffet
+         5. Panier pique-nique
+         6. Réception
+         7. Tea time
+         8. Recettes gastronomiques
+         9. Recettes de chefs
+    4. Culture food (BUTTON)
+         1. Idées de menus
+         2. Menu de la semaine
+         3. Idées de repas
+         4. Tendances culinaires
+         1. Guide par ingrédient
+         2. Conservation des aliments
+         3. Tout savoir sur...
+         4. Cuisson des aliments
+         1. Les petits plus en cuisine
+         2. Conseils et astuces
+         3. Anti-gaspi
+         4. Guide d'achat
+         5. Gestes techniques
+         6. Actu food
+         1. Nutrition Nutrition
+         1. Vins et cocktails Vins et cocktails
+    5. Ramadan
+    6. Actu
+    7. Concours
+    8. Recette aléatoire
+    9. S'abonner au magazine
+   10. Newsletter
+
+   S'abonner au magazine
+   Je m'abonne
+   Newsletter
+
+   ____________________
+
+Recherche avancée
+
+   Par prix
+   (*) € ( ) €€ ( ) €€€ ( ) €€€€
+
+   Par note
+   (*) & plus ( ) & plus ( ) & plus ( ) & plus ( )
+
+   Par difficulté
+   (*) Facile ( ) Moyen ( ) Difficile
+   Valider Reset (BUTTON) Réinitialiser
+
+   Trouvez une recette…
+   ____________________
+   Rechercher
+   Rechercher
+
+   ____________________ (BUTTON) Rechercher
+
+   Mon carnet
+
+    1. Accueil
+    2. Recette par plat
+    3. Plat
+    4. Paëllas
+
+   cuisineactuelle.fr
+
+   paella (BUTTON) Être alerté des nouvelles recettes Suivre (BUTTON) Ne
+   plus être alerté Suivi
+
+Paella au poulet et aux moules
+
+   4.8 /5 1849 notes
+   Lire les 2 avis
+
+   35 min
+
+   20 min
+
+   Assez cher
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   (BUTTON) Sauvegarder (BUTTON) Sauvegardé
+   Voir mon carnet de recettes Retirer de ma collection
+   (BUTTON) Imprimer (BUTTON) Voir la photo
+   de course
+
+
+Ingrédients
+
+   (BUTTON)
+   4__ personnes
+   (BUTTON)
+     * 1Poulet moyen Label rouge(1,5 kg environ)
+     * 1Oignon
+     * 500g Tomates
+     * 1Poivron rouge
+     * 1Poivron vert
+     * 1kg Moules
+     * 2Plaquettes de bouillon de volaille
+     * 250g Petits pois surgelés
+     * 4cuil. à soupe Huile d’olive Alter Eco
+     * 300g Riz long grain Alter Eco
+     * 100g Chorizo
+     * 12Langoustines
+     * 1Dose de safran
+     * 1Citron
+     * Sel
+     * Poivre Alter Eco
+     * Calories = Elevé
+
+   Ingrédients
+     * 1Poulet moyen Label rouge(1,5 kg environ)
+     * 1Oignon
+     * 500g Tomates
+     * 1Poivron rouge
+     * 1Poivron vert
+     * 1kg Moules
+     * 2Plaquettes de bouillon de volaille
+     * 250g Petits pois surgelés
+     * 4cuil. à soupe Huile d’olive Alter Eco
+     * 300g Riz long grain Alter Eco
+     * 100g Chorizo
+     * 12Langoustines
+     * 1Dose de safran
+     * 1Citron
+     * Sel
+     * Poivre Alter Eco
+     * Calories = Elevé
+
+Étapes de préparation
+
+    1. Préparez tous les éléments.
+    2. Coupez le poulet en gros morceaux. Mondez, épépinez les tomates.
+       Coupez la chair en gros morceaux. Pelez et émincez l’oignon.
+       Épluchez les poivrons au couteau économe, retirez les pépins et les
+       filaments, coupez-les en lanières. Nettoyez les moules. Mettez 2
+       plaquettes de bouillon de volaille dans une casserole avec un litre
+       d’eau et faites chauffer.
+    3. Faites revenir le poulet.
+    4. Dans une poêle à paella, faites chauffer à feu modéré 2 cuillerées
+       à soupe d’huile d’olive. Mettez les morceaux de poulet. Faites-les
+       rissoler de tous les côtés jusqu’à ce qu’ils soient dorés.
+       Égouttez-les. Jetez l’huile.
+    5. Faites revenir les légumes.
+    6. Versez 2 cuillerées d’huile dans la poêle. Mettez l’oignon et
+       cuisez-le en le remuant jusqu’à ce qu’il devienne translucide.
+    7. Ajoutez les tomates, les poivrons. Remuez-les bien en les cuisant
+       pendant 10 minutes environ.
+    8. Cuisez la paella.
+    9. Rincez le riz à grande eau dans une passoire et ajoutez-le.
+       Mélangez bien jusqu’à ce qu’il soit bien imprégné d’huile.Remettez
+       les morceaux de poulet dans la poêle. Recouvrez de bouillon de
+       volaille. Ajoutez les petits pois. Coupez le chorizo en rondelles
+       et ajoutez-le. Couvrez la poêle et cuisez pendant 15 minutes.
+       Remuez délicatement de temps en temps.
+   10. Terminez la paella.
+   11. Ajoutez les moules et les langoustines. Cuisez encore 5 minutes.
+       Diluez le safran dans deux ou trois cuillerées d’eau. Versez dans
+       la paella. Remuez bien. Rectifiez l’assaisonnement. Servez la
+       paella dans sa poêle en mettant les langoustines sur le
+       dessus.Cette recette vous est proposée par Alter Eco - commerce
+       équitable
+
+   Paella au poulet et aux moules © Tamara Velasquez (PEXELS)
+   Paella au poulet et aux moules
+   (BUTTON) Fermer
+   gmichael
+
+Astuces et conseils pour Paella au poulet et aux moules
+
+Quel est le meilleur riz pour faire une paëlla ?
+
+   Pour vous lancer dans la préparation de cette spécialité espagnole, la
+   variété du riz à toute son importance. L’ingrédient à la base de la
+   recette doit pouvoir résister à un mode de cuisson longue durée et
+   ainsi pouvoir absorber les sucs, épices et bouillon pour une paëlla
+   réussie ! La meilleure option ? Le riz rond. Si en Espagne, le riz
+   Bomba est privilégié, en France on trouve son équivalent avec le riz de
+   Camargue.
+
+Quelle est la portion de paëlla par personne ?
+
+   Plat consistant, composé environ d’un tiers de protéines, un tiers de
+   riz et un tiers de légumes de saison, pour une personne 300 grammes de
+   paëlla suffit.
+
+Quelle entrée pour accompagner une paëlla ?
+
+   Les tapas, traditions culinaires espagnoles, sont idéales en guise
+   d'apéritif ou d’entrée. De nombreuses options existent : les piquillos
+   et les champignons farcis, olives farcies au poivron ou au jambon
+   blanc, les crevettes et moules sautées à l’ail, les anchois à l’ail et
+   au persil, le pan con tomate (toast de pain à l”huile d’olive recourt
+   de tomates fraiches et séchées). Pour les plus gourmands, les croquetas
+   fourrées (fromage, morue) ou natures. Pour une entrée plus légère,
+   privilégiez les soupes froides, comme le gaspacho.
+
+Paëlla royale ou valenciana ?
+
+   Recette conviviale, la paëlla royale se caractérise par l’ajout de
+   fruits de mer, traditionnellement les gambas et les moules. Cuisses de
+   poulet et tranches de chorizo viennent compléter ce plat espagnol
+   riche. Dans sa version valenciana, la paella ne contient pas de fruits
+   de mer. Lapin, poulet et éventuellement longe de porc sont à la base de
+   cette recette originaire de Valencia, dans l’Est du pays.
+
+   D’ailleurs, si la plupart des touristes connaissent la paëlla aux
+   fruits de mer, le plat typique espagnol est à l’origine un plat
+   valencien. On peut aussi trouver des recettes de paëlla avec du poisson
+   et autres crustacés.
+   (BUTTON) Voir plus Voir moins
+
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+
+Vos commentaires
+
+   • 2
+   Photo de l'internaute
+   21/11/2022
+
+   Faire cuire au four pour moins de calories
+   (BUTTON) Modifier
+   Photo de l'internaute
+   24/03/2022
+
+   La paella de Valencia n a jamais eu de chorizo ni petits pois cette
+   version est pour les touristes. Un espagnol de cette région ne la
+   mangera pas sauf si pour lui le traditionnel n a pas de importance. C
+   est poulet et lapin
+   (BUTTON) Modifier
+
+   Photo de l'internaute
+   13/03/2024
+
+   Faire cuire au four pour moins de calories
+   (BUTTON) Modifier
+   Photo de l'internaute
+   13/03/2024
+
+   La paella de Valencia n a jamais eu de chorizo ni petits pois cette
+   version est pour les touristes. Un espagnol de cette région ne la
+   mangera pas sauf si pour lui le traditionnel n a pas de importance. C
+   est poulet et lapin
+   (BUTTON) Modifier
+   Photo de l'internaute
+   13/03/2024
+
+   (BUTTON) Modifier
+
+Contenus sponsorisés
+
+Jetez un oeil à ces recettes
+
+   Paella au poulet
+   Paella au poulet
+   4.2
+
+   Paella
+   Paella
+   2
+
+   Paëlla
+   Paëlla
+   3.1
+
+Contenus sponsorisés
+
+Encore plus de recettes
+
+   paellaPaëllasPouletMoulesPlat
+
+     * (BUTTON) Je sauvegarde
+       Sauvegardé
+     * (BUTTON) Je cuisine
+     * (BUTTON) Les ingrédients
+
+   Paella
+
+   Paella
+   2.0
+
+Découvrez aussi...
+
+   Paella
+   Paella
+   Paëlla
+   Paëlla
+   Paëlla
+   Paëlla
+   Paella
+   Paella
+   Paëlla au poulet et aux crustacés
+   Paëlla au poulet et aux crustacés
+   Paëlla traditionnelle
+   Paëlla traditionnelle
+   Paëlla minute
+   Paëlla minute
+   Paella à la créole
+   Paella à la créole
+   Paella Valenciana
+   Paella Valenciana
+   Paella rapide
+   Paella rapide
+   Paella espagnole
+   Paella espagnole
+   Paella facile
+   Paella facile
+   Paella aux coquillages
+   Paella aux coquillages
+   Paella royale
+   Paella royale
+
+Nos suggestions de recettes
+
+     * Paëlla de printemps
+     * Ratatouille paëlla
+     * Paëlla au Cookeo
+     * Paella au Companion
+     * Paëlla crevette
+     * Paëlla au Thermomix
+     * Paella comme à Valence
+
+Recette par plat
+
+   Tourtes
+   Tourtes
+
+   Tortilla
+   Tortilla
+
+   Tartiflettes
+   Tartiflettes
+
+   Tajines
+   Tajines
+
+   Riz
+   Riz
+
+   Risottos
+   Risottos
+
+   Purées
+   Purées
+
+   Pizzas
+   Pizzas
+   Voir plus de Recette par plat
+   Pâtes, Papillotes, Oeufs, Lasagnes, Hamburgers, Gratins, Galettes, Flan
+   salé, Croque-monsieur, Couscous, Choucroutes, Brochettes,
+
+Vidéos gourmandes
+
+   Vidéo : paella au chorizo et aux cuisses de poulet
+   Vidéo : paella au chorizo et aux cuisses de poulet
+
+   Quel vin servir avec une paella ?
+   Quel vin servir avec une paella ?
+
+   Quel riz choisir pour une paella ?
+   Quel riz choisir pour une paella ?
+   Voir + de vidéos Cuisine
+
+Des recettes & des astuces pour me régaler
+
+   Je m'inscris aux newsletters
+
+Top recettes
+
+   Saumon en papillote
+   Saumon en papillote
+   4.1
+
+   Nouilles sautées au poulet
+   Nouilles sautées au poulet
+   4.3
+
+   Saucisse lentille cookeo
+   Saucisse lentille cookeo
+   4.2
+
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+   (BUTTON)
+   Ajouter à mes favoris
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Twitter
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+
+Mots Clés
+
+   beignets aux épinards fromage camembert recette cheesecake philadelphia
+   cheese cake framboise Crème velours vanille citron nouille chinoise
+   crevette recettes paella espagnole Feuilletés dorés terre et mer flan
+   courgettes basilic Gaspacho aux trois tomates mixeur milk shake
+   cannelle mousse de chou fleur Petites galettes des Rois quatre quart au
+   chocolat celeri remoulade roti de veau aux légumes Roulé aux fraises et
+   à la noix de coco Salade de fruits rouges quinoa cuisson Saumon à la
+   provençale soupe potiron marron tiramisu mascarpone
+   Abonnement prismashop
+
+   Cuisine Actuelle vous livre toutes ses recettes de cuisine
+
+   ©2024 - Prisma Média - Groupe Vivendi - Tous droits réservés
+     * Conditions générales d'utilisation
+     * Paramétrer vos cookies
+     * Mentions Légales
+     * Charte pour la protection des données
+     * Publicité
+     * Contacts & Crédits
+     * Votre kiosque
+     * Équipe éditoriale
+
+   Fréquentation certifiée par l'OJD
+   facebook instagram pinterest

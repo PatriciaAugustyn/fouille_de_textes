@@ -1,0 +1,435 @@
+   #Flux RSS pour cuisineactuelle.fr
+
+   publicité
+
+   Naviguez dans l'univers
+
+   (BUTTON)
+
+   Naviguer dans l'univers
+     __________________________________________________________________
+
+     *
+     *
+
+   (BUTTON)
+   [avatar.svg] Mon profil
+     * Mon carnet de recettes
+     * Gérer mon profil
+     * Mes préférences de communication
+     * Déconnexion
+
+   (BUTTON) Menu Fermer
+   Mon carnet de recettes
+   Se connecter Connexion
+   Mon profil
+    1. Mon carnet de recettes
+    2. Gérer mon profil
+    3. Mes préférences de communication
+    4. Déconnexion
+
+   Toutes vos recettes
+   sauvegardées
+
+   (BUTTON)
+    1. Mon carnet de recettes
+    2. Recettes (BUTTON)
+         1. Recettes par plat
+         2. Apéritif
+         3. Entrée
+         4. Plat
+         5. Dessert
+         6. Boisson
+         7. Sauce
+         8. Pain & viennoiserie
+         1. Recettes par ingrédient
+         2. Légume
+         3. Viande
+         4. Poisson
+         5. Fromage
+         6. Fruit
+         7. Chocolat
+         1. Recettes Santé & allergies
+         2. Minceur
+         3. Végan
+         4. Végétarien
+         5. Sans lactose
+         6. Détox
+         7. Sans sucre
+         8. Sans gluten
+         1. Recettes par thème
+         2. Recettes de bases
+         3. Recettes traditionnelles
+         4. Recettes pas chères
+         5. Recettes faciles
+         6. Recettes rapides
+         7. Recettes de saison
+         8. Recettes pour enfants
+         9. Recettes originales
+    3. Inspirations (BUTTON)
+         1. Cuisine du monde Cuisine du monde
+         1. Cuisine régionale Cuisine régionale
+         1. Fêtes & évènements
+         2. Chandeleur
+         3. Fête des mères
+         4. Mardi gras
+         5. Pâques
+         6. Noël
+         7. Galette des rois
+         8. Ramadan
+         1. Modes de cuisson
+         2. Robots culinaires
+         3. Four
+         4. Cocotte
+         5. Micro-ondes
+         6. Vapeur
+         7. Barbecue
+         8. Wok
+         1. Plus d'idées
+         2. Apéro dînatoire
+         3. Brunch & Petit déjeuner
+         4. Buffet
+         5. Panier pique-nique
+         6. Réception
+         7. Tea time
+         8. Recettes gastronomiques
+         9. Recettes de chefs
+    4. Culture food (BUTTON)
+         1. Idées de menus
+         2. Menu de la semaine
+         3. Idées de repas
+         4. Tendances culinaires
+         1. Guide par ingrédient
+         2. Conservation des aliments
+         3. Tout savoir sur...
+         4. Cuisson des aliments
+         1. Les petits plus en cuisine
+         2. Conseils et astuces
+         3. Anti-gaspi
+         4. Guide d'achat
+         5. Gestes techniques
+         6. Actu food
+         1. Nutrition Nutrition
+         1. Vins et cocktails Vins et cocktails
+    5. Ramadan
+    6. Actu
+    7. Concours
+    8. Recette aléatoire
+    9. S'abonner au magazine
+   10. Newsletter
+
+   S'abonner au magazine
+   Je m'abonne
+   Newsletter
+
+   ____________________
+
+Recherche avancée
+
+   Par prix
+   (*) € ( ) €€ ( ) €€€ ( ) €€€€
+
+   Par note
+   (*) & plus ( ) & plus ( ) & plus ( ) & plus ( )
+
+   Par difficulté
+   (*) Facile ( ) Moyen ( ) Difficile
+   Valider Reset (BUTTON) Réinitialiser
+
+   Trouvez une recette…
+   ____________________
+   Rechercher
+   Rechercher
+
+   ____________________ (BUTTON) Rechercher
+
+   Mon carnet
+
+    1. Accueil
+    2. Recette par plat
+    3. Dessert
+
+   cuisineactuelle.fr
+
+   Dessert (BUTTON) Être alerté des nouvelles recettes Suivre (BUTTON) Ne
+   plus être alerté Suivi
+
+Petits choux à la crème de combava
+
+   5 /5
+   Donnez votre avis
+
+   30 min
+
+   35 min
+
+   Bon marché
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   (BUTTON) Sauvegarder (BUTTON) Sauvegardé
+   Voir mon carnet de recettes Retirer de ma collection
+   (BUTTON) Imprimer (BUTTON) Voir la photo
+   de course
+
+
+Ingrédients
+
+   (BUTTON)
+   6__ personnes
+   (BUTTON)
+   Ingrédients
+     * 2Citrons combava
+     * 250g Fromage frais à tartiner
+     * 150g Beurre pommade
+     * 300g Sucre glace(+ pour la finition)
+
+   Pour la pâte à choux :
+     * 5Oeufs
+     * 15cl Lait
+     * 2cuil. à soupe
+     * 130g Beurre doux
+     * 170g Farine
+     * 5g Sucre semoule
+     * 1pincée Sel
+
+   Ingrédients
+   Ingrédients
+     * 2Citrons combava
+     * 250g Fromage frais à tartiner
+     * 150g Beurre pommade
+     * 300g Sucre glace(+ pour la finition)
+
+   Pour la pâte à choux :
+     * 5Oeufs
+     * 15cl Lait
+     * 2cuil. à soupe
+     * 130g Beurre doux
+     * 170g Farine
+     * 5g Sucre semoule
+     * 1pincée Sel
+
+Étapes de préparation
+
+    1. Préparez la pâte à choux : dans une grande casserole, portez à
+       ébullition 15 cl d’eau avec 15 cl de lait, le sel, le sucre et le
+       beurre en morceaux. Hors du feu, versez en une seule fois la farine
+       et mélangez vigoureusement à la spatule. Remettez sur feu moyen en
+       mélangeant jusqu’à l’absorption de la farine.
+    2. Faites dessécher cette détrempe sur le feu jusqu’à ce qu’elle
+       n’adhère plus aux parois de la casserole ni à la spatule. Hors du
+       feu, ajoutez les œufs un à un. Remplissez sans attendre une poche
+       munie d’une douille lisse.
+    3. Préchauffez le four à 200 °C (th.6-7).
+    4. Dressez des choux de 3 cm en quinconce sur une plaque à pâtisserie
+       couverte de papier cuisson. Humectez-les légèrement de lait à
+       l’aide d’un pinceau en tapotant le dessus pour régulariser leur
+       forme.
+    5. Enfournez pour 18 à 20 minutes. Les choux doivent être bien gonflés
+       mais pas trop colorés. N’ouvrez jamais la porte du four durant la
+       cuisson, ils retomberaient rapidement. Laissez-les complètement
+       refroidir sur une grille à pâtisserie.
+    6. Préparez la crème en fouettant, dans un robot-batteur, le beurre
+       avec le fromage frais et le sucre glace pendant 2 minutes. Ajoutez
+       le zeste râpé des citrons combava et battez encore. Placez la crème
+       dans une poche munie d’une douille moyenne cannelée.
+    7. Ouvrez les choux en deux transversalement et garnissez-les de
+       crème. Refermez-les et réservez-les au frais.
+    8. Au dernier moment, saupoudrez-les d’un voile de sucre glace.
+
+   Petits choux à la crème de combava © AMIEL / SUCRÉ SALÉ
+   Petits choux à la crème de combava
+   (BUTTON) Fermer
+
+Astuces et conseils pour Petits choux à la crème de combava
+
+   Pour bien coucher les choux, tenez la poche presque perpendiculairement
+   à 1 cm de la plaque et exercez une pression lente et régulière sans
+   écarter la poche de la plaque. Arrêtez la pression lorsque le chou
+   atteint le diamètre souhaité. Coupez la pâte en effectuant un mouvement
+   vif semi-circulaire en effleurant la surface du chou. Ne les collez pas
+   trop afin d’assurer le bon dessèchement de la pâte lors de la cuisson.
+   (BUTTON) Voir plus Voir moins
+
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+
+Vos commentaires
+
+   • 0
+
+   Photo de l'internaute
+   13/03/2024
+
+   (BUTTON) Modifier
+
+Contenus sponsorisés
+
+Jetez un oeil à ces recettes
+
+   Poulet combava
+   Poulet combava
+   5
+
+   Pâte à choux à la crème
+   Pâte à choux à la crème
+   4.4
+
+   Clémentines rôties, crème de citron combava
+   Clémentines rôties, crème de citron combava
+   3
+
+Contenus sponsorisés
+
+Encore plus de recettes
+
+   buffetfait d'avanceagrumescitrondessertchouxpâte à chouxcombavarecette
+   pas chereDessert
+
+     * (BUTTON) Je sauvegarde
+       Sauvegardé
+     * (BUTTON) Je cuisine
+     * (BUTTON) Les ingrédients
+
+   Pâte à choux à la crème
+
+   Pâte à choux à la crème
+   4.4
+
+Découvrez aussi...
+
+   Petits choux à la crème
+   Petits choux à la crème
+   Petits choux à la crème
+   Petits choux à la crème
+   La pâte à choux
+   La pâte à choux
+   Pâte à choux
+   Pâte à choux
+   Porc au chou et agrume
+   Porc au chou et agrume
+   Choux à la crème
+   Choux à la crème
+   Choux à la crème
+   Choux à la crème
+   Petits choux au crabe et au citron
+   Petits choux au crabe et au citron
+   Pâtes à la crème de chou-fleur
+   Pâtes à la crème de chou-fleur
+   Petits choux à la crème chantilly
+   Petits choux à la crème chantilly
+   Petits choux à la crème de foie
+   Petits choux à la crème de foie
+   Chou à la crème de citron vert
+   Chou à la crème de citron vert
+
+Nos suggestions de recettes
+
+     * Couronne pâte à choux
+     * Petits choux au café
+     * Pâtes aux 2 choux
+     * Pâte à choux croustillante
+     * Pâte à choux au robot
+     * Pâte à choux au Thermomix
+     * Pâtes au chou romanesco
+
+Recette par plat
+
+   Jus de fruits
+   Jus de fruits
+
+   Jus de légumes
+   Jus de légumes
+
+   Cocktail sans alcool
+   Cocktail sans alcool
+
+   Yaourt
+   Yaourt
+
+   Vinaigrette
+   Vinaigrette
+
+   Verrines
+   Verrines
+
+   Tourtes
+   Tourtes
+
+   Tortilla
+   Tortilla
+   Voir plus de Recette par plat
+   Toasts, Tiramisu, Terrines, Tartiflettes, Tartares, Tartes, Tarte
+   tatin, Tapas, Tajines, Sushis, Soupes, Smoothie,
+
+Vidéos gourmandes
+
+   La recette des choux à la crème
+   La recette des choux à la crème
+
+   Citron combava : comment s’en servir en cuisine ?
+   Citron combava : comment s’en servir en cuisine ?
+
+   La meilleure astuce de Mercotte pour réussir sa pâte à choux à tous les
+   coups (+ tous ses bons conseils vraiment très choux)
+   La meilleure astuce de Mercotte pour réussir sa pâte à choux à tous les
+   coups (+ tous ses bons conseils vraiment très choux)
+   Voir + de vidéos Cuisine
+
+Des recettes & des astuces pour me régaler
+
+   Je m'inscris aux newsletters
+
+Top recettes
+
+   Authentique et délicieuse mousse au chocolat
+   Authentique et délicieuse mousse au chocolat
+   4.6
+
+   Cookies moelleux américains
+   Cookies moelleux américains
+   4.4
+
+   Fondant au chocolat rapide
+   Fondant au chocolat rapide
+   4.1
+
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+   (BUTTON)
+   Ajouter à mes favoris
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Twitter
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   Abonnement prismashop
+
+   Cuisine Actuelle vous livre toutes ses recettes de cuisine
+
+   ©2024 - Prisma Média - Groupe Vivendi - Tous droits réservés
+     * Conditions générales d'utilisation
+     * Paramétrer vos cookies
+     * Mentions Légales
+     * Charte pour la protection des données
+     * Publicité
+     * Contacts & Crédits
+     * Votre kiosque
+     * Équipe éditoriale
+
+   Fréquentation certifiée par l'OJD
+   facebook instagram pinterest

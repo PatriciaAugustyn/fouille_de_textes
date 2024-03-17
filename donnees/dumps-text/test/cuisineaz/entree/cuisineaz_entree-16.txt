@@ -1,0 +1,395 @@
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-KHBLFN
+
+   [caz.svg] [caz-white.svg]
+     * Recettes (BUTTON)
+          +
+               o Catégories
+               o Les bases Les bases
+               o Apéritif Apéritif
+               o Entrées Entrées
+               o Plats Plats
+               o Desserts Desserts
+               o Boissons Boissons
+               o Menu de la semaine Menu de la semaine
+               o Menu de la semaine Batch Cooking Menu de la semaine Batch
+                 Cooking
+               o Ingrédients
+               o Viandes Viandes
+               o Poissons Poissons
+               o Fruits Fruits
+               o Légumes Légumes
+               o Fromage Fromage
+               o Cuisson des aliments Cuisson des aliments
+               o Émissions
+               o Top Chef Top Chef
+               o Tous en Cuisine avec Cyril Lignac Tous en cuisine
+               o Le meilleur Pâtissier Le Meilleur Pâtissier
+               o Le Meilleur Pâtissier les Professionnels Le Meilleur
+                 Pâtissier les Professionnels
+               o RTL Vous Régale RTL vous régale
+               o RTL Nous Voilà Bien RTL Nous voilà bien
+               o Objectif Top Chef Objectif Top Chef
+               o Batch Cooking Batchcooking
+               o RTL L'Astuce du Chef L'astuce du Chef
+               o L'Académie des Gâteaux L'Académie des Gâteaux
+               o Le combat des régions Le combat des régions
+               o La Meilleure Boulangerie de France La meilleure
+                 Boulangerie de France
+               o Snack Masters Snack Masters
+               o Recettes d'hiver
+               o Recettes d'hiver à réaliser en Février avec des aliments
+                 de saison bien sûr ! Recettes de Février
+               o Tartiflette facile et rapide Tartiflette facile et rapide
+               o Recette facile de tarte salée à emporter au bureau Tarte
+                 pour pause déj'
+               o Pâtes à la carbonara et noix de muscade Plats d'hiver en
+                 20 min
+               o Gratin de poireaux aux fruits de mer Gratins hivernaux
+               o soupe a la patate douce Soupes d'hiver express
+               o Recette de crêpe facile Crêpes réconfortantes
+               o Idées de recettes à réaliser en Mars avec des aliments de
+                 saison ! Recettes de Mars
+               o Soupe de butternut Soupe de butternut
+               o blanquette de veau à l'ancienne Blanquette de veau
+               o sauce bechamel Sauce Béchamel maison
+     * Menu (BUTTON)
+          +
+               o Menu sur mesure
+               o Blettes sautées à l'ail Menu vegan du 11 au 15 mars
+               o Tarte aux poireaux et gruyère Menu végé du 11 au 15 mars
+               o Bagels pizza au chorizo Menu étudiant du 11 au 15 mars
+               o Riz cantonnais à l'ananas Menu familial du 11 au 15 mars
+               o Menu pas cher
+               o Paillassons lyonnais de pommes de terre Menu du 11 au 15
+                 mars
+               o pudding salé Menu du 4 au 8 mars
+               o Gratin léger de navets à la crème et au fromage Menu du
+                 26 février au 1 mars
+               o Menu Batch Cooking
+               o beignets de blettes Menu du 11 au 15 mars
+               o Menu Batch Cooking du 4 mars au 8 mars Menu du 4 au 8
+                 mars
+               o Menu Batch Cooking du 26 février au 1er mars Menu du 26
+                 février au 1 mars
+     * Thèmes (BUTTON)
+          +
+               o Robots culinaires
+               o Recettes Thermomix Recettes Thermomix
+               o Recettes Cookeo Recettes Cookeo
+               o Recettes Companion Recettes Companion
+               o Recettes Monsieur Cuisine Recettes Monsieur Cuisine
+               o Recettes Cook Expert Recettes Cook Expert
+               o Recettes KitchenAid Recettes KitchenAid
+               o Recettes à l'extracteur de jus Recettes à l'extracteur de
+                 jus
+               o Recettes Compact Cook Recettes Compact Cook
+               o Les classiques
+               o Recettes traditionnelles Recettes traditionnelles
+               o Recettes pas chères Recettes pas chères
+               o Cuisine régionale Cuisine régionale
+               o Cuisine du monde Cuisine du monde
+               o Cuisine maman / bébé Cuisine maman / bébé
+               o Recettes de chefs Recettes de chefs
+               o Bien manger Bien manger
+               o Recettes faciles et rapides Recettes faciles et rapides
+               o Recettes anti-gaspi Recettes anti-gaspi
+               o Recettes préférées des Français Recettes préférées des
+                 Français
+               o Fêtes
+               o Catégorie plats Ramadan Ramadan
+               o Fête de Pâques Pâques
+               o Fêtes des mères
+               o Halloween Halloween
+               o dinde de thanksgiving Thanksgiving
+               o chapon de noel Recettes de Noël
+               o fête - nouvel an Nouvel An
+               o Epiphanie - galette des rois Galette des Rois
+               o nouvel-an-lunaire Nouvel An lunaire
+               o Comment réchauffer des crêpes ? Chandeleur
+               o beignets Mardi-gras
+               o 15 recettes de poisson blanc Saint-Valentin
+               o Fêtes : gâteaux d'anniversaire Gâteaux d'anniversaire
+               o Minceur
+               o Mousse concombres, crevettes Apéritif minceur
+               o Scampis au beurre allégé Entrées minceur
+               o Soupe de lentilles corail au Monsieur Cuisine Soupes
+                 minceur
+               o Cookies light Desserts minceur
+               o toasts légumes Plats minceur
+               o boisson detox concombre pomme et gingembre Recettes détox
+     * 🧀 Journée du fromage
+     * 🌙 Ramadan (BUTTON)
+          +
+               o Top recettes
+               o Msemen Msemen
+               o Chorba algérienne Chorba algérienne
+               o Tajine au poulet Tajine de poulet aux épices
+               o Houmous libanais Houmous libanais
+               o La véritable recette de couscous La véritable recette de
+                 couscous
+               o brick thon oeuf Bricks au thon et à l'oeuf
+               o Menu Ramadan Menu
+               o dattes ramadan Menu du Ramadan du 11 au 15 mars
+               o idée menu de ramadan Menu spécial Ramadan 2024
+               o Astuces
+               o Ramadan 2024 Quelles sont les dates du Ramadan 2024 ?
+               o idée menu de ramadan Idée de menu complet pour Ramadan
+               o diapo bricks 10 astuces pour réussir ses bricks
+               o épices Quelles épices pour un tajine ?
+               o Comment cuire des pois chiches secs ? Comment cuire des
+                 pois chiches secs ?
+               o conserver la menthe fraiche Comment conserver de la
+                 menthe fraîche ?
+               o Toutes nos recettes
+               o recette ramadan 80 recettes pour fêter le Ramadan
+               o 35 desserts pour le Ramadan 35 desserts pour le Ramadan
+               o Tajine aux lentilles 30 recettes végétariennes pour le
+                 Ramadan
+               o chakchouka 50 idées de plat pour le Ramadan
+               o bricks figues chèvre 30 recettes de bricks pour le
+                 Ramadan
+     * 🐰 Pâques (BUTTON)
+          +
+               o Top recettes
+               o Gigot d'agneau à l'ail
+               o Épaule d'agneau entière rôtie au four
+               o Pâté berrichon ou pâté de Pâques
+               o Gigot d'agneau au four (cuisson lente)
+               o Œufs mimosa au thon de ma grand-mère
+               o Gâteau de pâques au chocolat
+               o Astuces
+               o 5 astuces pour réussir la cuisson du gigot d'agneau
+               o Comment cuire des œufs durs ?
+               o Comment cuire des asperges ?
+               o Comment cuire une souris d'agneau ?
+               o Comment bien choisir sa viande d'agneau ?
+               o Comment faire des oeufs en chocolat sans moule ?
+               o Toutes nos recettes
+               o 100 recettes rapides pour votre repas de pâques
+               o 100 idées pour un repas de Pâques traditionnel
+               o 50 desserts de Pâques facile
+               o 50 idées d'entrées pour pâques 2024
+               o 50 idées d'accompagnements de gigot d'agneau
+     * TopChef Top Chef, saison 15 : le concours culinaire sur M6
+     * Actus (BUTTON)
+          +
+               o Actualités
+               o actu - chaud devant Actualités récentes
+               o Tous des Chefs Actualités des chefs
+               o Aliments
+               o actu - conservation Conservation
+               o actu - cuisson Cuisson
+               o Encyclopedie Glossaire
+               o Conseils
+               o Dessert diététique de pommes et poire au four Suggestions
+                 du chefs
+               o LA technique efficace Apprendre à cuisiner
+
+     * Tous en cuisine Top Chef Objectif Top Chef Le Meilleur Pâtissier
+       Tous des chefs
+
+     * 🌙
+     *
+     * ____________________
+     *
+
+   ____________________ (BUTTON)
+
+    1. Accueil
+
+     Categories
+
+     Entrees
+
+     Entrees Froides
+
+     Terrine de saumon fumé et saumon frais sans cuisson
+
+Terrine de saumon fumé et saumon frais sans cuisson
+
+   Terrine de saumon fumé et saumon frais sans cuisson
+   Logo CuisineAZ
+   Par CuisineAZ
+   30 min
+   Facile
+   € 4,05 €/pers
+   5 commentaires
+   (BUTTON)
+
+   Vous cherchez une idée d’une entrée festive à servir pour les fêtes de
+   fin d’année ? Essayez la terrine de saumon fumé et saumon frais sans
+   cuisson. La terrine est garnie d’un mélange de crème fraîche, de
+   fromage à tartiner épaissi à l’aide de gélatine alimentaire. Elle est
+   ensuite agrémentée d’un tartare de saumon frais, de jus de citron et
+   d’aneth ciselée. Voici une belle entrée tout en fraîcheur qui
+   surprendra vos convives !
+
+Ingrédients :
+
+   (BUTTON) 8 Pers.
+   €   32,40 €
+     *
+     * Fromage frais Fromage frais 500 g
+     * Pavé(s) de saumon Pavé(s) de saumon 400 g
+     * Saumon fumé Saumon fumé 400 g
+     * Crème fraîche épaisse Crème fraîche épaisse 100 g
+     * Gélatine Gélatine 5 feuilles
+     * Aneth Aneth 0,5 bouquet(s)
+     * Citron(s) Citron(s) 1
+     * Sel Sel
+     * Poivre Poivre
+
+Préparation :
+
+     * Préparation 30 min
+     * Repos 12 h
+     * (BUTTON)
+
+     * 1
+       Commencez par réhydrater les feuilles de gélatine dans de l’eau
+       froide. Laissez-les reposer 20 minutes.
+     * 2
+       Pendant ce temps, lavez le citron et le bouquet d’aneth. Prélevez
+       les zestes et le jus de l’agrume. Hachez finement l’aneth.
+     * 3
+       Détaillez les pavés de saumon en petits dés. Placez-les dans un
+       saladier, salez, poivrez et arrosez du jus de citron. Mélangez-bien
+       puis laissez reposer également.
+     * 4
+       Versez la crème fraîche dans un saladier et fouettez-la. Dans un
+       autre récipient, écrasez grossièrement le fromage frais puis
+       incorporez-le à la crème. Essorez la gélatine. Ajoutez-la à
+       l’appareil de crème et fromage frais. Incorporez ensuite les zestes
+       de citron et le saumon à l’aneth. Salez et poivrez. Mélangez bien.
+     * 5
+       Tapissez la terrine de film alimentaire. Répartissez ensuite les
+       tranches de saumon fumé sur le fond et les côtés du plat en
+       veillant à les laisser dépasser sur les 2 côtés les plus longs.
+       Versez la crème au saumon dans la terrine. Tassez légèrement avec
+       le dos d’une cuillère. Refermez la terrine en rabattant les
+       tranches de saumon sur le dessus. Ajoutez une dernière tranche si
+       nécessaire de manière à couvrir toute la terrine.
+     * 6
+       Réservez la terrine de saumon fumé et saumon frais sans cuisson au
+       réfrigérateur pendant 12 heures. Au moment de la dégustation,
+       démoulez-la doucement sur le plat de service en vous aidant du film
+       alimentaire. Découpez enfin la terrine en tranches. Servez bien
+       frais.
+
+   Noël
+
+Astuces
+
+   Pour garantir une bonne tenue de la terrine de saumon fumé et saumon
+   frais sans cuisson lors du démoulage, il est impératif de bien
+   respecter le temps de repos. L’idéal est donc de préparer la terrine la
+   veille. Vous pouvez aussi garnir la terrine de quelques crevettes
+   cuites. Versez une première couche d’appareil crémeux. Posez-y les
+   crevettes et couvrez du restant de crème au saumon.
+   Abonnez-vous aux recettes pas chères en Newsletters et recevez
+   Top 30 des recettes Cuisineaz
+   ____________________ OK
+   Top 30 des recettes Cuisineaz
+
+   Votre adresse email sera utilisée par Digital Prisma Players pour vous
+   envoyer votre newsletter contenant des offres commerciales
+   personnalisées. Elle pourra également être transférée à certains de nos
+   partenaires, sous forme pseudonymisée, si vous avez accepté dans notre
+   bandeau cookies que vos données personnelles soient collectées via des
+   traceurs et utilisées à des fins de publicité personnalisée. A tout
+   moment, vous pourrez vous désinscrire en utilisant le lien de
+   désabonnement intégré dans la newsletter et/ou refuser l’utilisation de
+   traceurs via le lien « Préférences Cookies » figurant sur notre
+   service. Pour en savoir plus et exercer vos droits , prenez
+   connaissance de notre Charte de Confidentialité.
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Noter la recette:
+   (BUTTON) ENVOYER
+
+Commentaires :
+
+     * (5)
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Noter la recette:
+   (BUTTON) ENVOYER
+
+   Excellent ! Pour la gélatine préparée a froid dans l'eau , il faut
+   l'inclure a chaud pour qu'elle fige en refroidissant. Passer le fromage
+   et la crème dans une casserole et faire tiédir en remuant avec un fouet
+   puis intégrer la gélatine bien réhydratée. Pour le saumon je fais mon
+   tartare classique avec aneth, cebette et huile d'olive, le citron
+   ensuite et intégrer au mélange fromage crème gélatine juste avant de
+   mettre dans le moule.
+   Laguigne
+   05 janvier 2024
+   (BUTTON) 0 (BUTTON) 0 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Chauffer un peu de crème de la recette au micro onde et dissoudre la
+   géltine. Ensuite mélanger la préparation comme indiquer sur la recette
+   Mario
+   20 décembre 2023
+   (BUTTON) 0 (BUTTON) 0 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Très bonne recette mais attention, les feuilles de gélatine doivent
+   être fondue à chaud avant d'être incorporé dans la préparation.
+   Sylvie
+   22 octobre 2023
+   (BUTTON) 1 (BUTTON) 0 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Bonjour. ok avec vous pour la gélatine. Avez vous fait cette recette
+   svp. comment les faire fondre?. je me voudrais le faire mais suis dans
+   le doute. Merci pour votre réponse. Cordialement
+   Evelyne
+   07 décembre 2023
+   (BUTTON) 0 (BUTTON) 0 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Bonjour, je voulais savoir si vous aviez déjà congelé cette terrine ?
+   Merci
+   christine
+   11 février 2024
+   (BUTTON) 0 (BUTTON) 0 (BUTTON) Signaler un abus
+
+Recettes similaires :
+
+   Macédoine facile
+   Macédoine facile
+   Œuf dur
+   Œuf dur
+   Saumon gravlax
+   Saumon gravlax
+   avocat au thon
+   Avocat au thon
+   Artichauts au Monsieur Cuisine
+   Artichauts au Monsieur Cuisine
+   saint jacques
+   Coquilles Saint-Jacques et saumon fumé aux baies roses de Cyril Lignac
+   Salade de haricots verts, burrata et pêches de Cyril Lignac
+   Salade de haricots verts, burrata et pêches de Cyril Lignac
+   Caviar d'aubergine au tahini, grenade de Cyril Lignac
+   Caviar d'aubergine au tahini, grenade de Cyril Lignac
+   Poireau vinaigrette
+   Poireau vinaigrette
+   Panna cotta au gingembre et poire
+   Panna cotta au gingembre et poire
+   Haut de page
+
+   PasseportSanté.net Meteocity Deco.fr Fourchette & Bikini
+     * Annonceurs - Publicité
+     * Partenariats
+     * Presse
+
+     * Nous contacter
+     * Mentions légales
+     * Charte de confidentialité
+     * (BUTTON) Paramétrer mes cookies

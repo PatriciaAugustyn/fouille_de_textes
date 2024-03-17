@@ -1,0 +1,448 @@
+   #Flux RSS pour cuisineactuelle.fr
+
+   publicité
+
+   Naviguez dans l'univers
+
+   (BUTTON)
+
+   Naviguer dans l'univers
+     __________________________________________________________________
+
+     *
+     *
+
+   (BUTTON)
+   [avatar.svg] Mon profil
+     * Mon carnet de recettes
+     * Gérer mon profil
+     * Mes préférences de communication
+     * Déconnexion
+
+   (BUTTON) Menu Fermer
+   Mon carnet de recettes
+   Se connecter Connexion
+   Mon profil
+    1. Mon carnet de recettes
+    2. Gérer mon profil
+    3. Mes préférences de communication
+    4. Déconnexion
+
+   Toutes vos recettes
+   sauvegardées
+
+   (BUTTON)
+    1. Mon carnet de recettes
+    2. Recettes (BUTTON)
+         1. Recettes par plat
+         2. Apéritif
+         3. Entrée
+         4. Plat
+         5. Dessert
+         6. Boisson
+         7. Sauce
+         8. Pain & viennoiserie
+         1. Recettes par ingrédient
+         2. Légume
+         3. Viande
+         4. Poisson
+         5. Fromage
+         6. Fruit
+         7. Chocolat
+         1. Recettes Santé & allergies
+         2. Minceur
+         3. Végan
+         4. Végétarien
+         5. Sans lactose
+         6. Détox
+         7. Sans sucre
+         8. Sans gluten
+         1. Recettes par thème
+         2. Recettes de bases
+         3. Recettes traditionnelles
+         4. Recettes pas chères
+         5. Recettes faciles
+         6. Recettes rapides
+         7. Recettes de saison
+         8. Recettes pour enfants
+         9. Recettes originales
+    3. Inspirations (BUTTON)
+         1. Cuisine du monde Cuisine du monde
+         1. Cuisine régionale Cuisine régionale
+         1. Fêtes & évènements
+         2. Chandeleur
+         3. Fête des mères
+         4. Mardi gras
+         5. Pâques
+         6. Noël
+         7. Galette des rois
+         8. Ramadan
+         1. Modes de cuisson
+         2. Robots culinaires
+         3. Four
+         4. Cocotte
+         5. Micro-ondes
+         6. Vapeur
+         7. Barbecue
+         8. Wok
+         1. Plus d'idées
+         2. Apéro dînatoire
+         3. Brunch & Petit déjeuner
+         4. Buffet
+         5. Panier pique-nique
+         6. Réception
+         7. Tea time
+         8. Recettes gastronomiques
+         9. Recettes de chefs
+    4. Culture food (BUTTON)
+         1. Idées de menus
+         2. Menu de la semaine
+         3. Idées de repas
+         4. Tendances culinaires
+         1. Guide par ingrédient
+         2. Conservation des aliments
+         3. Tout savoir sur...
+         4. Cuisson des aliments
+         1. Les petits plus en cuisine
+         2. Conseils et astuces
+         3. Anti-gaspi
+         4. Guide d'achat
+         5. Gestes techniques
+         6. Actu food
+         1. Nutrition Nutrition
+         1. Vins et cocktails Vins et cocktails
+    5. Ramadan
+    6. Actu
+    7. Concours
+    8. Recette aléatoire
+    9. S'abonner au magazine
+   10. Newsletter
+
+   S'abonner au magazine
+   Je m'abonne
+   Newsletter
+
+   ____________________
+
+Recherche avancée
+
+   Par prix
+   (*) € ( ) €€ ( ) €€€ ( ) €€€€
+
+   Par note
+   (*) & plus ( ) & plus ( ) & plus ( ) & plus ( )
+
+   Par difficulté
+   (*) Facile ( ) Moyen ( ) Difficile
+   Valider Reset (BUTTON) Réinitialiser
+
+   Trouvez une recette…
+   ____________________
+   Rechercher
+   Rechercher
+
+   ____________________ (BUTTON) Rechercher
+
+   Mon carnet
+
+    1. Accueil
+    2. Recette par plat
+    3. Dessert
+
+   cuisineactuelle.fr
+
+   Dessert (BUTTON) Être alerté des nouvelles recettes Suivre (BUTTON) Ne
+   plus être alerté Suivi
+
+Gâteau à étages cédrat mangue
+
+   5 /5
+   Donnez votre avis
+
+   40 min
+
+   35 min
+
+   Bon marché
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   (BUTTON) Sauvegarder (BUTTON) Sauvegardé
+   Voir mon carnet de recettes Retirer de ma collection
+   (BUTTON) Imprimer (BUTTON) Voir la photo
+   de course
+
+
+Ingrédients
+
+   (BUTTON)
+   12_ personnes
+   (BUTTON)
+   Ingrédients
+     * 8Oeufs
+     * 10g Beurre pour les moules
+     * 250g Sucre semoule
+     * 250g Farine(+ pour les moules)
+
+   Pour la garniture :
+     * 1Belle mangue bien mûre
+     * 2Citrons cédrat
+     * 2Blancs d’oeufs
+     * 500g Mascarpone
+     * 300g Sucre semoule
+     * 20cl Limoncello
+     * 1pincée Sel
+
+   Ingrédients
+   Ingrédients
+     * 8Oeufs
+     * 10g Beurre pour les moules
+     * 250g Sucre semoule
+     * 250g Farine(+ pour les moules)
+
+   Pour la garniture :
+     * 1Belle mangue bien mûre
+     * 2Citrons cédrat
+     * 2Blancs d’oeufs
+     * 500g Mascarpone
+     * 300g Sucre semoule
+     * 20cl Limoncello
+     * 1pincée Sel
+
+Étapes de préparation
+
+    1. Préparez les génoises. Au batteur, fouettez les œufs avec le sucre
+       jusqu’à obtenir un mélange très mousseux qui prend du volume.
+       Placez ce mélange dans un bain-marie à feu vif. Continuez de
+       fouetter sans cesse jusqu’à ce que l’appareil atteigne les 40 à 45
+       °C sans dépasser les 50 °C. La pâte doit doubler de volume.
+    2. Préchauffez le four à 180 °C (th.6).
+    3. Hors du feu, continuez de fouetter l’appareil jusqu’à ce qu’il
+       refroidisse. Tamisez la farine et incorporez-la délicatement au
+       mélange émulsionné.
+    4. Beurrez et farinez soigneusement deux moules à manqué de 20 à 22 cm
+       de diamètre et remplissez-les avec l’appareil à génoise. Enfournez
+       pour 25 minutes. Piquez les génoises avec la lame d’un couteau,
+       elle doit ressortir sèche.
+    5. Laissez refroidir les génoises retournées sur une grille avant de
+       les couper en 3 abaisses dans l’épaisseur avec un bon couteau à
+       pain.
+    6. Préparez la garniture. Montez au batteur les blancs d’œufs en neige
+       ferme avec le sel. Toujours au batteur, fouettez le mascarpone avec
+       le sucre et ajoutez le zeste râpé des citrons cédrat. Incorporez
+       les blancs en neige avec une spatule en soulevant bien la
+       préparation.
+    7. Placez une abaisse de génoise sur un serviteur. Imbibez-la
+       légèrement de limoncello avec un pinceau. Garnissez-la de crème en
+       lissant avec une spatule et superposez-la d’une autre abaisse.
+    8. Répétez l’opération avec le reste des ingrédients. Recouvrez le
+       dessus du gâteau et masquez le pourtour de celui-ci du reste de
+       crème en lissant bien le tout.
+    9. Placez-le au réfrigérateur pour au moins 2 heures.
+   10. Garnissez le gâteau de mangue coupée en dés au moment de servir.
+
+   Gâteau à étages cédrat mangue © SWALENS / SUCRÉ SALÉ
+   Gâteau à étages cédrat mangue
+   (BUTTON) Fermer
+
+Astuces et conseils pour Gâteau à étages cédrat mangue
+
+   Placez vos génoises sur un plateau tournant et réalisez des traces de
+   coupes en procédant à un premier tour, puis poursuivez l’opération en
+   enfonçant un peu plus la lame du couteau à chaque tour. Si cela vous
+   semble trop délicat, ne réalisez que deux abaisses pour chaque génoise.
+   (BUTTON) Voir plus Voir moins
+
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+
+Vos commentaires
+
+   • 0
+
+   Photo de l'internaute
+   13/03/2024
+
+   (BUTTON) Modifier
+
+Contenus sponsorisés
+
+Jetez un oeil à ces recettes
+
+   Gâteau cédrat
+   Gâteau cédrat
+   5
+
+   Confiture de cédrat
+   Confiture de cédrat
+   4.4
+
+   Glace aux noix et au cédrat
+   Glace aux noix et au cédrat
+   5
+
+Contenus sponsorisés
+
+Encore plus de recettes
+
+   génoisefromagefait d'avancecédratrecettes
+   originalesagrumespâtisserierecette pas
+   cheremascarponecitronmanguefruitsDessert
+
+     * (BUTTON) Je sauvegarde
+       Sauvegardé
+     * (BUTTON) Je cuisine
+     * (BUTTON) Les ingrédients
+
+   Confiture de cédrat
+
+   Confiture de cédrat
+   4.4
+
+Découvrez aussi...
+
+   Beignet de pommes au cédrat
+   Beignet de pommes au cédrat
+   Génoise pour gâteaux à étages
+   Génoise pour gâteaux à étages
+   Cheesecake à la mangue : Recette d'Halloween
+   Cheesecake à la mangue : Recette d'Halloween
+   Punch : recette originale
+   Punch : recette originale
+   Tiramisu recette originale
+   Tiramisu recette originale
+   Recette génoise Thermomix
+   Recette génoise Thermomix
+   Gâteau carotte : recette originale à la suisse
+   Gâteau carotte : recette originale à la suisse
+   Verrine mangue mascarpone
+   Verrine mangue mascarpone
+   Brioche à la fleur d'oranger et aux cédrats confits
+   Brioche à la fleur d'oranger et aux cédrats confits
+   Recette Thermomix mascarpone
+   Recette Thermomix mascarpone
+   Chocolat chaud : la recette originale
+   Chocolat chaud : la recette originale
+   Cannelés bordelais recette originale
+   Cannelés bordelais recette originale
+   Calzone : recette originale des Pouilles
+   Calzone : recette originale des Pouilles
+   Tarama : recette maison originale
+   Tarama : recette maison originale
+   Babka : recette originale de Pologne
+   Babka : recette originale de Pologne
+   Gratin dauphinois recette originale
+   Gratin dauphinois recette originale
+
+Nos suggestions de recettes
+
+     * Gâteau génoise au mascarpone et myrtilles
+     * Gâteau de Pâques fromage blanc-citron et gelée de mangue
+     * Crème de mascarpone coco-mangue
+     * Recette crème mascarpone vanille
+     * Panna cotta recette originale au café
+     * Recette salade de fruits
+     * Gâteau de crêpes à la mangue
+
+Recette par plat
+
+   Jus de fruits
+   Jus de fruits
+
+   Jus de légumes
+   Jus de légumes
+
+   Cocktail sans alcool
+   Cocktail sans alcool
+
+   Yaourt
+   Yaourt
+
+   Vinaigrette
+   Vinaigrette
+
+   Verrines
+   Verrines
+
+   Tourtes
+   Tourtes
+
+   Tortilla
+   Tortilla
+   Voir plus de Recette par plat
+   Toasts, Tiramisu, Terrines, Tartiflettes, Tartares, Tartes, Tarte
+   tatin, Tapas, Tajines, Sushis, Soupes, Smoothie,
+
+Vidéos gourmandes
+
+   Madeleines au cédrat : la bonne idée pour twister la recette
+   traditionnelle
+   Madeleines au cédrat : la bonne idée pour twister la recette
+   traditionnelle
+
+   Le fruit à ne pas manquer en décembre : la mangue
+   Le fruit à ne pas manquer en décembre : la mangue
+
+   Blanc-manger coco, mangue et fruits de la passion : la recette facile
+   et rapide pour un dessert de Noël
+   Blanc-manger coco, mangue et fruits de la passion : la recette facile
+   et rapide pour un dessert de Noël
+   Voir + de vidéos Cuisine
+
+Des recettes & des astuces pour me régaler
+
+   Je m'inscris aux newsletters
+
+Top recettes
+
+   Authentique et délicieuse mousse au chocolat
+   Authentique et délicieuse mousse au chocolat
+   4.6
+
+   Cookies moelleux américains
+   Cookies moelleux américains
+   4.4
+
+   Fondant au chocolat rapide
+   Fondant au chocolat rapide
+   4.1
+
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+   (BUTTON)
+   Ajouter à mes favoris
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Twitter
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   Abonnement prismashop
+
+   Cuisine Actuelle vous livre toutes ses recettes de cuisine
+
+   ©2024 - Prisma Média - Groupe Vivendi - Tous droits réservés
+     * Conditions générales d'utilisation
+     * Paramétrer vos cookies
+     * Mentions Légales
+     * Charte pour la protection des données
+     * Publicité
+     * Contacts & Crédits
+     * Votre kiosque
+     * Équipe éditoriale
+
+   Fréquentation certifiée par l'OJD
+   facebook instagram pinterest

@@ -1,0 +1,416 @@
+   #Flux RSS pour cuisineactuelle.fr
+
+   publicité
+
+   Naviguez dans l'univers
+
+   (BUTTON)
+
+   Naviguer dans l'univers
+     __________________________________________________________________
+
+     *
+     *
+
+   (BUTTON)
+   [avatar.svg] Mon profil
+     * Mon carnet de recettes
+     * Gérer mon profil
+     * Mes préférences de communication
+     * Déconnexion
+
+   (BUTTON) Menu Fermer
+   Mon carnet de recettes
+   Se connecter Connexion
+   Mon profil
+    1. Mon carnet de recettes
+    2. Gérer mon profil
+    3. Mes préférences de communication
+    4. Déconnexion
+
+   Toutes vos recettes
+   sauvegardées
+
+   (BUTTON)
+    1. Mon carnet de recettes
+    2. Recettes (BUTTON)
+         1. Recettes par plat
+         2. Apéritif
+         3. Entrée
+         4. Plat
+         5. Dessert
+         6. Boisson
+         7. Sauce
+         8. Pain & viennoiserie
+         1. Recettes par ingrédient
+         2. Légume
+         3. Viande
+         4. Poisson
+         5. Fromage
+         6. Fruit
+         7. Chocolat
+         1. Recettes Santé & allergies
+         2. Minceur
+         3. Végan
+         4. Végétarien
+         5. Sans lactose
+         6. Détox
+         7. Sans sucre
+         8. Sans gluten
+         1. Recettes par thème
+         2. Recettes de bases
+         3. Recettes traditionnelles
+         4. Recettes pas chères
+         5. Recettes faciles
+         6. Recettes rapides
+         7. Recettes de saison
+         8. Recettes pour enfants
+         9. Recettes originales
+    3. Inspirations (BUTTON)
+         1. Cuisine du monde Cuisine du monde
+         1. Cuisine régionale Cuisine régionale
+         1. Fêtes & évènements
+         2. Chandeleur
+         3. Fête des mères
+         4. Mardi gras
+         5. Pâques
+         6. Noël
+         7. Galette des rois
+         8. Ramadan
+         1. Modes de cuisson
+         2. Robots culinaires
+         3. Four
+         4. Cocotte
+         5. Micro-ondes
+         6. Vapeur
+         7. Barbecue
+         8. Wok
+         1. Plus d'idées
+         2. Apéro dînatoire
+         3. Brunch & Petit déjeuner
+         4. Buffet
+         5. Panier pique-nique
+         6. Réception
+         7. Tea time
+         8. Recettes gastronomiques
+         9. Recettes de chefs
+    4. Culture food (BUTTON)
+         1. Idées de menus
+         2. Menu de la semaine
+         3. Idées de repas
+         4. Tendances culinaires
+         1. Guide par ingrédient
+         2. Conservation des aliments
+         3. Tout savoir sur...
+         4. Cuisson des aliments
+         1. Les petits plus en cuisine
+         2. Conseils et astuces
+         3. Anti-gaspi
+         4. Guide d'achat
+         5. Gestes techniques
+         6. Actu food
+         1. Nutrition Nutrition
+         1. Vins et cocktails Vins et cocktails
+    5. Ramadan
+    6. Actu
+    7. Concours
+    8. Recette aléatoire
+    9. S'abonner au magazine
+   10. Newsletter
+
+   S'abonner au magazine
+   Je m'abonne
+   Newsletter
+
+   ____________________
+
+Recherche avancée
+
+   Par prix
+   (*) € ( ) €€ ( ) €€€ ( ) €€€€
+
+   Par note
+   (*) & plus ( ) & plus ( ) & plus ( ) & plus ( )
+
+   Par difficulté
+   (*) Facile ( ) Moyen ( ) Difficile
+   Valider Reset (BUTTON) Réinitialiser
+
+   Trouvez une recette…
+   ____________________
+   Rechercher
+   Rechercher
+
+   ____________________ (BUTTON) Rechercher
+
+   Mon carnet
+
+    1. Accueil
+    2. Recette par plat
+    3. Entrée
+
+   cuisineactuelle.fr
+
+   cuisine de fêtes (BUTTON) Être alerté des nouvelles recettes Suivre
+   (BUTTON) Ne plus être alerté Suivi
+
+Carpaccio de Saint-Jacques, pommes confites à la citronnelle, huile de sésame
+et citron vert
+
+   5 /5
+   Donnez votre avis
+
+   20 min
+
+   15 min
+
+   Cher
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   (BUTTON) Sauvegarder (BUTTON) Sauvegardé
+   Voir mon carnet de recettes Retirer de ma collection
+   (BUTTON) Imprimer (BUTTON) Voir la photo
+   de course
+
+
+Ingrédients
+
+   (BUTTON)
+   4__ personnes
+   (BUTTON)
+     * 24Noix de Saint-Jacques
+     * 2Pommes à cuire sucrées type golden
+     * 1Citron vert bio
+     * 1Botte de ciboulette
+     * 1Bâton de citronnelle
+     * 1cuil. à soupe Micropousses de scarlet(ou de perilla pourpre)
+     * 6cuil. à soupe Huile de sésame grillé
+     * Sel
+     * Poivre
+
+   Ingrédients
+     * 24Noix de Saint-Jacques
+     * 2Pommes à cuire sucrées type golden
+     * 1Citron vert bio
+     * 1Botte de ciboulette
+     * 1Bâton de citronnelle
+     * 1cuil. à soupe Micropousses de scarlet(ou de perilla pourpre)
+     * 6cuil. à soupe Huile de sésame grillé
+     * Sel
+     * Poivre
+
+Étapes de préparation
+
+    1. Râpez le zeste du citron vert puis pressez-le pour en extraire le
+       jus. Pelez et coupez les pommes en petits cubes. Placez-les dans
+       une casserole avec la citronnelle fendue en deux dans la longueur
+       puis coupée en deux. Versez 4 cuil. à soupe d’eau, le jus de
+       citron, couvrez et portez à frémissement. Laissez cuire pendant 10
+       min.
+    2. Retirez le couvercle et laissez cuire jusqu’à évaporation totale de
+       l’eau. Laissez refroidir, retirez la citronnelle. Entreposez au
+       réfrigérateur pour au moins 2 h.
+    3. Lavez les noix de Saint-Jacques sous un filet d’eau fraîche en
+       ôtant le pied et la membrane environnant la noix. Tamponnez-les sur
+       du papier absorbant. Tranchez-les en fines lamelles
+       transversalement à l’aide d’un bon couteau.
+    4. Arrangez-les dans le fond de 4 assiettes, salez et poivrez. Déposez
+       un peu de compotée de pomme à la citronnelle au centre. Arrosez
+       d’huile de sésame et parsemez de zeste de citron vert. Ajoutez en
+       dernière touche la ciboulette ciselée, les micropousses puis
+       servez.
+
+   Carpaccio de Saint-Jacques, pommes confites à la citronnelle, huile de
+   sésame et citron vert © Lhomme / Saveurs/ Sunray Photo
+   Carpaccio de Saint-Jacques, pommes confites à la citronnelle, huile de
+   sésame et citron vert
+   (BUTTON) Fermer
+   Juliette Tercaefs
+
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+
+Vos commentaires
+
+   • 0
+
+   Photo de l'internaute
+   13/03/2024
+
+   (BUTTON) Modifier
+
+Contenus sponsorisés
+
+Jetez un oeil à ces recettes
+
+   Carpaccio de noix de Saint-Jacques au citron
+   Carpaccio de noix de Saint-Jacques au citron
+   3.2
+
+   Noix de Saint-Jacques à la citronnelle
+   Noix de Saint-Jacques à la citronnelle
+   4
+
+   Saint-Jacques au citron vert
+   Saint-Jacques au citron vert
+   4.4
+
+Contenus sponsorisés
+
+Encore plus de recettes
+
+   cuisine de fêtescrustacérecettes de Noëlsucré saléfruits de
+   merpommenoix de saint-jacquesRecette de Noëlfêtes de fin d'annéeEntrée
+
+     * (BUTTON) Je sauvegarde
+       Sauvegardé
+     * (BUTTON) Je cuisine
+     * (BUTTON) Les ingrédients
+
+   Noix de Saint-Jacques à la citronnelle
+
+   Noix de Saint-Jacques à la citronnelle
+   4.0
+
+Découvrez aussi...
+
+   Saint-Jacques gratinées de Noël
+   Saint-Jacques gratinées de Noël
+   Saint-jacques à la pomme verte
+   Saint-jacques à la pomme verte
+   Coquille Saint Jacques de Noel
+   Coquille Saint Jacques de Noel
+   Saint-Jacques crues à l’huile citronnée
+   Saint-Jacques crues à l’huile citronnée
+   Carpaccio de noix de Saint-Jacques
+   Carpaccio de noix de Saint-Jacques
+   Recette de noix de Saint-Jacques gratinées au citron, romarin et
+   noisettes
+   Recette de noix de Saint-Jacques gratinées au citron, romarin et
+   noisettes
+   Tartare de Saint-Jacques au citron vert
+   Tartare de Saint-Jacques au citron vert
+   Tartare de Saint-Jacques au citron vert
+   Tartare de Saint-Jacques au citron vert
+   Carpaccio de Saint-Jacques
+   Carpaccio de Saint-Jacques
+   Carpaccio de Saint-Jacques
+   Carpaccio de Saint-Jacques
+   Carpaccio de Saint-Jacques
+   Carpaccio de Saint-Jacques
+   Saint-Jacques marinées au citron
+   Saint-Jacques marinées au citron
+   Fantaisie de saint-jacques crues à l'huile citronnée
+   Fantaisie de saint-jacques crues à l'huile citronnée
+   Saint-Jacques, pommes à cidre et noix
+   Saint-Jacques, pommes à cidre et noix
+
+Nos suggestions de recettes
+
+     * Verrines de Noël au tartare de Saint-Jacques
+     * Noix de Saint-Jacques à l’huile de truffe
+     * Carpaccio de noix de saint-jacques et crevettes
+     * Carpaccio de Saint-Jacques aux fruits de la passion
+     * Carpaccio de Saint-Jacques aux fruits de la passion
+     * Crumble de Saint Jacques et pommes
+     * Saint-Jacques au beurre de menthe et citron vert
+
+Recette par plat
+
+   Jus de fruits
+   Jus de fruits
+
+   Jus de légumes
+   Jus de légumes
+
+   Cocktail sans alcool
+   Cocktail sans alcool
+
+   Yaourt
+   Yaourt
+
+   Vinaigrette
+   Vinaigrette
+
+   Verrines
+   Verrines
+
+   Tourtes
+   Tourtes
+
+   Tortilla
+   Tortilla
+   Voir plus de Recette par plat
+   Toasts, Tiramisu, Terrines, Tartiflettes, Tartares, Tartes, Tarte
+   tatin, Tapas, Tajines, Sushis, Soupes, Smoothie,
+
+Vidéos gourmandes
+
+   Noix de Saint-Jacques pour les fêtes : 15 recettes rapides à préparer
+   Noix de Saint-Jacques pour les fêtes : 15 recettes rapides à préparer
+
+   Coquilles Saint-Jacques : nos meilleures recettes de fête
+   Coquilles Saint-Jacques : nos meilleures recettes de fête
+
+   Verrines de saint-jacques, mangue et citron vert en vidéo
+   Verrines de saint-jacques, mangue et citron vert en vidéo
+   Voir + de vidéos Cuisine
+
+Des recettes & des astuces pour me régaler
+
+   Je m'inscris aux newsletters
+
+Top recettes
+
+   Quiche aux poireaux
+   Quiche aux poireaux
+   4
+
+   Brick aux épinards et chèvre
+   Brick aux épinards et chèvre
+   4.3
+
+   Endivettes apéro
+   Endivettes apéro
+   4.3
+
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+   (BUTTON)
+   Ajouter à mes favoris
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Twitter
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   Abonnement prismashop
+
+   Cuisine Actuelle vous livre toutes ses recettes de cuisine
+
+   ©2024 - Prisma Média - Groupe Vivendi - Tous droits réservés
+     * Conditions générales d'utilisation
+     * Paramétrer vos cookies
+     * Mentions Légales
+     * Charte pour la protection des données
+     * Publicité
+     * Contacts & Crédits
+     * Votre kiosque
+     * Équipe éditoriale
+
+   Fréquentation certifiée par l'OJD
+   facebook instagram pinterest

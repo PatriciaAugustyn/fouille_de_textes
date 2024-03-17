@@ -1,0 +1,424 @@
+   #Flux RSS pour cuisineactuelle.fr
+
+   publicité
+
+   Naviguez dans l'univers
+
+   (BUTTON)
+
+   Naviguer dans l'univers
+     __________________________________________________________________
+
+     *
+     *
+
+   (BUTTON)
+   [avatar.svg] Mon profil
+     * Mon carnet de recettes
+     * Gérer mon profil
+     * Mes préférences de communication
+     * Déconnexion
+
+   (BUTTON) Menu Fermer
+   Mon carnet de recettes
+   Se connecter Connexion
+   Mon profil
+    1. Mon carnet de recettes
+    2. Gérer mon profil
+    3. Mes préférences de communication
+    4. Déconnexion
+
+   Toutes vos recettes
+   sauvegardées
+
+   (BUTTON)
+    1. Mon carnet de recettes
+    2. Recettes (BUTTON)
+         1. Recettes par plat
+         2. Apéritif
+         3. Entrée
+         4. Plat
+         5. Dessert
+         6. Boisson
+         7. Sauce
+         8. Pain & viennoiserie
+         1. Recettes par ingrédient
+         2. Légume
+         3. Viande
+         4. Poisson
+         5. Fromage
+         6. Fruit
+         7. Chocolat
+         1. Recettes Santé & allergies
+         2. Minceur
+         3. Végan
+         4. Végétarien
+         5. Sans lactose
+         6. Détox
+         7. Sans sucre
+         8. Sans gluten
+         1. Recettes par thème
+         2. Recettes de bases
+         3. Recettes traditionnelles
+         4. Recettes pas chères
+         5. Recettes faciles
+         6. Recettes rapides
+         7. Recettes de saison
+         8. Recettes pour enfants
+         9. Recettes originales
+    3. Inspirations (BUTTON)
+         1. Cuisine du monde Cuisine du monde
+         1. Cuisine régionale Cuisine régionale
+         1. Fêtes & évènements
+         2. Chandeleur
+         3. Fête des mères
+         4. Mardi gras
+         5. Pâques
+         6. Noël
+         7. Galette des rois
+         8. Ramadan
+         1. Modes de cuisson
+         2. Robots culinaires
+         3. Four
+         4. Cocotte
+         5. Micro-ondes
+         6. Vapeur
+         7. Barbecue
+         8. Wok
+         1. Plus d'idées
+         2. Apéro dînatoire
+         3. Brunch & Petit déjeuner
+         4. Buffet
+         5. Panier pique-nique
+         6. Réception
+         7. Tea time
+         8. Recettes gastronomiques
+         9. Recettes de chefs
+    4. Culture food (BUTTON)
+         1. Idées de menus
+         2. Menu de la semaine
+         3. Idées de repas
+         4. Tendances culinaires
+         1. Guide par ingrédient
+         2. Conservation des aliments
+         3. Tout savoir sur...
+         4. Cuisson des aliments
+         1. Les petits plus en cuisine
+         2. Conseils et astuces
+         3. Anti-gaspi
+         4. Guide d'achat
+         5. Gestes techniques
+         6. Actu food
+         1. Nutrition Nutrition
+         1. Vins et cocktails Vins et cocktails
+    5. Ramadan
+    6. Actu
+    7. Concours
+    8. Recette aléatoire
+    9. S'abonner au magazine
+   10. Newsletter
+
+   S'abonner au magazine
+   Je m'abonne
+   Newsletter
+
+   ____________________
+
+Recherche avancée
+
+   Par prix
+   (*) € ( ) €€ ( ) €€€ ( ) €€€€
+
+   Par note
+   (*) & plus ( ) & plus ( ) & plus ( ) & plus ( )
+
+   Par difficulté
+   (*) Facile ( ) Moyen ( ) Difficile
+   Valider Reset (BUTTON) Réinitialiser
+
+   Trouvez une recette…
+   ____________________
+   Rechercher
+   Rechercher
+
+   ____________________ (BUTTON) Rechercher
+
+   Mon carnet
+
+    1. Accueil
+    2. Recette par plat
+    3. Entrée
+    4. Soupes
+
+   cuisineactuelle.fr
+
+   charcuterie (BUTTON) Être alerté des nouvelles recettes Suivre (BUTTON)
+   Ne plus être alerté Suivi
+
+Soupe de pois cassés aux saucisses de Morteau confites
+
+   5 /5
+   Donnez votre avis
+
+   10 min
+
+   1 h 30
+
+   Bon marché
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   (BUTTON) Sauvegarder (BUTTON) Sauvegardé
+   Voir mon carnet de recettes Retirer de ma collection
+   (BUTTON) Imprimer (BUTTON) Voir la photo
+   de course
+
+
+Ingrédients
+
+   (BUTTON)
+   4__ personnes
+   (BUTTON)
+     * 2Saucisses de Morteau
+     * 200g Lard fumé
+     * 6échalotes
+     * 1Oignon
+     * 0,5Botte de cerfeuil
+     * 250g Pois cassés
+     * 1Cube de bouillon de légumes
+     * 1Petite boîte de maïs
+     * Poivre
+
+   Ingrédients
+     * 2Saucisses de Morteau
+     * 200g Lard fumé
+     * 6échalotes
+     * 1Oignon
+     * 0,5Botte de cerfeuil
+     * 250g Pois cassés
+     * 1Cube de bouillon de légumes
+     * 1Petite boîte de maïs
+     * Poivre
+
+Étapes de préparation
+
+    1. Portez à ébullition 4 l d’eau avec le cube de bouillon de légumes.
+    2. Pelez les échalotes et taillez le lard en lardons en retirant la
+       couenne. Pelez l’oignon et coupez-le en lamelles.
+    3. Plongez les pois cassés, l’oignon et les saucisses dans l’eau
+       bouillante. Sortez les saucisses de Morteau au bout de 30 minutes.
+    4. Préchauffez le four à 180 °C (th.6).
+    5. Ajoutez les échalotes dans l’eau des pois cassés et faites cuire
+       encore 45 minutes.
+    6. Enveloppez chaque saucisse dans une feuille de papier cuisson puis
+       dans une feuille de papier aluminium. Placez-les dans un plat à
+       four et enfournez pour 1 heure.
+    7. Ajoutez les lardons et le maïs préalablement égoutté dans la soupe
+       et faites mijoter le tout encore 15 minutes.
+    8. Sortez les pois cassés aux lardons et aux échalotes avec une
+       écumoire, ajoutez 2 belles louches d’eau de cuisson et mixez
+       grossièrement, puis poivrez bien. Déposez les saucisses de Morteau
+       confite coupées en tranches par-dessus. Parsemez de cerfeuil
+       effeuillé et haché puis servez.
+
+   Soupe de pois cassés aux saucisses de Morteau confites © PLOTON / SUCRÉ
+   SALÉ
+   Soupe de pois cassés aux saucisses de Morteau confites
+   (BUTTON) Fermer
+   Marie Gabet
+
+Astuces et conseils pour Soupe de pois cassés aux saucisses de Morteau
+confites
+
+   Faites cuire les pois cassés directement avec les échalotes et les
+   lardons dans une cocotte minute en réduisant le temps de cuisson à 45
+   minutes. Faites cuire les saucisses de Morteau par ailleurs dans une
+   casserole d’eau bouillante pendant 20 minutes puis mettez-les à confire
+   au four pour 25 minutes.
+
+   Découvrez également notre recette de petit salé aux lentilles ou aussi
+   la soupe de poisson.
+   (BUTTON) Voir plus Voir moins
+
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+
+Vos commentaires
+
+   • 0
+
+   Photo de l'internaute
+   13/03/2024
+
+   (BUTTON) Modifier
+
+Contenus sponsorisés
+
+Jetez un oeil à ces recettes
+
+   Soupe au chou et à la saucisse de Morteau
+   Soupe au chou et à la saucisse de Morteau
+   4.6
+
+   Tian de légumes à la saucisse de morteau
+   Tian de légumes à la saucisse de morteau
+   5
+
+   Saucisses de morteau aux oignons confits
+   Saucisses de morteau aux oignons confits
+   5
+
+Contenus sponsorisés
+
+Encore plus de recettes
+
+   charcuterieSoupe aux légumeslard fumésoupeentréemaïssaucisse de
+   morteaucuisine familialepotagelégume seccuisine facilerecette
+   facilerecettes familialesSoupes
+
+     * (BUTTON) Je sauvegarde
+       Sauvegardé
+     * (BUTTON) Je cuisine
+     * (BUTTON) Les ingrédients
+
+   Tian de légumes à la saucisse de morteau
+
+   Tian de légumes à la saucisse de morteau
+   5.0
+
+Découvrez aussi...
+
+   Soupe potage légumes
+   Soupe potage légumes
+   Cake à la saucisse de Morteau
+   Cake à la saucisse de Morteau
+   Saucisse de morteau en tajine
+   Saucisse de morteau en tajine
+   Chaussons à la saucisse de morteau
+   Chaussons à la saucisse de morteau
+   Cannelés à la saucisse de Morteau
+   Cannelés à la saucisse de Morteau
+   Saucisse de Morteau en brioche
+   Saucisse de Morteau en brioche
+   Parmentier aux saucisses de Morteau
+   Parmentier aux saucisses de Morteau
+   Rosti à la saucisse de Morteau
+   Rosti à la saucisse de Morteau
+   Soupe des grands froids : lentilles, cantal et saucisse de Morteau
+   Soupe des grands froids : lentilles, cantal et saucisse de Morteau
+   Soupe aux légumes facile et rapide
+   Soupe aux légumes facile et rapide
+   Soupe de légumes secs
+   Soupe de légumes secs
+   Saucisse fumée aux pois cassés
+   Saucisse fumée aux pois cassés
+
+Nos suggestions de recettes
+
+     * Saucisse de Morteau, chou vert frisé et légumes
+     * Soupe de pois cassés
+     * Soupe de pois cassés
+     * Soupe de pois cassés
+     * Soupe de pois cassés
+     * Saucisses aux pois cassés
+     * Soupe au pistou et saucisse
+
+Recette par plat
+
+   Verrines
+   Verrines
+
+   Terrines
+   Terrines
+
+   Tartares
+   Tartares
+
+   Sushis
+   Sushis
+
+   Tartines salées
+   Tartines salées
+
+   Tartes salées
+   Tartes salées
+
+   Salades
+   Salades
+
+   Quiches
+   Quiches
+   Voir plus de Recette par plat
+   Gaspachos, Foie gras, Feuilletés, Carpaccios, Bricks, Aumônières,
+
+Vidéos gourmandes
+
+   Soupe à l'oignon facile : la recette comme chez Mamie
+   Soupe à l'oignon facile : la recette comme chez Mamie
+
+   Gâteau de pommes de terre et saucisse de Morteau : la recette
+   réconfortante et anti-déprime
+   Gâteau de pommes de terre et saucisse de Morteau : la recette
+   réconfortante et anti-déprime
+
+   Soupe de poulet au citron : la recette facile et originale en vidéo
+   Soupe de poulet au citron : la recette facile et originale en vidéo
+   Voir + de vidéos Cuisine
+
+Des recettes & des astuces pour me régaler
+
+   Je m'inscris aux newsletters
+
+Top recettes
+
+   Quiche aux poireaux
+   Quiche aux poireaux
+   4
+
+   Brick aux épinards et chèvre
+   Brick aux épinards et chèvre
+   4.3
+
+   Endivettes apéro
+   Endivettes apéro
+   4.3
+
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+   (BUTTON)
+   Ajouter à mes favoris
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Twitter
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   Abonnement prismashop
+
+   Cuisine Actuelle vous livre toutes ses recettes de cuisine
+
+   ©2024 - Prisma Média - Groupe Vivendi - Tous droits réservés
+     * Conditions générales d'utilisation
+     * Paramétrer vos cookies
+     * Mentions Légales
+     * Charte pour la protection des données
+     * Publicité
+     * Contacts & Crédits
+     * Votre kiosque
+     * Équipe éditoriale
+
+   Fréquentation certifiée par l'OJD
+   facebook instagram pinterest

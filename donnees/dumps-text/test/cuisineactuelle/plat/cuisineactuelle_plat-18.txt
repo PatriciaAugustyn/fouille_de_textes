@@ -1,0 +1,415 @@
+   #Flux RSS pour cuisineactuelle.fr
+
+   publicité
+
+   Naviguez dans l'univers
+
+   (BUTTON)
+
+   Naviguer dans l'univers
+     __________________________________________________________________
+
+     *
+     *
+
+   (BUTTON)
+   [avatar.svg] Mon profil
+     * Mon carnet de recettes
+     * Gérer mon profil
+     * Mes préférences de communication
+     * Déconnexion
+
+   (BUTTON) Menu Fermer
+   Mon carnet de recettes
+   Se connecter Connexion
+   Mon profil
+    1. Mon carnet de recettes
+    2. Gérer mon profil
+    3. Mes préférences de communication
+    4. Déconnexion
+
+   Toutes vos recettes
+   sauvegardées
+
+   (BUTTON)
+    1. Mon carnet de recettes
+    2. Recettes (BUTTON)
+         1. Recettes par plat
+         2. Apéritif
+         3. Entrée
+         4. Plat
+         5. Dessert
+         6. Boisson
+         7. Sauce
+         8. Pain & viennoiserie
+         1. Recettes par ingrédient
+         2. Légume
+         3. Viande
+         4. Poisson
+         5. Fromage
+         6. Fruit
+         7. Chocolat
+         1. Recettes Santé & allergies
+         2. Minceur
+         3. Végan
+         4. Végétarien
+         5. Sans lactose
+         6. Détox
+         7. Sans sucre
+         8. Sans gluten
+         1. Recettes par thème
+         2. Recettes de bases
+         3. Recettes traditionnelles
+         4. Recettes pas chères
+         5. Recettes faciles
+         6. Recettes rapides
+         7. Recettes de saison
+         8. Recettes pour enfants
+         9. Recettes originales
+    3. Inspirations (BUTTON)
+         1. Cuisine du monde Cuisine du monde
+         1. Cuisine régionale Cuisine régionale
+         1. Fêtes & évènements
+         2. Chandeleur
+         3. Fête des mères
+         4. Mardi gras
+         5. Pâques
+         6. Noël
+         7. Galette des rois
+         8. Ramadan
+         1. Modes de cuisson
+         2. Robots culinaires
+         3. Four
+         4. Cocotte
+         5. Micro-ondes
+         6. Vapeur
+         7. Barbecue
+         8. Wok
+         1. Plus d'idées
+         2. Apéro dînatoire
+         3. Brunch & Petit déjeuner
+         4. Buffet
+         5. Panier pique-nique
+         6. Réception
+         7. Tea time
+         8. Recettes gastronomiques
+         9. Recettes de chefs
+    4. Culture food (BUTTON)
+         1. Idées de menus
+         2. Menu de la semaine
+         3. Idées de repas
+         4. Tendances culinaires
+         1. Guide par ingrédient
+         2. Conservation des aliments
+         3. Tout savoir sur...
+         4. Cuisson des aliments
+         1. Les petits plus en cuisine
+         2. Conseils et astuces
+         3. Anti-gaspi
+         4. Guide d'achat
+         5. Gestes techniques
+         6. Actu food
+         1. Nutrition Nutrition
+         1. Vins et cocktails Vins et cocktails
+    5. Ramadan
+    6. Actu
+    7. Concours
+    8. Recette aléatoire
+    9. S'abonner au magazine
+   10. Newsletter
+
+   S'abonner au magazine
+   Je m'abonne
+   Newsletter
+
+   ____________________
+
+Recherche avancée
+
+   Par prix
+   (*) € ( ) €€ ( ) €€€ ( ) €€€€
+
+   Par note
+   (*) & plus ( ) & plus ( ) & plus ( ) & plus ( )
+
+   Par difficulté
+   (*) Facile ( ) Moyen ( ) Difficile
+   Valider Reset (BUTTON) Réinitialiser
+
+   Trouvez une recette…
+   ____________________
+   Rechercher
+   Rechercher
+
+   ____________________ (BUTTON) Rechercher
+
+   Mon carnet
+
+    1. Accueil
+    2. Recette par ingrédient
+    3. Fromages
+    4. Feta
+
+   cuisineactuelle.fr
+
+   sauce tomate (BUTTON) Être alerté des nouvelles recettes Suivre
+   (BUTTON) Ne plus être alerté Suivi
+
+Pois chiches rôtis au four à la feta
+
+   2 /5 1 note
+   Lire l'avis
+
+   5 min
+
+   5 min
+
+   Bon marché
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   (BUTTON) Sauvegarder (BUTTON) Sauvegardé
+   Voir mon carnet de recettes Retirer de ma collection
+   (BUTTON) Imprimer (BUTTON) Voir la photo
+   de course
+
+
+Ingrédients
+
+   (BUTTON)
+   4__ personnes
+   (BUTTON)
+     * 1Grande boite de pois chiches
+     * 1CC Curcuma
+     * 1Bloc de feta
+     * 2Grandes boites de concassé de tomate
+     * 1CS Herbes de provence
+     * Calories = Moyen
+
+   Ingrédients
+     * 1Grande boite de pois chiches
+     * 1CC Curcuma
+     * 1Bloc de feta
+     * 2Grandes boites de concassé de tomate
+     * 1CS Herbes de provence
+     * Calories = Moyen
+
+Étapes de préparation
+
+    1. Rincez les pois chiches.
+    2. Dans une grande poêle allant au four faites chauffer un filet
+       d'huile d'olive. Ajoutez-les les pois chiches, faites revenir
+       quelques instants puis ajoutez les herbes de provence, le curcuma
+       et salez.
+    3. Ajoutez la sauce tomate et laissez mijoter à nouveau.
+    4. Placez la feta au milieu, ajoutez un filet d'huile d'olive, et
+       passez quelques minutes dans un four chaffé à 180°C, le temps que
+       la feta fonde.
+    5. Dégustez chaud.
+
+   Pois chiches rôtis au four à la feta © Cuisine Actuelle
+   Pois chiches rôtis au four à la feta
+   (BUTTON) Fermer
+   Marion Poirot
+
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+
+Vos commentaires
+
+   • 1
+   Photo de l'internaute
+   01/03/2024
+
+   J'ai trouvé qu'il y avait trop de tomates et que le goût était acide.
+   (BUTTON) Modifier
+
+   Photo de l'internaute
+   13/03/2024
+
+   J'ai trouvé qu'il y avait trop de tomates et que le goût était acide.
+   (BUTTON) Modifier
+   Photo de l'internaute
+   13/03/2024
+
+   (BUTTON) Modifier
+
+Contenus sponsorisés
+
+Jetez un oeil à ces recettes
+
+   Salade de quinoa, pois chiche, courgettes, feta et grenade
+   Salade de quinoa, pois chiche, courgettes, feta et grenade
+   5
+
+   Beignets de pois chiches
+   Beignets de pois chiches
+   5
+
+   Flétan aux pois chiches
+   Flétan aux pois chiches
+   5
+
+Contenus sponsorisés
+
+Encore plus de recettes
+
+   sauce tomatefetapois chicheFetaPlat
+
+     * (BUTTON) Je sauvegarde
+       Sauvegardé
+     * (BUTTON) Je cuisine
+     * (BUTTON) Les ingrédients
+
+   Beignets de pois chiches
+
+   Beignets de pois chiches
+   5.0
+
+Découvrez aussi...
+
+   Pois chiches au cumin
+   Pois chiches au cumin
+   Soupe de pois chiches
+   Soupe de pois chiches
+   Pois chiches au chorizo
+   Pois chiches au chorizo
+   Burger de pois chiches
+   Burger de pois chiches
+   Purée de pois chiches
+   Purée de pois chiches
+   Pois chiches en potée
+   Pois chiches en potée
+   Salade de pois chiches
+   Salade de pois chiches
+   Velouté de pois chiches
+   Velouté de pois chiches
+   Curry de pois chiches
+   Curry de pois chiches
+   Porridge de pois chiches
+   Porridge de pois chiches
+   Pois chiche à l'orientale
+   Pois chiche à l'orientale
+   Pois chiches grillés
+   Pois chiches grillés
+   Velouté de pois chiches
+   Velouté de pois chiches
+   Pois chiches au chorizo
+   Pois chiches au chorizo
+   Burger aux pois chiches
+   Burger aux pois chiches
+   Boulettes de pois chiches
+   Boulettes de pois chiches
+
+Nos suggestions de recettes
+
+     * Blinis au pois chiche
+     * Verrine pois chiche
+     * Pois chiches au chorizo
+     * Pois chiches au chorizo
+     * Poulet pois chiches
+     * Pâtes aux pois chiches
+     * Soupe de pois chiche
+
+Recette par ingrédient
+
+   Tomme
+   Tomme
+
+   Roquefort
+   Roquefort
+
+   Ricotta
+   Ricotta
+
+   Reblochon
+   Reblochon
+
+   Parmesan
+   Parmesan
+
+   Mozzarella
+   Mozzarella
+
+   Mascarpone
+   Mascarpone
+
+   Gruyère
+   Gruyère
+   Voir plus de Recette par ingrédient
+   Emmental, Comté, Chèvre, Cantal, Camembert, Fromage blanc, Beaufort,
+   Bleu d'Auvergne, Fourme d'Ambert,
+
+Vidéos gourmandes
+
+   Que faire avec une boîte de pois chiches (et ne jetez plus l'eau des
+   pois chiches)
+   Que faire avec une boîte de pois chiches (et ne jetez plus l'eau des
+   pois chiches)
+
+   Curry de pois chiches à la tomate : la recette super rapide pour se
+   réchauffer
+   Curry de pois chiches à la tomate : la recette super rapide pour se
+   réchauffer
+
+   Pourquoi l'eau de pois chiche devient mousse ?
+   Pourquoi l'eau de pois chiche devient mousse ?
+   Voir + de vidéos Cuisine
+
+Des recettes & des astuces pour me régaler
+
+   Je m'inscris aux newsletters
+
+Top recettes
+
+   Gaufres salées jambon/gruyère
+   Gaufres salées jambon/gruyère
+   4.1
+
+   Moules à la crème et au vin blanc
+   Moules à la crème et au vin blanc
+   4.2
+
+   Baguettes garnies crème/lardons/gruyère au four
+   Baguettes garnies crème/lardons/gruyère au four
+   4.1
+
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+   (BUTTON)
+   Ajouter à mes favoris
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Twitter
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   Abonnement prismashop
+
+   Cuisine Actuelle vous livre toutes ses recettes de cuisine
+
+   ©2024 - Prisma Média - Groupe Vivendi - Tous droits réservés
+     * Conditions générales d'utilisation
+     * Paramétrer vos cookies
+     * Mentions Légales
+     * Charte pour la protection des données
+     * Publicité
+     * Contacts & Crédits
+     * Votre kiosque
+     * Équipe éditoriale
+
+   Fréquentation certifiée par l'OJD
+   facebook instagram pinterest

@@ -1,0 +1,425 @@
+   #Flux RSS pour cuisineactuelle.fr
+
+   publicité
+
+   Naviguez dans l'univers
+
+   (BUTTON)
+
+   Naviguer dans l'univers
+     __________________________________________________________________
+
+     *
+     *
+
+   (BUTTON)
+   [avatar.svg] Mon profil
+     * Mon carnet de recettes
+     * Gérer mon profil
+     * Mes préférences de communication
+     * Déconnexion
+
+   (BUTTON) Menu Fermer
+   Mon carnet de recettes
+   Se connecter Connexion
+   Mon profil
+    1. Mon carnet de recettes
+    2. Gérer mon profil
+    3. Mes préférences de communication
+    4. Déconnexion
+
+   Toutes vos recettes
+   sauvegardées
+
+   (BUTTON)
+    1. Mon carnet de recettes
+    2. Recettes (BUTTON)
+         1. Recettes par plat
+         2. Apéritif
+         3. Entrée
+         4. Plat
+         5. Dessert
+         6. Boisson
+         7. Sauce
+         8. Pain & viennoiserie
+         1. Recettes par ingrédient
+         2. Légume
+         3. Viande
+         4. Poisson
+         5. Fromage
+         6. Fruit
+         7. Chocolat
+         1. Recettes Santé & allergies
+         2. Minceur
+         3. Végan
+         4. Végétarien
+         5. Sans lactose
+         6. Détox
+         7. Sans sucre
+         8. Sans gluten
+         1. Recettes par thème
+         2. Recettes de bases
+         3. Recettes traditionnelles
+         4. Recettes pas chères
+         5. Recettes faciles
+         6. Recettes rapides
+         7. Recettes de saison
+         8. Recettes pour enfants
+         9. Recettes originales
+    3. Inspirations (BUTTON)
+         1. Cuisine du monde Cuisine du monde
+         1. Cuisine régionale Cuisine régionale
+         1. Fêtes & évènements
+         2. Chandeleur
+         3. Fête des mères
+         4. Mardi gras
+         5. Pâques
+         6. Noël
+         7. Galette des rois
+         8. Ramadan
+         1. Modes de cuisson
+         2. Robots culinaires
+         3. Four
+         4. Cocotte
+         5. Micro-ondes
+         6. Vapeur
+         7. Barbecue
+         8. Wok
+         1. Plus d'idées
+         2. Apéro dînatoire
+         3. Brunch & Petit déjeuner
+         4. Buffet
+         5. Panier pique-nique
+         6. Réception
+         7. Tea time
+         8. Recettes gastronomiques
+         9. Recettes de chefs
+    4. Culture food (BUTTON)
+         1. Idées de menus
+         2. Menu de la semaine
+         3. Idées de repas
+         4. Tendances culinaires
+         1. Guide par ingrédient
+         2. Conservation des aliments
+         3. Tout savoir sur...
+         4. Cuisson des aliments
+         1. Les petits plus en cuisine
+         2. Conseils et astuces
+         3. Anti-gaspi
+         4. Guide d'achat
+         5. Gestes techniques
+         6. Actu food
+         1. Nutrition Nutrition
+         1. Vins et cocktails Vins et cocktails
+    5. Ramadan
+    6. Actu
+    7. Concours
+    8. Recette aléatoire
+    9. S'abonner au magazine
+   10. Newsletter
+
+   S'abonner au magazine
+   Je m'abonne
+   Newsletter
+
+   ____________________
+
+Recherche avancée
+
+   Par prix
+   (*) € ( ) €€ ( ) €€€ ( ) €€€€
+
+   Par note
+   (*) & plus ( ) & plus ( ) & plus ( ) & plus ( )
+
+   Par difficulté
+   (*) Facile ( ) Moyen ( ) Difficile
+   Valider Reset (BUTTON) Réinitialiser
+
+   Trouvez une recette…
+   ____________________
+   Rechercher
+   Rechercher
+
+   ____________________ (BUTTON) Rechercher
+
+   Mon carnet
+
+    1. Accueil
+    2. Recette par plat
+    3. Entrée
+
+   cuisineactuelle.fr
+
+   recette facile (BUTTON) Être alerté des nouvelles recettes Suivre
+   (BUTTON) Ne plus être alerté Suivi
+
+Salade de magret séché à la gelée de porto
+
+   5 /5
+   Donnez votre avis
+
+   15 min
+
+   5 min
+
+   Moyen
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   (BUTTON) Sauvegarder (BUTTON) Sauvegardé
+   Voir mon carnet de recettes Retirer de ma collection
+   (BUTTON) Imprimer (BUTTON) Voir la photo
+   de course
+
+
+Ingrédients
+
+   (BUTTON)
+   4__ personnes
+   (BUTTON)
+     * 80g Tranches de magret séché
+     * 1Belle poire un peu ferme
+     * 100g Mâche
+     * 100g Mesclun
+     * 10cl Porto blanc
+     * 4cuil. à soupe Huile d’olive
+     * 4cuil. à soupe Huile de noix
+     * 3cuil. à soupe Vinaigre de vin
+     * 20Cerneaux de noix
+     * 2g Agar-agar
+     * Sel
+     * Poivre
+
+   Ingrédients
+     * 80g Tranches de magret séché
+     * 1Belle poire un peu ferme
+     * 100g Mâche
+     * 100g Mesclun
+     * 10cl Porto blanc
+     * 4cuil. à soupe Huile d’olive
+     * 4cuil. à soupe Huile de noix
+     * 3cuil. à soupe Vinaigre de vin
+     * 20Cerneaux de noix
+     * 2g Agar-agar
+     * Sel
+     * Poivre
+
+Étapes de préparation
+
+    1. Mélangez dans une petite casserole le porto avec 10 cl d’eau et
+       l’agar-agar. Portez à ébullition en fouettant puis versez dans un
+       contenant large à fond plat afin d’obtenir 1,5 cm à 2 cm
+       d’épaisseur. Laissez refroidir et placez au réfrigérateur pendant 1
+       heure.
+    2. Rincez et essorez la mâche et le mesclun. Pelez, épépinez et coupez
+       la poire en fins quartiers.
+    3. Fouettez les 2 huiles avec le vinaigre et 1 cuillerée à soupe d’eau
+       dans un saladier, salez, poivrez puis ajoutez les salades et
+       mélangez. Répartissez dans 4 assiettes creuses.
+    4. Dispersez les morceaux de poire. Enroulez les tranches de magret
+       séché sur elles-mêmes et disposez-les joliment. Découpez la gelée
+       en cubes et ajoutez-les, ainsi que des cerneaux de noix
+       grossièrement concassés.
+    5. Servez sans attendre.
+
+   Salade de magret séché à la gelée de porto © CZERW / SAVEURS /
+   SUNRAYPHOTO
+   Salade de magret séché à la gelée de porto
+   (BUTTON) Fermer
+
+Astuces et conseils pour Salade de magret séché à la gelée de porto
+
+   Optez pour un canard du Sud-Ouest nourri sans OGM et préparé sans
+   nitrites.
+   (BUTTON) Voir plus Voir moins
+
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+
+Vos commentaires
+
+   • 0
+
+   Photo de l'internaute
+   13/03/2024
+
+   (BUTTON) Modifier
+
+Contenus sponsorisés
+
+Jetez un oeil à ces recettes
+
+   Recette Thermomix magret de canard
+   Recette Thermomix magret de canard
+   4.2
+
+   Recette salade de fruits
+   Recette salade de fruits
+   4.4
+
+   Gelée de coing, recette de grand mère
+   Gelée de coing, recette de grand mère
+   2.7
+
+Contenus sponsorisés
+
+Encore plus de recettes
+
+   recette facilenoixrecette d'hivermagret de canardfruitsrecette
+   d'automnesalade composeevolaillepoiregeléeRecette de Noëlsucré
+   saléEntrée
+
+     * (BUTTON) Je sauvegarde
+       Sauvegardé
+     * (BUTTON) Je cuisine
+     * (BUTTON) Les ingrédients
+
+   Recette salade de fruits
+
+   Recette salade de fruits
+   4.4
+
+Découvrez aussi...
+
+   Recette Noël Thermomix
+   Recette Noël Thermomix
+   Taboulé recette facile
+   Taboulé recette facile
+   Taboulé recette facile
+   Taboulé recette facile
+   Recette de chouquette facile
+   Recette de chouquette facile
+   Recette de muffins faciles
+   Recette de muffins faciles
+   Recette de gyozas faciles
+   Recette de gyozas faciles
+   Baklava : la recette facile
+   Baklava : la recette facile
+   Salade niçoise : La meilleure recette
+   Salade niçoise : La meilleure recette
+   Salade césar : la meilleure recette
+   Salade césar : la meilleure recette
+   Salade de pâtes : la meilleure recette
+   Salade de pâtes : la meilleure recette
+   Salade de riz : la meilleure recette
+   Salade de riz : la meilleure recette
+   Salade d'endives la meilleure recette
+   Salade d'endives la meilleure recette
+   Recette salade quinoa saumon
+   Recette salade quinoa saumon
+   Recette mousse de foie de volaille
+   Recette mousse de foie de volaille
+   Salade au magret séché
+   Salade au magret séché
+   Recette de mafé
+   Recette de mafé
+
+Nos suggestions de recettes
+
+     * Recette de coleslaw
+     * Recette de la ratatouille
+     * Recette risotto
+     * Recette d'Anaïs
+     * Recette des cygnes
+     * Recette des makrouts
+     * Brioche au sucre: La meilleure recette
+
+Recette par plat
+
+   Jus de fruits
+   Jus de fruits
+
+   Jus de légumes
+   Jus de légumes
+
+   Cocktail sans alcool
+   Cocktail sans alcool
+
+   Yaourt
+   Yaourt
+
+   Vinaigrette
+   Vinaigrette
+
+   Verrines
+   Verrines
+
+   Tourtes
+   Tourtes
+
+   Tortilla
+   Tortilla
+   Voir plus de Recette par plat
+   Toasts, Tiramisu, Terrines, Tartiflettes, Tartares, Tartes, Tarte
+   tatin, Tapas, Tajines, Sushis, Soupes, Smoothie,
+
+Vidéos gourmandes
+
+   Salade de pâtes : nos recettes faciles
+   Salade de pâtes : nos recettes faciles
+
+   5 recettes de salades de Noël gourmandes, faciles et rapides
+   5 recettes de salades de Noël gourmandes, faciles et rapides
+
+   Salades composées : nos 60 meilleures recettes à déguster l'été
+   Salades composées : nos 60 meilleures recettes à déguster l'été
+   Voir + de vidéos Cuisine
+
+Des recettes & des astuces pour me régaler
+
+   Je m'inscris aux newsletters
+
+Top recettes
+
+   Quiche aux poireaux
+   Quiche aux poireaux
+   4
+
+   Brick aux épinards et chèvre
+   Brick aux épinards et chèvre
+   4.3
+
+   Endivettes apéro
+   Endivettes apéro
+   4.3
+
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+   (BUTTON)
+   Ajouter à mes favoris
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Twitter
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   Abonnement prismashop
+
+   Cuisine Actuelle vous livre toutes ses recettes de cuisine
+
+   ©2024 - Prisma Média - Groupe Vivendi - Tous droits réservés
+     * Conditions générales d'utilisation
+     * Paramétrer vos cookies
+     * Mentions Légales
+     * Charte pour la protection des données
+     * Publicité
+     * Contacts & Crédits
+     * Votre kiosque
+     * Équipe éditoriale
+
+   Fréquentation certifiée par l'OJD
+   facebook instagram pinterest

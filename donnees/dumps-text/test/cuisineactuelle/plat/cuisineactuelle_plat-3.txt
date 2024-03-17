@@ -1,0 +1,461 @@
+   #Flux RSS pour cuisineactuelle.fr
+
+   publicité
+
+   Naviguez dans l'univers
+
+   (BUTTON)
+
+   Naviguer dans l'univers
+     __________________________________________________________________
+
+     *
+     *
+
+   (BUTTON)
+   [avatar.svg] Mon profil
+     * Mon carnet de recettes
+     * Gérer mon profil
+     * Mes préférences de communication
+     * Déconnexion
+
+   (BUTTON) Menu Fermer
+   Mon carnet de recettes
+   Se connecter Connexion
+   Mon profil
+    1. Mon carnet de recettes
+    2. Gérer mon profil
+    3. Mes préférences de communication
+    4. Déconnexion
+
+   Toutes vos recettes
+   sauvegardées
+
+   (BUTTON)
+    1. Mon carnet de recettes
+    2. Recettes (BUTTON)
+         1. Recettes par plat
+         2. Apéritif
+         3. Entrée
+         4. Plat
+         5. Dessert
+         6. Boisson
+         7. Sauce
+         8. Pain & viennoiserie
+         1. Recettes par ingrédient
+         2. Légume
+         3. Viande
+         4. Poisson
+         5. Fromage
+         6. Fruit
+         7. Chocolat
+         1. Recettes Santé & allergies
+         2. Minceur
+         3. Végan
+         4. Végétarien
+         5. Sans lactose
+         6. Détox
+         7. Sans sucre
+         8. Sans gluten
+         1. Recettes par thème
+         2. Recettes de bases
+         3. Recettes traditionnelles
+         4. Recettes pas chères
+         5. Recettes faciles
+         6. Recettes rapides
+         7. Recettes de saison
+         8. Recettes pour enfants
+         9. Recettes originales
+    3. Inspirations (BUTTON)
+         1. Cuisine du monde Cuisine du monde
+         1. Cuisine régionale Cuisine régionale
+         1. Fêtes & évènements
+         2. Chandeleur
+         3. Fête des mères
+         4. Mardi gras
+         5. Pâques
+         6. Noël
+         7. Galette des rois
+         8. Ramadan
+         1. Modes de cuisson
+         2. Robots culinaires
+         3. Four
+         4. Cocotte
+         5. Micro-ondes
+         6. Vapeur
+         7. Barbecue
+         8. Wok
+         1. Plus d'idées
+         2. Apéro dînatoire
+         3. Brunch & Petit déjeuner
+         4. Buffet
+         5. Panier pique-nique
+         6. Réception
+         7. Tea time
+         8. Recettes gastronomiques
+         9. Recettes de chefs
+    4. Culture food (BUTTON)
+         1. Idées de menus
+         2. Menu de la semaine
+         3. Idées de repas
+         4. Tendances culinaires
+         1. Guide par ingrédient
+         2. Conservation des aliments
+         3. Tout savoir sur...
+         4. Cuisson des aliments
+         1. Les petits plus en cuisine
+         2. Conseils et astuces
+         3. Anti-gaspi
+         4. Guide d'achat
+         5. Gestes techniques
+         6. Actu food
+         1. Nutrition Nutrition
+         1. Vins et cocktails Vins et cocktails
+    5. Ramadan
+    6. Actu
+    7. Concours
+    8. Recette aléatoire
+    9. S'abonner au magazine
+   10. Newsletter
+
+   S'abonner au magazine
+   Je m'abonne
+   Newsletter
+
+   ____________________
+
+Recherche avancée
+
+   Par prix
+   (*) € ( ) €€ ( ) €€€ ( ) €€€€
+
+   Par note
+   (*) & plus ( ) & plus ( ) & plus ( ) & plus ( )
+
+   Par difficulté
+   (*) Facile ( ) Moyen ( ) Difficile
+   Valider Reset (BUTTON) Réinitialiser
+
+   Trouvez une recette…
+   ____________________
+   Rechercher
+   Rechercher
+
+   ____________________ (BUTTON) Rechercher
+
+   Mon carnet
+
+    1. Accueil
+    2. Recette par plat
+    3. Plat
+
+   cuisineactuelle.fr
+
+   Recette facile (BUTTON) Être alerté des nouvelles recettes Suivre
+   (BUTTON) Ne plus être alerté Suivi
+
+Carré d’agneau au four
+
+   4.9 /5 495 notes
+   Lire les 6 avis
+
+   10 min
+
+   25 min
+
+   Assez cher
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   (BUTTON) Sauvegarder (BUTTON) Sauvegardé
+   Voir mon carnet de recettes Retirer de ma collection
+   (BUTTON) Imprimer (BUTTON) Voir la photo
+   de course
+
+
+Ingrédients
+
+   (BUTTON)
+   4__ personnes
+   (BUTTON)
+     * 1Carré d’agneau
+     * 2cuil. à soupe Huile d’olive
+     * 2cuil. à café Herbes de Provence
+     * Fleur de sel
+     * Poivre
+     * Calories = Elevé
+
+   Ingrédients
+     * 1Carré d’agneau
+     * 2cuil. à soupe Huile d’olive
+     * 2cuil. à café Herbes de Provence
+     * Fleur de sel
+     * Poivre
+     * Calories = Elevé
+
+Étapes de préparation
+
+    1. Faire chauffer le four th. 8 (240 °C). Entaillez la graisse du
+       carré d’agneau avec la pointe d’un couteau, sans toucher la chair.
+    2. Enduisez un plat à four d’huile d’olive. Placez le carré d’agneau.
+       Saupoudrez-le d’herbes de Provence. Enfournez 5 min.
+    3. Baisser le four sur th. 7 (210 °C) et laissez cuire encore 15 min.
+    4. A la fin de la cuisson, recouvrez le carré d’agneau d’une feuille
+       de papier aluminium. Laissez-le reposer 15 min dans le four éteint,
+       porte ouverte. Servez aussitôt avec des pommes de terre, ou du riz
+       et des tomates à la provençale.
+
+   Carré d’agneau au four © Studio/Sucré salé
+   Carré d’agneau au four
+   (BUTTON) Fermer
+   Prismapix
+
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+
+Vos commentaires
+
+   • 6
+   Photo de l'internaute
+   20/04/2022
+
+   Bj, quand est ce que on met le sel et poivre? pas mentionner dans la
+   recette? merci
+   (BUTTON) Modifier
+   Photo de l'internaute
+   10/08/2021
+
+   L'agneau se suffit à lui même.... Succulent, en revanche le mien n
+   était vraiment pas cuit à cœur, même pas rosé..... Du coup au lieu de
+   15 minutes four éteint et porte ouverte, j ai remis 12 minutes à 220,
+   et hop mmmmmmm
+   (BUTTON) Modifier
+   Photo de l'internaute
+   22/03/2021
+
+   Sans huile d’olive laissez davantage rôtir votre carré jusqu’à
+   l’obtention d’une croûte dorée et craquante....
+   (BUTTON) Modifier
+   Photo de l'internaute
+   25/09/2020
+
+   Plutôt que 15mns porte ouverte en fin de cuisson, je préconise 10mns
+   porte fermée, chaleur et cuisson garantie
+   (BUTTON) Modifier
+   (BUTTON) Lire plus
+
+   Photo de l'internaute
+   13/03/2024
+
+   Bj, quand est ce que on met le sel et poivre? pas mentionner dans la
+   recette? merci
+   (BUTTON) Modifier
+   Photo de l'internaute
+   13/03/2024
+
+   L'agneau se suffit à lui même.... Succulent, en revanche le mien n
+   était vraiment pas cuit à cœur, même pas rosé..... Du coup au lieu de
+   15 minutes four éteint et porte ouverte, j ai remis 12 minutes à 220,
+   et hop mmmmmmm
+   (BUTTON) Modifier
+   Photo de l'internaute
+   13/03/2024
+
+   Sans huile d’olive laissez davantage rôtir votre carré jusqu’à
+   l’obtention d’une croûte dorée et craquante....
+   (BUTTON) Modifier
+   Photo de l'internaute
+   13/03/2024
+
+   Plutôt que 15mns porte ouverte en fin de cuisson, je préconise 10mns
+   porte fermée, chaleur et cuisson garantie
+   (BUTTON) Modifier
+   Photo de l'internaute
+   13/03/2024
+
+   (BUTTON) Modifier
+
+Contenus sponsorisés
+
+Jetez un oeil à ces recettes
+
+   Carré d'agneau
+   Carré d'agneau
+   2.7
+
+   Carré d’agneau au miel
+   Carré d’agneau au miel
+   4
+
+   Carré d'agneau de pâques
+   Carré d'agneau de pâques
+   5
+
+Contenus sponsorisés
+
+Encore plus de recettes
+
+   PlatRecette traditionnelleAgneauRecette facile
+
+     * (BUTTON) Je sauvegarde
+       Sauvegardé
+     * (BUTTON) Je cuisine
+     * (BUTTON) Les ingrédients
+
+   Carré d’agneau au miel
+
+   Carré d’agneau au miel
+   4.0
+
+Découvrez aussi...
+
+   Carré d'agneau de Pâques
+   Carré d'agneau de Pâques
+   Carré d'agneau facile
+   Carré d'agneau facile
+   Carré d’agneau au barbecue
+   Carré d’agneau au barbecue
+   Carré d’agneau laqué
+   Carré d’agneau laqué
+   Carré d’agneau persillé
+   Carré d’agneau persillé
+   Carré d'agneau aux herbes
+   Carré d'agneau aux herbes
+   Carré d'agneau à l'ancienne
+   Carré d'agneau à l'ancienne
+   Carré d'agneau aux champignons
+   Carré d'agneau aux champignons
+   Carré d'agneau au romarin
+   Carré d'agneau au romarin
+   Carré d'agneau en croûte
+   Carré d'agneau en croûte
+   Carrés d'agneau à la menthe
+   Carrés d'agneau à la menthe
+   Carré d'agneau en croûte
+   Carré d'agneau en croûte
+   Carré d'agneau à la provençale
+   Carré d'agneau à la provençale
+
+Nos suggestions de recettes
+
+     * Carrés d’agneau au citron
+     * Carré d'agneau boulangère
+     * Carré d'agneau aux olives
+     * Carré d'agneau à la provençale
+     * Agneau au four
+     * Carré d'agneau de pré-salé
+     * Carré d'agneau rôti à la sarriette
+
+Recette par plat
+
+   Jus de fruits
+   Jus de fruits
+
+   Jus de légumes
+   Jus de légumes
+
+   Cocktail sans alcool
+   Cocktail sans alcool
+
+   Yaourt
+   Yaourt
+
+   Vinaigrette
+   Vinaigrette
+
+   Verrines
+   Verrines
+
+   Tourtes
+   Tourtes
+
+   Tortilla
+   Tortilla
+   Voir plus de Recette par plat
+   Toasts, Tiramisu, Terrines, Tartiflettes, Tartares, Tartes, Tarte
+   tatin, Tapas, Tajines, Sushis, Soupes, Smoothie,
+
+Vidéos gourmandes
+
+   Épaule d'agneau au four et épices ras-el-hanout : la recette très
+   simple de Cyril Lignac
+   Épaule d'agneau au four et épices ras-el-hanout : la recette très
+   simple de Cyril Lignac
+
+   La recette du carré d'agneau de lait rôti, légumes de printemps
+   cuisinés en cocotte façon Ducasse
+   La recette du carré d'agneau de lait rôti, légumes de printemps
+   cuisinés en cocotte façon Ducasse
+
+   Quel vin servir avec l'agneau ?
+   Quel vin servir avec l'agneau ?
+   Voir + de vidéos Cuisine
+
+Des recettes & des astuces pour me régaler
+
+   Je m'inscris aux newsletters
+
+Top recettes
+
+   Saumon en papillote
+   Saumon en papillote
+   4.1
+
+   Nouilles sautées au poulet
+   Nouilles sautées au poulet
+   4.3
+
+   Saucisse lentille cookeo
+   Saucisse lentille cookeo
+   4.2
+
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+   (BUTTON)
+   Ajouter à mes favoris
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Twitter
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+
+Mots Clés
+
+   aubergines farcies végétariennes plats mijotes accras crevettes baba au
+   rhum origine recette poulet légumes crepe au poulet plat pour halloween
+   entrée exotique recette de saucisson homard mayonnaise facon rossini
+   filets de maquereaux au four frite de patate douce au four gateau
+   nature moelleux sans yaourt gougère au roquefort lasagne aubergine
+   ricotta macaron au foie gras facile moules en papillote poulet a la
+   mexicaine poulet entier au curry salmi de faisan sauce carbonara rapide
+   tarte aux abricots amandine tarte sardine
+   Abonnement prismashop
+
+   Cuisine Actuelle vous livre toutes ses recettes de cuisine
+
+   ©2024 - Prisma Média - Groupe Vivendi - Tous droits réservés
+     * Conditions générales d'utilisation
+     * Paramétrer vos cookies
+     * Mentions Légales
+     * Charte pour la protection des données
+     * Publicité
+     * Contacts & Crédits
+     * Votre kiosque
+     * Équipe éditoriale
+
+   Fréquentation certifiée par l'OJD
+   facebook instagram pinterest

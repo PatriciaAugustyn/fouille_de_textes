@@ -1,0 +1,462 @@
+   #Flux RSS pour cuisineactuelle.fr
+
+   publicité
+
+   Naviguez dans l'univers
+
+   (BUTTON)
+
+   Naviguer dans l'univers
+     __________________________________________________________________
+
+     *
+     *
+
+   (BUTTON)
+   [avatar.svg] Mon profil
+     * Mon carnet de recettes
+     * Gérer mon profil
+     * Mes préférences de communication
+     * Déconnexion
+
+   (BUTTON) Menu Fermer
+   Mon carnet de recettes
+   Se connecter Connexion
+   Mon profil
+    1. Mon carnet de recettes
+    2. Gérer mon profil
+    3. Mes préférences de communication
+    4. Déconnexion
+
+   Toutes vos recettes
+   sauvegardées
+
+   (BUTTON)
+    1. Mon carnet de recettes
+    2. Recettes (BUTTON)
+         1. Recettes par plat
+         2. Apéritif
+         3. Entrée
+         4. Plat
+         5. Dessert
+         6. Boisson
+         7. Sauce
+         8. Pain & viennoiserie
+         1. Recettes par ingrédient
+         2. Légume
+         3. Viande
+         4. Poisson
+         5. Fromage
+         6. Fruit
+         7. Chocolat
+         1. Recettes Santé & allergies
+         2. Minceur
+         3. Végan
+         4. Végétarien
+         5. Sans lactose
+         6. Détox
+         7. Sans sucre
+         8. Sans gluten
+         1. Recettes par thème
+         2. Recettes de bases
+         3. Recettes traditionnelles
+         4. Recettes pas chères
+         5. Recettes faciles
+         6. Recettes rapides
+         7. Recettes de saison
+         8. Recettes pour enfants
+         9. Recettes originales
+    3. Inspirations (BUTTON)
+         1. Cuisine du monde Cuisine du monde
+         1. Cuisine régionale Cuisine régionale
+         1. Fêtes & évènements
+         2. Chandeleur
+         3. Fête des mères
+         4. Mardi gras
+         5. Pâques
+         6. Noël
+         7. Galette des rois
+         8. Ramadan
+         1. Modes de cuisson
+         2. Robots culinaires
+         3. Four
+         4. Cocotte
+         5. Micro-ondes
+         6. Vapeur
+         7. Barbecue
+         8. Wok
+         1. Plus d'idées
+         2. Apéro dînatoire
+         3. Brunch & Petit déjeuner
+         4. Buffet
+         5. Panier pique-nique
+         6. Réception
+         7. Tea time
+         8. Recettes gastronomiques
+         9. Recettes de chefs
+    4. Culture food (BUTTON)
+         1. Idées de menus
+         2. Menu de la semaine
+         3. Idées de repas
+         4. Tendances culinaires
+         1. Guide par ingrédient
+         2. Conservation des aliments
+         3. Tout savoir sur...
+         4. Cuisson des aliments
+         1. Les petits plus en cuisine
+         2. Conseils et astuces
+         3. Anti-gaspi
+         4. Guide d'achat
+         5. Gestes techniques
+         6. Actu food
+         1. Nutrition Nutrition
+         1. Vins et cocktails Vins et cocktails
+    5. Ramadan
+    6. Actu
+    7. Concours
+    8. Recette aléatoire
+    9. S'abonner au magazine
+   10. Newsletter
+
+   S'abonner au magazine
+   Je m'abonne
+   Newsletter
+
+   ____________________
+
+Recherche avancée
+
+   Par prix
+   (*) € ( ) €€ ( ) €€€ ( ) €€€€
+
+   Par note
+   (*) & plus ( ) & plus ( ) & plus ( ) & plus ( )
+
+   Par difficulté
+   (*) Facile ( ) Moyen ( ) Difficile
+   Valider Reset (BUTTON) Réinitialiser
+
+   Trouvez une recette…
+   ____________________
+   Rechercher
+   Rechercher
+
+   ____________________ (BUTTON) Rechercher
+
+   Mon carnet
+
+    1. Accueil
+    2. Recette par plat
+    3. Plat
+    4. Lasagnes
+
+   cuisineactuelle.fr
+
+   boeuf haché (BUTTON) Être alerté des nouvelles recettes Suivre (BUTTON)
+   Ne plus être alerté Suivi
+
+Lasagnes bœuf, ricotta et épinards
+
+   5 /5
+   Donnez votre avis
+
+   40 min
+
+   1 h 15
+
+   Bon marché
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   (BUTTON) Sauvegarder (BUTTON) Sauvegardé
+   Voir mon carnet de recettes Retirer de ma collection
+   (BUTTON) Imprimer (BUTTON) Voir la photo
+   de course
+
+
+Ingrédients
+
+   (BUTTON)
+   6__ personnes
+   (BUTTON)
+     * 500g Boeuf haché
+     * 100g Lardons fumés
+     * 150g Pousses d’épinards
+     * 125g Champignons de Paris
+     * 1Oignon
+     * 1gousse Ail
+     * 6Feuilles d’origan frais
+     * 200g Crème épaisse
+     * 500g Ricotta
+     * 300g Mozzarella râpée
+     * 100g Parmesan râpé
+     * 15g Beurre
+     * 400g Feuilles de lasagnes fraîches
+     * 70cl Purée de tomate
+     * 10cl Vin rouge
+     * 2cuil. à soupe Huile d’olive
+     * 1cuil. à soupe Concentré de tomate
+     * 1cuil. à café Origan séché
+     * 0,5cuil. à café Muscade
+     * Sel
+     * Poivre
+
+   Ingrédients
+     * 500g Boeuf haché
+     * 100g Lardons fumés
+     * 150g Pousses d’épinards
+     * 125g Champignons de Paris
+     * 1Oignon
+     * 1gousse Ail
+     * 6Feuilles d’origan frais
+     * 200g Crème épaisse
+     * 500g Ricotta
+     * 300g Mozzarella râpée
+     * 100g Parmesan râpé
+     * 15g Beurre
+     * 400g Feuilles de lasagnes fraîches
+     * 70cl Purée de tomate
+     * 10cl Vin rouge
+     * 2cuil. à soupe Huile d’olive
+     * 1cuil. à soupe Concentré de tomate
+     * 1cuil. à café Origan séché
+     * 0,5cuil. à café Muscade
+     * Sel
+     * Poivre
+
+Étapes de préparation
+
+    1. Préchauffez le four à 180 °C (th.6).
+    2. Épluchez et hachez l’oignon et la gousse d’ail. Nettoyez les
+       champignons et détaillez-les en petits dés. Lavez et séchez les
+       pousses d’épinards.
+    3. Faites chauffer l’huile à feu vif dans une grande poêle. Faites-y
+       revenir les lardons, l’oignon et l’ail pendant quelques minutes
+       jusqu’à ce que l’oignon soit tendre. Ajoutez la viande hachée.
+       Faites revenir jusqu’à ce que toute l’eau soit évaporée.
+    4. Incorporez les champignons et laissez cuire 5 minutes. Déglacez au
+       vin rouge puis ajoutez la purée de tomate, le concentré de tomate
+       et l’origan. Portez à ébullition, puis réduisez le feu. Laissez
+       mijoter à découvert jusqu’à épaississement. Assaisonnez et
+       réservez.
+    5. Fouettez la ricotta et la crème dans un bol, ajoutez la mozzarella
+       râpée et mélangez. Beurrez légèrement un grand plat à gratin.
+       Disposez les feuilles de lasagnes sur le fond du plat, en les
+       coupant pour les ajuster. Étalez dessus un tiers de la sauce à la
+       viande. Garnissez d’un tiers de la crème de ricotta, suivi de la
+       moitié des épinards.
+    6. Répétez l’opération, en terminant par une couche de pâte à lasagne,
+       tartinée du reste de la crème de ricotta. Saupoudrez de parmesan et
+       de muscade.
+    7. Enfournez pour 40 à 45 minutes de cuisson. Saupoudrez d’origan
+       frais juste avant de servir.
+
+   Lasagnes bœuf, ricotta et épinards © ARE MEDIA / STOCKFOOD
+   Lasagnes bœuf, ricotta et épinards
+   (BUTTON) Fermer
+
+Astuces et conseils pour Lasagnes bœuf, ricotta et épinards
+
+   Utilisez le vin que vous avez prévu de servir avec le plat pour
+   déglacer la sauce à la viande, les lasagnes n’en seront que meilleures
+   et votre bouteille aura eu le temps de s’aérer pour une dégustation
+   optimale.
+
+   Découvrez également notre recette de lasagnes au saumon et aux
+   épinards.
+   (BUTTON) Voir plus Voir moins
+
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+
+Vos commentaires
+
+   • 0
+
+   Photo de l'internaute
+   13/03/2024
+
+   (BUTTON) Modifier
+
+Contenus sponsorisés
+
+Jetez un oeil à ces recettes
+
+   Lasagnes à la viande de boeuf hachée
+   Lasagnes à la viande de boeuf hachée
+   4.8
+
+   Lasagnes au boeuf
+   Lasagnes au boeuf
+   4.2
+
+   Lasagnes au bœuf et aux légumes
+   Lasagnes au bœuf et aux légumes
+   4
+
+Contenus sponsorisés
+
+Encore plus de recettes
+
+   boeuf hachépâtesviandecuisine facilecuisine
+   familialelégumesboeufLasagnefromagerecettes familialesrecette pas
+   chereépinardsviande hachéerecette facilelasagneschampignons de
+   parisgratinLasagnes
+
+     * (BUTTON) Je sauvegarde
+       Sauvegardé
+     * (BUTTON) Je cuisine
+     * (BUTTON) Les ingrédients
+
+   Lasagnes au boeuf
+
+   Lasagnes au boeuf
+   4.2
+
+Découvrez aussi...
+
+   La recette du tartare de bœuf facile
+   La recette du tartare de bœuf facile
+   Langue-de-bœuf : la recette facile
+   Langue-de-bœuf : la recette facile
+   Lasagnes aux champignons, épinards et ricotta
+   Lasagnes aux champignons, épinards et ricotta
+   Lasagne de légumes : la meilleure recette
+   Lasagne de légumes : la meilleure recette
+   Brick viande hachée : recette classique
+   Brick viande hachée : recette classique
+   Lasagnes à la viande
+   Lasagnes à la viande
+   Recette vrai lasagnes
+   Recette vrai lasagnes
+   Recette Thermomix lasagne
+   Recette Thermomix lasagne
+   Lasagnes épinards ricotta
+   Lasagnes épinards ricotta
+   Lasagnes à la ricotta et aux épinards
+   Lasagnes à la ricotta et aux épinards
+   Lasagnes aux légumes et à la viande
+   Lasagnes aux légumes et à la viande
+   Lasagne épinard féta : recette sans béchamel
+   Lasagne épinard féta : recette sans béchamel
+   Épinards frais et viande hachée
+   Épinards frais et viande hachée
+   Lasagnes aux épinards
+   Lasagnes aux épinards
+   Lasagnes aux épinards
+   Lasagnes aux épinards
+   Lasagnes aux épinards
+   Lasagnes aux épinards
+
+Nos suggestions de recettes
+
+     * Lasagne de bœuf aux carottes
+     * Lasagnes aux carottes et boeuf
+     * Brick épinards et viande hachée
+     * Aubergines farcies à la viande de boeuf hachée
+     * Lasagnes aux épinards
+     * Lasagnes bœuf-carottes
+     * Lasagnes courgettes et boeuf
+
+Recette par plat
+
+   Tourtes
+   Tourtes
+
+   Tortilla
+   Tortilla
+
+   Tartiflettes
+   Tartiflettes
+
+   Tajines
+   Tajines
+
+   Riz
+   Riz
+
+   Risottos
+   Risottos
+
+   Purées
+   Purées
+
+   Pizzas
+   Pizzas
+   Voir plus de Recette par plat
+   Pâtes, Papillotes, Paëllas, Oeufs, Hamburgers, Gratins, Galettes, Flan
+   salé, Croque-monsieur, Couscous, Choucroutes, Brochettes,
+
+Vidéos gourmandes
+
+   Lasagnes saumon et épinard facile : la recette de Laurent Mariotte
+   Lasagnes saumon et épinard facile : la recette de Laurent Mariotte
+
+   Lasagnes à la bolognaise de thon : la recette de Cyril Lignac pour
+   changer de la viande hachée
+   Lasagnes à la bolognaise de thon : la recette de Cyril Lignac pour
+   changer de la viande hachée
+
+   Lasagnes au bœuf : la recette de Philippe Etchebest et ses deux
+   ingrédients secrets
+   Lasagnes au bœuf : la recette de Philippe Etchebest et ses deux
+   ingrédients secrets
+   Voir + de vidéos Cuisine
+
+Des recettes & des astuces pour me régaler
+
+   Je m'inscris aux newsletters
+
+Top recettes
+
+   Saumon en papillote
+   Saumon en papillote
+   4.1
+
+   Nouilles sautées au poulet
+   Nouilles sautées au poulet
+   4.3
+
+   Saucisse lentille cookeo
+   Saucisse lentille cookeo
+   4.2
+
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+   (BUTTON)
+   Ajouter à mes favoris
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Twitter
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   Abonnement prismashop
+
+   Cuisine Actuelle vous livre toutes ses recettes de cuisine
+
+   ©2024 - Prisma Média - Groupe Vivendi - Tous droits réservés
+     * Conditions générales d'utilisation
+     * Paramétrer vos cookies
+     * Mentions Légales
+     * Charte pour la protection des données
+     * Publicité
+     * Contacts & Crédits
+     * Votre kiosque
+     * Équipe éditoriale
+
+   Fréquentation certifiée par l'OJD
+   facebook instagram pinterest

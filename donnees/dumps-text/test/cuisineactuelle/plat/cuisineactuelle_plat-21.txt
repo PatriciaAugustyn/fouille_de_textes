@@ -1,0 +1,418 @@
+   #Flux RSS pour cuisineactuelle.fr
+
+   publicité
+
+   Naviguez dans l'univers
+
+   (BUTTON)
+
+   Naviguer dans l'univers
+     __________________________________________________________________
+
+     *
+     *
+
+   (BUTTON)
+   [avatar.svg] Mon profil
+     * Mon carnet de recettes
+     * Gérer mon profil
+     * Mes préférences de communication
+     * Déconnexion
+
+   (BUTTON) Menu Fermer
+   Mon carnet de recettes
+   Se connecter Connexion
+   Mon profil
+    1. Mon carnet de recettes
+    2. Gérer mon profil
+    3. Mes préférences de communication
+    4. Déconnexion
+
+   Toutes vos recettes
+   sauvegardées
+
+   (BUTTON)
+    1. Mon carnet de recettes
+    2. Recettes (BUTTON)
+         1. Recettes par plat
+         2. Apéritif
+         3. Entrée
+         4. Plat
+         5. Dessert
+         6. Boisson
+         7. Sauce
+         8. Pain & viennoiserie
+         1. Recettes par ingrédient
+         2. Légume
+         3. Viande
+         4. Poisson
+         5. Fromage
+         6. Fruit
+         7. Chocolat
+         1. Recettes Santé & allergies
+         2. Minceur
+         3. Végan
+         4. Végétarien
+         5. Sans lactose
+         6. Détox
+         7. Sans sucre
+         8. Sans gluten
+         1. Recettes par thème
+         2. Recettes de bases
+         3. Recettes traditionnelles
+         4. Recettes pas chères
+         5. Recettes faciles
+         6. Recettes rapides
+         7. Recettes de saison
+         8. Recettes pour enfants
+         9. Recettes originales
+    3. Inspirations (BUTTON)
+         1. Cuisine du monde Cuisine du monde
+         1. Cuisine régionale Cuisine régionale
+         1. Fêtes & évènements
+         2. Chandeleur
+         3. Fête des mères
+         4. Mardi gras
+         5. Pâques
+         6. Noël
+         7. Galette des rois
+         8. Ramadan
+         1. Modes de cuisson
+         2. Robots culinaires
+         3. Four
+         4. Cocotte
+         5. Micro-ondes
+         6. Vapeur
+         7. Barbecue
+         8. Wok
+         1. Plus d'idées
+         2. Apéro dînatoire
+         3. Brunch & Petit déjeuner
+         4. Buffet
+         5. Panier pique-nique
+         6. Réception
+         7. Tea time
+         8. Recettes gastronomiques
+         9. Recettes de chefs
+    4. Culture food (BUTTON)
+         1. Idées de menus
+         2. Menu de la semaine
+         3. Idées de repas
+         4. Tendances culinaires
+         1. Guide par ingrédient
+         2. Conservation des aliments
+         3. Tout savoir sur...
+         4. Cuisson des aliments
+         1. Les petits plus en cuisine
+         2. Conseils et astuces
+         3. Anti-gaspi
+         4. Guide d'achat
+         5. Gestes techniques
+         6. Actu food
+         1. Nutrition Nutrition
+         1. Vins et cocktails Vins et cocktails
+    5. Ramadan
+    6. Actu
+    7. Concours
+    8. Recette aléatoire
+    9. S'abonner au magazine
+   10. Newsletter
+
+   S'abonner au magazine
+   Je m'abonne
+   Newsletter
+
+   ____________________
+
+Recherche avancée
+
+   Par prix
+   (*) € ( ) €€ ( ) €€€ ( ) €€€€
+
+   Par note
+   (*) & plus ( ) & plus ( ) & plus ( ) & plus ( )
+
+   Par difficulté
+   (*) Facile ( ) Moyen ( ) Difficile
+   Valider Reset (BUTTON) Réinitialiser
+
+   Trouvez une recette…
+   ____________________
+   Rechercher
+   Rechercher
+
+   ____________________ (BUTTON) Rechercher
+
+   Mon carnet
+
+    1. Accueil
+    2. Recette par plat
+    3. Plat
+
+   cuisineactuelle.fr
+
+   recettes végétariennes (BUTTON) Être alerté des nouvelles recettes
+   Suivre (BUTTON) Ne plus être alerté Suivi
+
+Gratin de butternut au gorgonzola
+
+   5 /5
+   Donnez votre avis
+
+   15 min
+
+   40 min
+
+   Bon marché
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   (BUTTON) Sauvegarder (BUTTON) Sauvegardé
+   Voir mon carnet de recettes Retirer de ma collection
+   (BUTTON) Imprimer (BUTTON) Voir la photo
+   de course
+
+
+Ingrédients
+
+   (BUTTON)
+   4__ personnes
+   (BUTTON)
+     * 1Courge butternut
+     * 1Grosse pomme de terre
+     * 2Cuil. à soupe d’herbes hachées(persil, ciboulette..)
+     * 1Oeuf
+     * 20cl Crème liquide
+     * 10cl Lait
+     * 100g Gorgonzola
+     * 10g Beurre
+     * Sel
+     * Poivre
+
+   Ingrédients
+     * 1Courge butternut
+     * 1Grosse pomme de terre
+     * 2Cuil. à soupe d’herbes hachées(persil, ciboulette..)
+     * 1Oeuf
+     * 20cl Crème liquide
+     * 10cl Lait
+     * 100g Gorgonzola
+     * 10g Beurre
+     * Sel
+     * Poivre
+
+Étapes de préparation
+
+    1. Préchauffez le four à 180 °C. (th.6). Épluchez la courge
+       butternut et coupez-la en gros dés. Épluchez et
+    2. lavez la pomme de terre et coupez-la en quatre. Faites cuire les
+       légumes à la vapeur pendant 20 min.
+    3. Mélangez dans un bol l’œuf avec la moitié de la crème et du
+       lait, salez, poivrez. Dans une casserole, faites fondre le
+       gorgonzola avec le reste de la crème et du lait puis laissez
+       refroidir.
+    4. Ajoutez la crème de gorgonzola au mélange œuf- beurre-lait.
+       Recoupez les légumes en petits dés, déposez-les dans un plat
+       beurré, ajoutez l’appareil au gorgonzola, et les herbes
+       grossièrement hachées. Salez, poivrez et enfournez pour 20 minu.
+       Servez chaud.
+    5. Découvrez également notre recette de gratin au potimarron.
+
+   Gratin de butternut au gorgonzola © Ploton/Sucré Salé
+   Gratin de butternut au gorgonzola
+   (BUTTON) Fermer
+
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+
+Vos commentaires
+
+   • 0
+
+   Photo de l'internaute
+   13/03/2024
+
+   (BUTTON) Modifier
+
+Contenus sponsorisés
+
+Jetez un oeil à ces recettes
+
+   Recette endive végétarienne
+   Recette endive végétarienne
+   2.7
+
+   Recette Thermomix végétarienne
+   Recette Thermomix végétarienne
+   3.6
+
+   Recette de gratin de légumes healthy
+   Recette de gratin de légumes healthy
+   5
+
+Contenus sponsorisés
+
+Encore plus de recettes
+
+   recettes végétariennesrecettes familialesrecettes d'hiverpomme de
+   terrefromagevegetariengratinrecette d'hivercourge
+   butternutlégumesrecette végétariennecuisine familialePlat
+
+     * (BUTTON) Je sauvegarde
+       Sauvegardé
+     * (BUTTON) Je cuisine
+     * (BUTTON) Les ingrédients
+
+   90 idées qui changent avec de la butternut
+
+   Vous aimerez aussi :
+
+   90 idées qui changent avec de la butternut
+   Recette Thermomix végétarienne
+
+   Recette Thermomix végétarienne
+   3.6
+
+Découvrez aussi...
+
+   Recette smoothie hiver
+   Recette smoothie hiver
+   Gratin de pâtes : la meilleure recette
+   Gratin de pâtes : la meilleure recette
+   Gratin végétarien
+   Gratin végétarien
+   Gratin dauphinois recette originale
+   Gratin dauphinois recette originale
+   Recette gratin dauphinois Thermomix
+   Recette gratin dauphinois Thermomix
+   Recette de mafé
+   Recette de mafé
+   Recette de coleslaw
+   Recette de coleslaw
+   Recette de la ratatouille
+   Recette de la ratatouille
+   Recette risotto
+   Recette risotto
+   Recette des cygnes
+   Recette des cygnes
+   Recette des makrouts
+   Recette des makrouts
+   Recette tarte aux pommes
+   Recette tarte aux pommes
+   Recette macaron pomme
+   Recette macaron pomme
+   Butternut végétarienne farci au quinoa
+   Butternut végétarienne farci au quinoa
+   Recette rôti de boeuf pomme de terre
+   Recette rôti de boeuf pomme de terre
+
+Nos suggestions de recettes
+
+     * Le tourteau fromager : La meilleure recette
+     * Lasagne de légumes : la meilleure recette
+     * Recette chou-fleur pomme de terre
+     * Tian de légumes : la recette facile
+     * Tian de légumes : La meilleure recette
+     * Recette de muffins faciles
+     * Bento : recette japonaise
+
+Recette par plat
+
+   Jus de fruits
+   Jus de fruits
+
+   Jus de légumes
+   Jus de légumes
+
+   Cocktail sans alcool
+   Cocktail sans alcool
+
+   Yaourt
+   Yaourt
+
+   Vinaigrette
+   Vinaigrette
+
+   Verrines
+   Verrines
+
+   Tourtes
+   Tourtes
+
+   Tortilla
+   Tortilla
+   Voir plus de Recette par plat
+   Toasts, Tiramisu, Terrines, Tartiflettes, Tartares, Tartes, Tarte
+   tatin, Tapas, Tajines, Sushis, Soupes, Smoothie,
+
+Vidéos gourmandes
+
+   Butternut farcie et gratinée : notre recette qui réchauffe pour l'hiver
+   Butternut farcie et gratinée : notre recette qui réchauffe pour l'hiver
+
+   Gratin de courge butternut et quinoa : la recette facile et sans
+   vaisselle (ou presque)
+   Gratin de courge butternut et quinoa : la recette facile et sans
+   vaisselle (ou presque)
+
+   Risotto de butternut : la recette originale pour cuisiner cette courge
+   Risotto de butternut : la recette originale pour cuisiner cette courge
+   Voir + de vidéos Cuisine
+
+Des recettes & des astuces pour me régaler
+
+   Je m'inscris aux newsletters
+
+Top recettes
+
+   Saumon en papillote
+   Saumon en papillote
+   4.1
+
+   Nouilles sautées au poulet
+   Nouilles sautées au poulet
+   4.3
+
+   Saucisse lentille cookeo
+   Saucisse lentille cookeo
+   4.2
+
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+   (BUTTON)
+   Ajouter à mes favoris
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Twitter
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   Abonnement prismashop
+
+   Cuisine Actuelle vous livre toutes ses recettes de cuisine
+
+   ©2024 - Prisma Média - Groupe Vivendi - Tous droits réservés
+     * Conditions générales d'utilisation
+     * Paramétrer vos cookies
+     * Mentions Légales
+     * Charte pour la protection des données
+     * Publicité
+     * Contacts & Crédits
+     * Votre kiosque
+     * Équipe éditoriale
+
+   Fréquentation certifiée par l'OJD
+   facebook instagram pinterest

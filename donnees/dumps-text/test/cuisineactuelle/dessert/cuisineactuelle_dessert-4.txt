@@ -1,0 +1,430 @@
+   #Flux RSS pour cuisineactuelle.fr
+
+   publicité
+
+   Naviguez dans l'univers
+
+   (BUTTON)
+
+   Naviguer dans l'univers
+     __________________________________________________________________
+
+     *
+     *
+
+   (BUTTON)
+   [avatar.svg] Mon profil
+     * Mon carnet de recettes
+     * Gérer mon profil
+     * Mes préférences de communication
+     * Déconnexion
+
+   (BUTTON) Menu Fermer
+   Mon carnet de recettes
+   Se connecter Connexion
+   Mon profil
+    1. Mon carnet de recettes
+    2. Gérer mon profil
+    3. Mes préférences de communication
+    4. Déconnexion
+
+   Toutes vos recettes
+   sauvegardées
+
+   (BUTTON)
+    1. Mon carnet de recettes
+    2. Recettes (BUTTON)
+         1. Recettes par plat
+         2. Apéritif
+         3. Entrée
+         4. Plat
+         5. Dessert
+         6. Boisson
+         7. Sauce
+         8. Pain & viennoiserie
+         1. Recettes par ingrédient
+         2. Légume
+         3. Viande
+         4. Poisson
+         5. Fromage
+         6. Fruit
+         7. Chocolat
+         1. Recettes Santé & allergies
+         2. Minceur
+         3. Végan
+         4. Végétarien
+         5. Sans lactose
+         6. Détox
+         7. Sans sucre
+         8. Sans gluten
+         1. Recettes par thème
+         2. Recettes de bases
+         3. Recettes traditionnelles
+         4. Recettes pas chères
+         5. Recettes faciles
+         6. Recettes rapides
+         7. Recettes de saison
+         8. Recettes pour enfants
+         9. Recettes originales
+    3. Inspirations (BUTTON)
+         1. Cuisine du monde Cuisine du monde
+         1. Cuisine régionale Cuisine régionale
+         1. Fêtes & évènements
+         2. Chandeleur
+         3. Fête des mères
+         4. Mardi gras
+         5. Pâques
+         6. Noël
+         7. Galette des rois
+         8. Ramadan
+         1. Modes de cuisson
+         2. Robots culinaires
+         3. Four
+         4. Cocotte
+         5. Micro-ondes
+         6. Vapeur
+         7. Barbecue
+         8. Wok
+         1. Plus d'idées
+         2. Apéro dînatoire
+         3. Brunch & Petit déjeuner
+         4. Buffet
+         5. Panier pique-nique
+         6. Réception
+         7. Tea time
+         8. Recettes gastronomiques
+         9. Recettes de chefs
+    4. Culture food (BUTTON)
+         1. Idées de menus
+         2. Menu de la semaine
+         3. Idées de repas
+         4. Tendances culinaires
+         1. Guide par ingrédient
+         2. Conservation des aliments
+         3. Tout savoir sur...
+         4. Cuisson des aliments
+         1. Les petits plus en cuisine
+         2. Conseils et astuces
+         3. Anti-gaspi
+         4. Guide d'achat
+         5. Gestes techniques
+         6. Actu food
+         1. Nutrition Nutrition
+         1. Vins et cocktails Vins et cocktails
+    5. Ramadan
+    6. Actu
+    7. Concours
+    8. Recette aléatoire
+    9. S'abonner au magazine
+   10. Newsletter
+
+   S'abonner au magazine
+   Je m'abonne
+   Newsletter
+
+   ____________________
+
+Recherche avancée
+
+   Par prix
+   (*) € ( ) €€ ( ) €€€ ( ) €€€€
+
+   Par note
+   (*) & plus ( ) & plus ( ) & plus ( ) & plus ( )
+
+   Par difficulté
+   (*) Facile ( ) Moyen ( ) Difficile
+   Valider Reset (BUTTON) Réinitialiser
+
+   Trouvez une recette…
+   ____________________
+   Rechercher
+   Rechercher
+
+   ____________________ (BUTTON) Rechercher
+
+   Mon carnet
+
+    1. Accueil
+    2. Recette par plat
+    3. Dessert
+
+   cuisineactuelle.fr
+
+   Dessert (BUTTON) Être alerté des nouvelles recettes Suivre (BUTTON) Ne
+   plus être alerté Suivi
+
+Cornes de gazelles marocaines
+
+   5 /5
+   Donnez votre avis
+
+   20 min
+
+   10 min
+
+   Bon marché
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   (BUTTON) Sauvegarder (BUTTON) Sauvegardé
+   Voir mon carnet de recettes Retirer de ma collection
+   (BUTTON) Imprimer (BUTTON) Voir la photo
+   de course
+
+
+Ingrédients
+
+   (BUTTON)
+   10_ personnes
+   (BUTTON)
+   Pour la pâte
+     * 500g Farine
+     * 125g Beurre
+     * 1pincée Sel
+     * 1Oeuf
+     * Calories = Très élevé
+
+   Pour la garniture
+     * 500g Poudre d'amande
+     * 175g Sucre
+     * 130g Beurre
+     * 1cuil. à café Extrait d'amandes amères
+     * 1pincée Sel
+     * 1CS Eau de fleur d'oranger
+     * Calories = Très élevé
+
+   Ingrédients
+   Pour la pâte
+     * 500g Farine
+     * 125g Beurre
+     * 1pincée Sel
+     * 1Oeuf
+     * Calories = Très élevé
+
+   Pour la garniture
+     * 500g Poudre d'amande
+     * 175g Sucre
+     * 130g Beurre
+     * 1cuil. à café Extrait d'amandes amères
+     * 1pincée Sel
+     * 1CS Eau de fleur d'oranger
+     * Calories = Très élevé
+
+Étapes de préparation
+
+    1. Dans un saladier, mélangez du bout des doigts la farine et le
+       beurre mou. Ajoutez une pincée de sel et un oeuf. Mélangez sans
+       pétrir.
+    2. Fleurez le plan de travail, coupez la pâte en quatre et laissez-la
+       au frais 15 minutes.
+    3. Passez pendant ce temps à la préparation de la pâte d'amandes.
+    4. Mélangez le sucre et la poudre d'amande, ajoutez le beurre bien mou
+       et mélangez du bout des doigts, ajoutez la fleur d'oranger et
+       l'extrait d'amandes amères. Mélangez à nouveau pour obtenir une
+       belle pâte homogène.
+    5. Formez des petits boudins de pâte d'amande de la taille d'un pouce.
+       Réservez.
+    6. Etalez la pâte à l'aide d'un rouleau à pâtisserie. Il faut qu'elle
+       soit très fine. Déposez 3 boudins de pâte d'amande et repliez la
+       pâte par dessus. Formez le croissant à l'aide de vos doigts et
+       soudez la pâte. Coupez l'excédent. Pliez pour donner sa forme au
+       biscuit. Trouez chaque corne de gazelle avec une fourchette ou un
+       cure-dent.
+    7. Enfournez à 170°C pendant 10 à 12 minutes. Saupoudrez de sucre
+       glace avant de déguster.
+
+   Cornes de gazelles marocaines © Cuisine Actuelle
+   Cornes de gazelles marocaines
+   (BUTTON) Fermer
+   Marion Poirot
+
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+
+Vos commentaires
+
+   • 0
+
+   Photo de l'internaute
+   13/03/2024
+
+   (BUTTON) Modifier
+
+Contenus sponsorisés
+
+Jetez un oeil à ces recettes
+
+   Corne de gazelle marocaine
+   Corne de gazelle marocaine
+   3.3
+
+   Cornes de gazelle
+   Cornes de gazelle
+   5
+
+   cornes de gazelle
+   cornes de gazelle
+   4.4
+
+Contenus sponsorisés
+
+Encore plus de recettes
+
+   marocDessertBiscuits
+
+     * (BUTTON) Je sauvegarde
+       Sauvegardé
+     * (BUTTON) Je cuisine
+     * (BUTTON) Les ingrédients
+
+   Cornes de gazelle
+
+   Cornes de gazelle
+   5.0
+
+Découvrez aussi...
+
+   Cornes de gazelles
+   Cornes de gazelles
+   Cornes de gazelles
+   Cornes de gazelles
+   Cornes de gazelle
+   Cornes de gazelle
+   " Kaab ghzal ", les cornes de gazelles marocaines
+   " Kaab ghzal ", les cornes de gazelles marocaines
+   Cornes de gazelles faciles
+   Cornes de gazelles faciles
+   Cornes de gazelle thermomix
+   Cornes de gazelle thermomix
+   Cornes de gazelle traditionnelles
+   Cornes de gazelle traditionnelles
+   Cornes de gazelle faciles
+   Cornes de gazelle faciles
+   Cornes de gazelles autrement
+   Cornes de gazelles autrement
+   Cornes de gazelle toutes simples
+   Cornes de gazelle toutes simples
+   Les véritables cornes de gazelles
+   Les véritables cornes de gazelles
+   Cornes de gazelle algérienne
+   Cornes de gazelle algérienne
+   Cornes de gazelle à la noisette
+   Cornes de gazelle à la noisette
+   Corne de gazelle : la meilleure recette
+   Corne de gazelle : la meilleure recette
+   Cornes de gazelles aux graines de sésame
+   Cornes de gazelles aux graines de sésame
+
+Nos suggestions de recettes
+
+     * Papillote de poulet aux épices du Maroc
+     * Tajine d'agneau au pruneaux comme au Maroc
+     * Corn-dog
+     * Corn-dogs
+     * Corne nantaise
+     * Baklawas marocains
+     * Tourte marocaine
+
+Recette par plat
+
+   Jus de fruits
+   Jus de fruits
+
+   Jus de légumes
+   Jus de légumes
+
+   Cocktail sans alcool
+   Cocktail sans alcool
+
+   Yaourt
+   Yaourt
+
+   Vinaigrette
+   Vinaigrette
+
+   Verrines
+   Verrines
+
+   Tourtes
+   Tourtes
+
+   Tortilla
+   Tortilla
+   Voir plus de Recette par plat
+   Toasts, Tiramisu, Terrines, Tartiflettes, Tartares, Tartes, Tarte
+   tatin, Tapas, Tajines, Sushis, Soupes, Smoothie,
+
+Vidéos gourmandes
+
+   Cornes de gazelle : comment réaliser cette pâtisserie orientale ? La
+   recette de Julie Andrieu
+   Cornes de gazelle : comment réaliser cette pâtisserie orientale ? La
+   recette de Julie Andrieu
+
+   Cornes de gazelles au Air Fryer : la recette super super-rapide idéale
+   pour le ramadan
+   Cornes de gazelles au Air Fryer : la recette super super-rapide idéale
+   pour le ramadan
+
+   Cuisine marocaine : les recettes préférées des internautes
+   Cuisine marocaine : les recettes préférées des internautes
+   Voir + de vidéos Cuisine
+
+Des recettes & des astuces pour me régaler
+
+   Je m'inscris aux newsletters
+
+Top recettes
+
+   Authentique et délicieuse mousse au chocolat
+   Authentique et délicieuse mousse au chocolat
+   4.6
+
+   Cookies moelleux américains
+   Cookies moelleux américains
+   4.4
+
+   Fondant au chocolat rapide
+   Fondant au chocolat rapide
+   4.1
+
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+   (BUTTON)
+   Ajouter à mes favoris
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Twitter
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   Abonnement prismashop
+
+   Cuisine Actuelle vous livre toutes ses recettes de cuisine
+
+   ©2024 - Prisma Média - Groupe Vivendi - Tous droits réservés
+     * Conditions générales d'utilisation
+     * Paramétrer vos cookies
+     * Mentions Légales
+     * Charte pour la protection des données
+     * Publicité
+     * Contacts & Crédits
+     * Votre kiosque
+     * Équipe éditoriale
+
+   Fréquentation certifiée par l'OJD
+   facebook instagram pinterest

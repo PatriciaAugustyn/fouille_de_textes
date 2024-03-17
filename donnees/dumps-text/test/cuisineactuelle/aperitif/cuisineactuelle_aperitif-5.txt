@@ -1,0 +1,409 @@
+   #Flux RSS pour cuisineactuelle.fr
+
+   publicité
+
+   Naviguez dans l'univers
+
+   (BUTTON)
+
+   Naviguer dans l'univers
+     __________________________________________________________________
+
+     *
+     *
+
+   (BUTTON)
+   [avatar.svg] Mon profil
+     * Mon carnet de recettes
+     * Gérer mon profil
+     * Mes préférences de communication
+     * Déconnexion
+
+   (BUTTON) Menu Fermer
+   Mon carnet de recettes
+   Se connecter Connexion
+   Mon profil
+    1. Mon carnet de recettes
+    2. Gérer mon profil
+    3. Mes préférences de communication
+    4. Déconnexion
+
+   Toutes vos recettes
+   sauvegardées
+
+   (BUTTON)
+    1. Mon carnet de recettes
+    2. Recettes (BUTTON)
+         1. Recettes par plat
+         2. Apéritif
+         3. Entrée
+         4. Plat
+         5. Dessert
+         6. Boisson
+         7. Sauce
+         8. Pain & viennoiserie
+         1. Recettes par ingrédient
+         2. Légume
+         3. Viande
+         4. Poisson
+         5. Fromage
+         6. Fruit
+         7. Chocolat
+         1. Recettes Santé & allergies
+         2. Minceur
+         3. Végan
+         4. Végétarien
+         5. Sans lactose
+         6. Détox
+         7. Sans sucre
+         8. Sans gluten
+         1. Recettes par thème
+         2. Recettes de bases
+         3. Recettes traditionnelles
+         4. Recettes pas chères
+         5. Recettes faciles
+         6. Recettes rapides
+         7. Recettes de saison
+         8. Recettes pour enfants
+         9. Recettes originales
+    3. Inspirations (BUTTON)
+         1. Cuisine du monde Cuisine du monde
+         1. Cuisine régionale Cuisine régionale
+         1. Fêtes & évènements
+         2. Chandeleur
+         3. Fête des mères
+         4. Mardi gras
+         5. Pâques
+         6. Noël
+         7. Galette des rois
+         8. Ramadan
+         1. Modes de cuisson
+         2. Robots culinaires
+         3. Four
+         4. Cocotte
+         5. Micro-ondes
+         6. Vapeur
+         7. Barbecue
+         8. Wok
+         1. Plus d'idées
+         2. Apéro dînatoire
+         3. Brunch & Petit déjeuner
+         4. Buffet
+         5. Panier pique-nique
+         6. Réception
+         7. Tea time
+         8. Recettes gastronomiques
+         9. Recettes de chefs
+    4. Culture food (BUTTON)
+         1. Idées de menus
+         2. Menu de la semaine
+         3. Idées de repas
+         4. Tendances culinaires
+         1. Guide par ingrédient
+         2. Conservation des aliments
+         3. Tout savoir sur...
+         4. Cuisson des aliments
+         1. Les petits plus en cuisine
+         2. Conseils et astuces
+         3. Anti-gaspi
+         4. Guide d'achat
+         5. Gestes techniques
+         6. Actu food
+         1. Nutrition Nutrition
+         1. Vins et cocktails Vins et cocktails
+    5. Ramadan
+    6. Actu
+    7. Concours
+    8. Recette aléatoire
+    9. S'abonner au magazine
+   10. Newsletter
+
+   S'abonner au magazine
+   Je m'abonne
+   Newsletter
+
+   ____________________
+
+Recherche avancée
+
+   Par prix
+   (*) € ( ) €€ ( ) €€€ ( ) €€€€
+
+   Par note
+   (*) & plus ( ) & plus ( ) & plus ( ) & plus ( )
+
+   Par difficulté
+   (*) Facile ( ) Moyen ( ) Difficile
+   Valider Reset (BUTTON) Réinitialiser
+
+   Trouvez une recette…
+   ____________________
+   Rechercher
+   Rechercher
+
+   ____________________ (BUTTON) Rechercher
+
+   Mon carnet
+
+    1. Accueil
+    2. Recette par plat
+    3. Apéritif
+    4. Amuse-bouches
+
+   cuisineactuelle.fr
+
+   Recette facile (BUTTON) Être alerté des nouvelles recettes Suivre
+   (BUTTON) Ne plus être alerté Suivi
+
+Bouchées au saumon fumé
+
+   4.7 /5 201 notes
+   Donnez votre avis
+
+   15 min
+
+   5 min
+
+   Moyen
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   (BUTTON) Sauvegarder (BUTTON) Sauvegardé
+   Voir mon carnet de recettes Retirer de ma collection
+   (BUTTON) Imprimer (BUTTON) Voir la photo
+   de course
+
+
+Ingrédients
+
+   (BUTTON)
+   4__ personnes
+   (BUTTON)
+     * 3Grandes tranches de saumon fumé
+     * 100g Fromage frais (type St-Môret)
+     * 1Citron non traité
+     * 2Oeufs
+     * 20g Beurre
+     * 2cuil. à soupe Lait
+     * 1Barquette de graines germées
+     * Sel
+     * Poivre
+     * Calories = Moyen
+
+   Ingrédients
+     * 3Grandes tranches de saumon fumé
+     * 100g Fromage frais (type St-Môret)
+     * 1Citron non traité
+     * 2Oeufs
+     * 20g Beurre
+     * 2cuil. à soupe Lait
+     * 1Barquette de graines germées
+     * Sel
+     * Poivre
+     * Calories = Moyen
+
+Étapes de préparation
+
+    1. Dans un saladier, cassez les œufs, ajoutez du sel, du poivre et le
+       lait. Battez à la fourchette. Faites chauffer le beurre dans une
+       poêle, versez les œufs et faites cuire en omelette fine comme une
+       crêpe.
+    2. Rincez et râpez finement le zeste de citron. Dans un bol, mélangez
+       à la fourchette le zeste avec le fromage frais.
+    3. Déposez l’omelette un plan de travail, posez dessus les tranches de
+       saumon, puis tartinez toute la surface de préparation au fromage.
+       Roulez délicatement l’omelette afin d’obtenir un long rouleau.
+       Enveloppez-le de film alimentaire et réservez au frais.
+    4. Découpez le rouleau en tranches de 1,5 cm d’épaisseur et servez-les
+       parsemées de graines germées.
+
+   Bouchées au saumon fumé © Kompalitch/ Prismapix
+   Bouchées au saumon fumé
+   (BUTTON) Fermer
+   Monique Mourgues/Prismapix
+
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+
+Vos commentaires
+
+   • 0
+
+   Photo de l'internaute
+   13/03/2024
+
+   (BUTTON) Modifier
+
+Contenus sponsorisés
+
+Jetez un oeil à ces recettes
+
+   Bouchées au saumon fumé
+   Bouchées au saumon fumé
+   2.6
+
+   Bouchées de courgette au saumon fumé
+   Bouchées de courgette au saumon fumé
+   4.4
+
+   Bouchées de concombre au saumon fumé
+   Bouchées de concombre au saumon fumé
+   3.4
+
+Contenus sponsorisés
+
+Encore plus de recettes
+
+   Amuse-bouchesRecette facileEntréeRecette rapideApéro
+   dinatoireBuffetSaumon
+
+     * (BUTTON) Je sauvegarde
+       Sauvegardé
+     * (BUTTON) Je cuisine
+     * (BUTTON) Les ingrédients
+
+   Bouchées de courgette au saumon fumé
+
+   Bouchées de courgette au saumon fumé
+   4.4
+
+Découvrez aussi...
+
+   Bouchées de radis noir au saumon fumé
+   Bouchées de radis noir au saumon fumé
+   Bouchées à la truite fumée
+   Bouchées à la truite fumée
+   Bouchées de tortillas au saumon fumé et fromage frais
+   Bouchées de tortillas au saumon fumé et fromage frais
+   Bouchée apéro de saumon fumé et chantilly citronnée
+   Bouchée apéro de saumon fumé et chantilly citronnée
+   Saumon fumé
+   Saumon fumé
+   Bouchées de saumon au lard
+   Bouchées de saumon au lard
+   Minis bouchées au saumon
+   Minis bouchées au saumon
+   Bouchées concombre saumon
+   Bouchées concombre saumon
+   Bouchées saumon crevette
+   Bouchées saumon crevette
+   Bouchées de saumon aux herbes
+   Bouchées de saumon aux herbes
+   Bouchées aux œufs de saumon
+   Bouchées aux œufs de saumon
+   Bouchées de saumon Lomi Lomi
+   Bouchées de saumon Lomi Lomi
+   Bouchées de saumon au citron caviar
+   Bouchées de saumon au citron caviar
+   Amuse-Bouche tomate saumon
+   Amuse-Bouche tomate saumon
+   Amuse-bouche saumon kiwi
+   Amuse-bouche saumon kiwi
+
+Nos suggestions de recettes
+
+     * Bouchées de saumon aux crevettes roses
+     * Bouchées croustillantes saumon aneth
+     * Bouchées de saumon aux légumes épicés
+     * Bouchées de saumon aux graines germées
+     * Bouchées de saumon au fenouil confit
+     * Bouchées fondantes aux deux saumons
+     * Houmous au saumon fumé
+
+Recette par plat
+
+   Toasts
+   Toasts
+
+   Tapas
+   Tapas
+
+   Roulés
+   Roulés
+
+   Cakes salés
+   Cakes salés
+
+   Beignets
+   Beignets
+
+Vidéos gourmandes
+
+   Peut-on congeler du saumon fumé ?
+   Peut-on congeler du saumon fumé ?
+
+   Le saumon fumé est-il cuit ou cru ?
+   Le saumon fumé est-il cuit ou cru ?
+
+   Pourquoi il faut acheter le saumon fumé en bio ?
+   Pourquoi il faut acheter le saumon fumé en bio ?
+   Voir + de vidéos Cuisine
+
+Des recettes & des astuces pour me régaler
+
+   Je m'inscris aux newsletters
+
+Top recettes
+
+   Saucisse au four
+   Saucisse au four
+   4.1
+
+   Cookies salés jambon-emmental
+   Cookies salés jambon-emmental
+   4.5
+
+   Bouchées croustillantes au chèvre et miel
+   Bouchées croustillantes au chèvre et miel
+   5
+
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+   (BUTTON)
+   Ajouter à mes favoris
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Twitter
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+
+Mots Clés
+
+   les asperges vertes chèvre frais recette clafoutie au cerise fruit
+   exotique Crème de lentilles à la sauge et aux oeufs de saumon porc
+   focaccia recette italienne Filets de sole à la vapeur de thé vert
+   gateau a l orange cocotte homard jus de framboises pate a crepes la
+   recette Minifondants à l’orange Nectarines au miel de groseille Poêlée
+   de pois gourmands au jambon de Bayonne Poulet sauté aux poivrons
+   smoothie soupe au pistou traditionnelle tartiflette aux endives Terrine
+   au chocolat recette verrine chocolat blanc
+   Abonnement prismashop
+
+   Cuisine Actuelle vous livre toutes ses recettes de cuisine
+
+   ©2024 - Prisma Média - Groupe Vivendi - Tous droits réservés
+     * Conditions générales d'utilisation
+     * Paramétrer vos cookies
+     * Mentions Légales
+     * Charte pour la protection des données
+     * Publicité
+     * Contacts & Crédits
+     * Votre kiosque
+     * Équipe éditoriale
+
+   Fréquentation certifiée par l'OJD
+   facebook instagram pinterest

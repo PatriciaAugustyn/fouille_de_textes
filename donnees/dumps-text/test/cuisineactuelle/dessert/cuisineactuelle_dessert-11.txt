@@ -1,0 +1,409 @@
+   #Flux RSS pour cuisineactuelle.fr
+
+   publicité
+
+   Naviguez dans l'univers
+
+   (BUTTON)
+
+   Naviguer dans l'univers
+     __________________________________________________________________
+
+     *
+     *
+
+   (BUTTON)
+   [avatar.svg] Mon profil
+     * Mon carnet de recettes
+     * Gérer mon profil
+     * Mes préférences de communication
+     * Déconnexion
+
+   (BUTTON) Menu Fermer
+   Mon carnet de recettes
+   Se connecter Connexion
+   Mon profil
+    1. Mon carnet de recettes
+    2. Gérer mon profil
+    3. Mes préférences de communication
+    4. Déconnexion
+
+   Toutes vos recettes
+   sauvegardées
+
+   (BUTTON)
+    1. Mon carnet de recettes
+    2. Recettes (BUTTON)
+         1. Recettes par plat
+         2. Apéritif
+         3. Entrée
+         4. Plat
+         5. Dessert
+         6. Boisson
+         7. Sauce
+         8. Pain & viennoiserie
+         1. Recettes par ingrédient
+         2. Légume
+         3. Viande
+         4. Poisson
+         5. Fromage
+         6. Fruit
+         7. Chocolat
+         1. Recettes Santé & allergies
+         2. Minceur
+         3. Végan
+         4. Végétarien
+         5. Sans lactose
+         6. Détox
+         7. Sans sucre
+         8. Sans gluten
+         1. Recettes par thème
+         2. Recettes de bases
+         3. Recettes traditionnelles
+         4. Recettes pas chères
+         5. Recettes faciles
+         6. Recettes rapides
+         7. Recettes de saison
+         8. Recettes pour enfants
+         9. Recettes originales
+    3. Inspirations (BUTTON)
+         1. Cuisine du monde Cuisine du monde
+         1. Cuisine régionale Cuisine régionale
+         1. Fêtes & évènements
+         2. Chandeleur
+         3. Fête des mères
+         4. Mardi gras
+         5. Pâques
+         6. Noël
+         7. Galette des rois
+         8. Ramadan
+         1. Modes de cuisson
+         2. Robots culinaires
+         3. Four
+         4. Cocotte
+         5. Micro-ondes
+         6. Vapeur
+         7. Barbecue
+         8. Wok
+         1. Plus d'idées
+         2. Apéro dînatoire
+         3. Brunch & Petit déjeuner
+         4. Buffet
+         5. Panier pique-nique
+         6. Réception
+         7. Tea time
+         8. Recettes gastronomiques
+         9. Recettes de chefs
+    4. Culture food (BUTTON)
+         1. Idées de menus
+         2. Menu de la semaine
+         3. Idées de repas
+         4. Tendances culinaires
+         1. Guide par ingrédient
+         2. Conservation des aliments
+         3. Tout savoir sur...
+         4. Cuisson des aliments
+         1. Les petits plus en cuisine
+         2. Conseils et astuces
+         3. Anti-gaspi
+         4. Guide d'achat
+         5. Gestes techniques
+         6. Actu food
+         1. Nutrition Nutrition
+         1. Vins et cocktails Vins et cocktails
+    5. Ramadan
+    6. Actu
+    7. Concours
+    8. Recette aléatoire
+    9. S'abonner au magazine
+   10. Newsletter
+
+   S'abonner au magazine
+   Je m'abonne
+   Newsletter
+
+   ____________________
+
+Recherche avancée
+
+   Par prix
+   (*) € ( ) €€ ( ) €€€ ( ) €€€€
+
+   Par note
+   (*) & plus ( ) & plus ( ) & plus ( ) & plus ( )
+
+   Par difficulté
+   (*) Facile ( ) Moyen ( ) Difficile
+   Valider Reset (BUTTON) Réinitialiser
+
+   Trouvez une recette…
+   ____________________
+   Rechercher
+   Rechercher
+
+   ____________________ (BUTTON) Rechercher
+
+   Mon carnet
+
+    1. Accueil
+    2. Recette par plat
+    3. Dessert
+
+   cuisineactuelle.fr
+
+   Dessert (BUTTON) Être alerté des nouvelles recettes Suivre (BUTTON) Ne
+   plus être alerté Suivi
+
+Moelleux aux pommes
+
+   5 /5
+   Donnez votre avis
+
+   20 min
+
+   45 min
+
+   Bon marché
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   (BUTTON) Sauvegarder (BUTTON) Sauvegardé
+   Voir mon carnet de recettes Retirer de ma collection
+   (BUTTON) Imprimer (BUTTON) Voir la photo
+   de course
+
+
+Ingrédients
+
+   (BUTTON)
+   6__ personnes
+   (BUTTON)
+     * 4Pommes
+     * 4Oeufs
+     * 150g Beurre mou 150 g de sucre
+     * 75g Farine de blé
+     * 75g Farine d’épeautre
+     * 1sachet Levure chimique
+
+   Ingrédients
+     * 4Pommes
+     * 4Oeufs
+     * 150g Beurre mou 150 g de sucre
+     * 75g Farine de blé
+     * 75g Farine d’épeautre
+     * 1sachet Levure chimique
+
+Étapes de préparation
+
+    1. Préchauffez le four à 180 °C.(th.6). Pelez les pommes et
+       coupez-les en très fines lamelles.
+    2. Fouettez dans un saladier le sucre avec les jaunes d’œufs jusqu’à
+       ce que le mélange blanchisse et devienne mousseux. Ajoutez petit
+       à petit les farines, la levure puis le beurre. Mélangez jusqu’à
+       obtenir une pâte homogène.
+    3. Fouettez les blancs en neige ferme. Incorporez-les délicatement à
+       la préparation précédente.
+    4. Lorsque la pâte est lisse et homogène, versez-la dans un moule
+       antiadhésif ou en silicone, répartissez dessus les tranches de
+       pomme en rosaces et enfournez pour 45 min.
+
+   Moelleux aux pommes © Constantini/Sucré Salé
+   Moelleux aux pommes
+   (BUTTON) Fermer
+
+Astuces et conseils pour Moelleux aux pommes
+
+   Découvrez également notre recette de gâteau aux pommes moelleux et
+   ultra rapide.
+   (BUTTON) Voir plus Voir moins
+
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+
+Vos commentaires
+
+   • 0
+
+   Photo de l'internaute
+   13/03/2024
+
+   (BUTTON) Modifier
+
+Contenus sponsorisés
+
+Jetez un oeil à ces recettes
+
+   Taboulé recette facile
+   Taboulé recette facile
+   5
+
+   Taboulé recette facile
+   Taboulé recette facile
+   3.5
+
+   Recette de chouquette facile
+   Recette de chouquette facile
+   4
+
+Contenus sponsorisés
+
+Encore plus de recettes
+
+   recette facilegâteaurecette pas cherepommerecette d'hiverrecettes
+   d'hiverrecettes facilescuisine facileDessert
+
+     * (BUTTON) Je sauvegarde
+       Sauvegardé
+     * (BUTTON) Je cuisine
+     * (BUTTON) Les ingrédients
+
+   Taboulé recette facile
+
+   Taboulé recette facile
+   3.5
+
+Découvrez aussi...
+
+   Recette de muffins faciles
+   Recette de muffins faciles
+   Recette de gyozas faciles
+   Recette de gyozas faciles
+   Baklava : la recette facile
+   Baklava : la recette facile
+   Recette de panna cotta facile
+   Recette de panna cotta facile
+   Recette de filet mignon facile
+   Recette de filet mignon facile
+   Pain pita : la recette facile
+   Pain pita : la recette facile
+   La recette du tartare de bœuf facile
+   La recette du tartare de bœuf facile
+   Carrot cake : la recette facile
+   Carrot cake : la recette facile
+   Recette de sauce bolognaise facile
+   Recette de sauce bolognaise facile
+   Langue-de-bœuf : la recette facile
+   Langue-de-bœuf : la recette facile
+   Rouleau de printemps : la recette facile
+   Rouleau de printemps : la recette facile
+   Tian de légumes : la recette facile
+   Tian de légumes : la recette facile
+   Saumon gravlax : la recette facile
+   Saumon gravlax : la recette facile
+   Croziflette traditionnelle : recette facile
+   Croziflette traditionnelle : recette facile
+   Rosbif au four : recette facile
+   Rosbif au four : recette facile
+   Recette tapenade verte facile
+   Recette tapenade verte facile
+
+Nos suggestions de recettes
+
+     * Recette Thermomix moelleux aux pommes
+     * Recette smoothie hiver
+     * Recette tarte aux pommes
+     * Recette macaron pomme
+     * Quiche sans pâte : la recette facile
+     * Msemen (crêpe du Maghreb) : la recette facile
+     * Poulet teriyaki : recette facile maison
+
+Recette par plat
+
+   Jus de fruits
+   Jus de fruits
+
+   Jus de légumes
+   Jus de légumes
+
+   Cocktail sans alcool
+   Cocktail sans alcool
+
+   Yaourt
+   Yaourt
+
+   Vinaigrette
+   Vinaigrette
+
+   Verrines
+   Verrines
+
+   Tourtes
+   Tourtes
+
+   Tortilla
+   Tortilla
+   Voir plus de Recette par plat
+   Toasts, Tiramisu, Terrines, Tartiflettes, Tartares, Tartes, Tarte
+   tatin, Tapas, Tajines, Sushis, Soupes, Smoothie,
+
+Vidéos gourmandes
+
+   Tartiflette aux pommes : la recette facile qui change !
+   Tartiflette aux pommes : la recette facile qui change !
+
+   10 recettes faciles avec des pommes de terre primeur
+   10 recettes faciles avec des pommes de terre primeur
+
+   Gâteaux moelleux à l’orange et aux pépites de chocolat : la recette
+   facile et moelleuse
+   Gâteaux moelleux à l’orange et aux pépites de chocolat : la recette
+   facile et moelleuse
+   Voir + de vidéos Cuisine
+
+Des recettes & des astuces pour me régaler
+
+   Je m'inscris aux newsletters
+
+Top recettes
+
+   Authentique et délicieuse mousse au chocolat
+   Authentique et délicieuse mousse au chocolat
+   4.6
+
+   Cookies moelleux américains
+   Cookies moelleux américains
+   4.4
+
+   Fondant au chocolat rapide
+   Fondant au chocolat rapide
+   4.1
+
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+   (BUTTON)
+   Ajouter à mes favoris
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Twitter
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   Abonnement prismashop
+
+   Cuisine Actuelle vous livre toutes ses recettes de cuisine
+
+   ©2024 - Prisma Média - Groupe Vivendi - Tous droits réservés
+     * Conditions générales d'utilisation
+     * Paramétrer vos cookies
+     * Mentions Légales
+     * Charte pour la protection des données
+     * Publicité
+     * Contacts & Crédits
+     * Votre kiosque
+     * Équipe éditoriale
+
+   Fréquentation certifiée par l'OJD
+   facebook instagram pinterest

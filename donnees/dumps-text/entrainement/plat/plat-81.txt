@@ -1,0 +1,299 @@
+   #Flux d'actualité Elle à Table
+
+   (BUTTON) Fermer la modale de partage
+
+   Partager
+     * (BUTTON) Partager sur facebook
+     * (BUTTON) Partager sur twitter
+     * (BUTTON) Partager sur pinterest
+     * (BUTTON) Partager sur whatsapp
+     * (BUTTON) Partager sur email
+     * (BUTTON) Partager sur sms
+
+   (BUTTON) Ouvrir le menu principal Elle à Table
+     * Lien vers réseau social mail
+     * Lien vers réseau social facebook
+     * Lien vers réseau social pinterest
+     * Lien vers réseau social instagram
+     * Lien vers réseau social tiktok
+
+   Je me connecte (BUTTON) (BUTTON) Sauvegarder Sauvegardé Je m'abonne
+   Magazine ELLE à table 152
+   (BUTTON) Ouvrir le menu principal Elle à Table
+   Je m'abonne
+   Magazine ELLE à table 152
+   (BUTTON) Ouvrir le modal de recherche
+
+   (BUTTON) Fermer le modal de recherche
+
+   Rechercher sur ELLE
+   ____________________ (BUTTON) Lancer la recherche
+
+   Elle à Table (BUTTON) Fermer menu burger
+
+   Se connecter (BUTTON) Rechercher sur le site
+
+     * Retour vers ELLE.fr
+     * Menu de la semaine
+     * Recettes pas chères mars
+     * ACTU CUISINE
+          + News
+          + Tendances
+          + Idées de menus
+          + Menu de chefs
+     * RECETTES
+          + Top recettes
+          + Cocktails
+          + Apéritifs
+          + Entrées
+          + Plats
+          + Sauces
+          + Desserts
+          + Pâtisseries
+          + Par ingrédient
+     * THÈMES
+          + Recettes de saison
+          + Recettes classiques
+          + Recettes faciles
+          + Cuisine rapide
+          + Recettes à petits prix
+          + Cuisson
+          + Cuisine du monde
+          + Cuisine régionale
+          + Recettes Thermomix
+     * FÊTES
+          + Galette des rois
+          + Chandeleur
+          + Saint-Valentin
+          + Nouvel An chinois
+          + Mardi gras & Carnaval
+          + Fêtes des mères
+          + Pâques
+          + Halloween
+          + Recettes de Noël
+     * HEALTHY
+          + Détox
+          + Sans gluten
+          + Recettes végétariennes
+          + Recettes vegan
+          + Recettes bio
+          + Cuisine anti-âge
+          + Cuisine minceur
+     * PRATIQUE
+          + Que faire avec ?
+          + Cuisine du placard
+          + Astuces de cuisine
+          + Accords mets & vins
+          + Lexique culinaire
+          + Lexique vin
+     * ABONNEZ-VOUS AU MAGAZINE
+     * Tests & Quiz Cuisine
+     * J'offre ELLE
+
+     * Elle
+     * Elle à Table
+     * Recettes de cuisine
+
+     * conviviales
+     * entrées chaudes
+     * pâte à tartes
+     * quiche à la viande
+
+     * (BUTTON) Partager sur facebook
+     * (BUTTON) Partager sur twitter
+     * (BUTTON) Partager sur pinterest
+
+Quiche tyrolienne
+
+   quiche tyrolienne
+
+   Nombre de personnes
+          4 personnes
+
+   Temps de préparation
+          10 min.
+
+   Temps de cuisson
+          25 min.
+
+   Calories.
+          763 Cal/pers.
+
+   Difficulté
+          Très facile
+
+   Prix
+          Bon marché
+
+          Note : 3 sur 5
+
+          (BUTTON) Noter cette recette
+
+          1 note
+
+   Note : 3 sur 5
+   (BUTTON) Noter cette recette
+
+   1 note
+   (BUTTON) Sauvegarder Sauvegardé
+
+Ingrédients
+
+     * 400 g de pâte brisée
+     * 150 g de lard fumé coupé en dés
+     * 3 oeufs
+     * 40 cl de crème fraîche épaisse
+     * noix de muscade ducros
+     * sel, poivre
+
+Préparation
+
+    1. Étendre la pâte au rouleau. La placer dans un moule légèrement
+       beurré.
+    2. Piquer la pâte avec une fourchette et la faire cuire pendant 10
+       minutes à 200° (Th 6-7).
+    3. Faire revenir les lardons dans une poêle pour les dorer.
+    4. Dans un récipient, battre les oeufs en omelette. Ajoutez la crème.
+       Saupoudrez de muscade râpée (1/2 cuillère à café). Poivrez, salez.
+       Mélangez le tout.
+    5. Sortir la pâte du four et garnissez la de lardons. Ajoutez la
+       préparation sur les lardons.
+    6. Remettre le tout à cuire pendant 15 minutes.
+    7. Variante :
+    8. Il est possible du supprimer les lardons. Il suffit d'incorporer
+       150 g de fromage râpé et de servir votre quiche tyrolienne avec une
+       belle salade verte.
+
+   3 sur 5
+   (BUTTON)
+   Noter cette recette
+
+   1 note
+   (BUTTON) Fermer la modale
+
+Envie de
+noter cette recette ?
+
+   1 note
+
+Recettes associées
+
+   (BUTTON) Défilement carousel précédent
+     *
+   Quiche revisitée
+       Quiche revisitée
+     *
+   Quiche forestière
+       Quiche forestière
+     *
+   Quiche au bacon
+       Quiche au bacon
+     *
+   Quiche au jambon
+       Quiche au jambon
+     *
+   Quiche lorraine
+       Quiche lorraine
+     *
+   Quiche rapide
+       Quiche rapide
+     *
+   Quiche lorraine
+       Quiche lorraine
+     *
+   Quiche Lorraine
+       Quiche Lorraine
+     *
+   La quiche de Lauren
+       La quiche de Lauren
+
+   (BUTTON) Défilement carousel suivant
+
+Top recettes ELLE à Table
+
+     *
+   Cocktail Porn Star Martini
+       1
+       Cocktail Porn Star Martini
+     *
+   Épaule d'agneau entière rôtie au four
+       2
+       Épaule d'agneau entière rôtie au four
+     *
+   Chou-fleur vapeur
+       3
+       Chou-fleur vapeur
+     *
+   Gâteau au chocolat facile
+       4
+       Gâteau au chocolat facile
+     *
+   cocktail bora bora
+       5
+       Cocktail Bora Bora sans alcool
+     *
+   Poêlé de nouilles chinoise à la sauce de soja
+       6
+       Poêlé de nouilles chinoise à la sauce de soja
+
+Toute l'actu Elle à Table
+
+     *
+   Lasagnes aux courgettes et feta
+       Édition abonnées
+       8 recettes de lasagnes qui changent des classiques lasagnes
+       bolognaise
+     *
+   Agrumes frais
+       Connaissez-vous la différence entre le zeste et le ziste d’un
+       agrume ?
+     *
+   Courses en magasin
+       Édition abonnées
+       Décrypter une étiquette alimentaire : mode d’emploi
+     *
+   Comment savoir si mon chocolat est périmé ?
+       Comment savoir si mon chocolat est périmé ?
+     *
+   Lait végétal
+       Édition abonnées
+       Vrai / faux : le lait végétal, c’est comme du lait !
+
+   Toutes les infos Elle à Table
+   Teaser promo
+
+   Rechercher une recette
+   ____________________ (BUTTON) Lancer la recherche
+   Horoscope 2021 Lien abonnement eat
+
+   (BUTTON)
+
+   Haut de page
+   Elle à Table
+
+Suivez-nous
+
+     * Lien vers réseau social facebook
+     * Lien vers réseau social pinterest
+     * Lien vers réseau social instagram
+     * Lien vers réseau social tiktok
+
+Newsletter Cuisine
+
+   Je m'inscris
+
+Contacts
+
+     * Annonceurs
+     * Abonnez-vous
+     * La rédaction
+
+     * Nos RSS
+     * Mentions légales et CGU
+     * Données personnelles et cookies
+     * (BUTTON) Gérer mes cookies
+     * Conditions Générales de Vente
+     * Foire aux Questions
+     * Le groupe CMI France
+     * CMI Media
+     * ELLE International

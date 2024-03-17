@@ -1,0 +1,444 @@
+   #Flux RSS pour cuisineactuelle.fr
+
+   publicité
+
+   Naviguez dans l'univers
+
+   (BUTTON)
+
+   Naviguer dans l'univers
+     __________________________________________________________________
+
+     *
+     *
+
+   (BUTTON)
+   [avatar.svg] Mon profil
+     * Mon carnet de recettes
+     * Gérer mon profil
+     * Mes préférences de communication
+     * Déconnexion
+
+   (BUTTON) Menu Fermer
+   Mon carnet de recettes
+   Se connecter Connexion
+   Mon profil
+    1. Mon carnet de recettes
+    2. Gérer mon profil
+    3. Mes préférences de communication
+    4. Déconnexion
+
+   Toutes vos recettes
+   sauvegardées
+
+   (BUTTON)
+    1. Mon carnet de recettes
+    2. Recettes (BUTTON)
+         1. Recettes par plat
+         2. Apéritif
+         3. Entrée
+         4. Plat
+         5. Dessert
+         6. Boisson
+         7. Sauce
+         8. Pain & viennoiserie
+         1. Recettes par ingrédient
+         2. Légume
+         3. Viande
+         4. Poisson
+         5. Fromage
+         6. Fruit
+         7. Chocolat
+         1. Recettes Santé & allergies
+         2. Minceur
+         3. Végan
+         4. Végétarien
+         5. Sans lactose
+         6. Détox
+         7. Sans sucre
+         8. Sans gluten
+         1. Recettes par thème
+         2. Recettes de bases
+         3. Recettes traditionnelles
+         4. Recettes pas chères
+         5. Recettes faciles
+         6. Recettes rapides
+         7. Recettes de saison
+         8. Recettes pour enfants
+         9. Recettes originales
+    3. Inspirations (BUTTON)
+         1. Cuisine du monde Cuisine du monde
+         1. Cuisine régionale Cuisine régionale
+         1. Fêtes & évènements
+         2. Chandeleur
+         3. Fête des mères
+         4. Mardi gras
+         5. Pâques
+         6. Noël
+         7. Galette des rois
+         8. Ramadan
+         1. Modes de cuisson
+         2. Robots culinaires
+         3. Four
+         4. Cocotte
+         5. Micro-ondes
+         6. Vapeur
+         7. Barbecue
+         8. Wok
+         1. Plus d'idées
+         2. Apéro dînatoire
+         3. Brunch & Petit déjeuner
+         4. Buffet
+         5. Panier pique-nique
+         6. Réception
+         7. Tea time
+         8. Recettes gastronomiques
+         9. Recettes de chefs
+    4. Culture food (BUTTON)
+         1. Idées de menus
+         2. Menu de la semaine
+         3. Idées de repas
+         4. Tendances culinaires
+         1. Guide par ingrédient
+         2. Conservation des aliments
+         3. Tout savoir sur...
+         4. Cuisson des aliments
+         1. Les petits plus en cuisine
+         2. Conseils et astuces
+         3. Anti-gaspi
+         4. Guide d'achat
+         5. Gestes techniques
+         6. Actu food
+         1. Nutrition Nutrition
+         1. Vins et cocktails Vins et cocktails
+    5. Ramadan
+    6. Actu
+    7. Concours
+    8. Recette aléatoire
+    9. S'abonner au magazine
+   10. Newsletter
+
+   S'abonner au magazine
+   Je m'abonne
+   Newsletter
+
+   ____________________
+
+Recherche avancée
+
+   Par prix
+   (*) € ( ) €€ ( ) €€€ ( ) €€€€
+
+   Par note
+   (*) & plus ( ) & plus ( ) & plus ( ) & plus ( )
+
+   Par difficulté
+   (*) Facile ( ) Moyen ( ) Difficile
+   Valider Reset (BUTTON) Réinitialiser
+
+   Trouvez une recette…
+   ____________________
+   Rechercher
+   Rechercher
+
+   ____________________ (BUTTON) Rechercher
+
+   Mon carnet
+
+    1. Accueil
+    2. Recette par plat
+    3. Entrée
+    4. Soupes
+
+   cuisineactuelle.fr
+
+   cuisine de fêtes (BUTTON) Être alerté des nouvelles recettes Suivre
+   (BUTTON) Ne plus être alerté Suivi
+
+Velouté de céleri-branche, tahini, feuilles en salsa
+
+   5 /5
+   Donnez votre avis
+
+   25 min
+
+   25 min
+
+   Bon marché
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   (BUTTON) Sauvegarder (BUTTON) Sauvegardé
+   Voir mon carnet de recettes Retirer de ma collection
+   (BUTTON) Imprimer (BUTTON) Voir la photo
+   de course
+
+
+Ingrédients
+
+   (BUTTON)
+   6__ personnes
+   (BUTTON)
+     * 1Botte de céleri-branche(env. 300 g)
+     * 6Oignons grelot
+     * 1échalote grise
+     * 1gousse Ail
+     * 20g Beurre
+     * 2l Bouillon de volaille
+     * 8cuil. à soupe Huile d’olive
+     * 10cl Vermouth blanc
+     * 2cuil. à soupe Tahini
+     * 2cuil. à soupe Huile de sésame grillée
+     * 20g Farine
+     * Graines de sésame
+     * Sel
+     * Poivre
+
+   Ingrédients
+     * 1Botte de céleri-branche(env. 300 g)
+     * 6Oignons grelot
+     * 1échalote grise
+     * 1gousse Ail
+     * 20g Beurre
+     * 2l Bouillon de volaille
+     * 8cuil. à soupe Huile d’olive
+     * 10cl Vermouth blanc
+     * 2cuil. à soupe Tahini
+     * 2cuil. à soupe Huile de sésame grillée
+     * 20g Farine
+     * Graines de sésame
+     * Sel
+     * Poivre
+
+Étapes de préparation
+
+    1. Faites fondre dans une casserole le beurre et ajoutez la farine en
+       fouettant. Laissez complètement refroidir le roux obtenu hors du
+       feu.
+    2. Effilez les branches de céleri et réservez les feuilles à part.
+       Coupez les branches en deux ou quatre dans la longueur puis
+       émincez-les.
+    3. Portez le bouillon à ébullition et plongez-y les branches de
+       céleri. Laissez cuire pendant 15 minutes, jusqu’à ce qu’elles
+       soient bien tendres.
+    4. Faites suer, pendant ce temps, dans 2 cuillerées à soupe d’huile
+       d’olive, l’échalote pelée et ciselée avec l’ail pelé et haché ainsi
+       que les feuilles de céleri grossièrement hachées, salez, poivrez.
+       Retirez du feu, incorporez l’huile de sésame.
+    5. Pelez et coupez les oignons en tranches. Faites-les caraméliser 10
+       minutes dans une petite poêle avec le reste d’huile d’olive,
+       assaisonnez. Déglacez avec le vermouth et faites réduire. Réservez.
+    6. Égouttez le céleri. Versez un peu de bouillon très chaud sur le
+       roux tout en fouettant pour le détendre. Continuez d’intégrer du
+       bouillon jusqu’à obtenir une crème homogène.
+    7. Mixez le céleri avec le roux délayé au bouillon, le tahini et
+       encore assez de bouillon de cuisson pour obtenir un velouté fluide
+       mais onctueux.
+    8. Dressez le velouté de céleri bien chaud dans 6 bols. Garnissez
+       d’oignons caramélisés et de sauce de feuilles. Saupoudrez de
+       graines de sésame, décorez éventuellement de micropousses pourpres
+       et servez.
+
+   Velouté de céleri-branche, tahini, feuilles en salsa © SILKE ZANDER /
+   LIVING AT HOME / SUNRAY PHOTO
+   Velouté de céleri-branche, tahini, feuilles en salsa
+   (BUTTON) Fermer
+
+Astuces et conseils pour Velouté de céleri-branche, tahini, feuilles en salsa
+
+   Pour une version plus crémeuse : réalisez un velouté en délayant votre
+   roux avec 50 cl de lait demi-écrémé. Poursuivez la recette en utilisant
+   le bouillon comme prévu.
+   (BUTTON) Voir plus Voir moins
+
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+
+Vos commentaires
+
+   • 0
+
+   Photo de l'internaute
+   13/03/2024
+
+   (BUTTON) Modifier
+
+Contenus sponsorisés
+
+Jetez un oeil à ces recettes
+
+   Recette endive végétarienne
+   Recette endive végétarienne
+   2.7
+
+   Recette Thermomix végétarienne
+   Recette Thermomix végétarienne
+   3.6
+
+   Purée de céleri-rave: La meilleure recette
+   Purée de céleri-rave: La meilleure recette
+   4.8
+
+Contenus sponsorisés
+
+Encore plus de recettes
+
+   cuisine de fêtesrecette facilelégumescéleriRecette de Noëlsouperecette
+   pas chereentréerecette végétariennepotageSoupes
+
+     * (BUTTON) Je sauvegarde
+       Sauvegardé
+     * (BUTTON) Je cuisine
+     * (BUTTON) Les ingrédients
+
+   Recette Thermomix végétarienne
+
+   Recette Thermomix végétarienne
+   3.6
+
+Découvrez aussi...
+
+   Recette Noël Thermomix
+   Recette Noël Thermomix
+   Tian de légumes : la recette facile
+   Tian de légumes : la recette facile
+   Potage Conti recette Etchebest
+   Potage Conti recette Etchebest
+   Taboulé recette facile
+   Taboulé recette facile
+   Taboulé recette facile
+   Taboulé recette facile
+   Recette de chouquette facile
+   Recette de chouquette facile
+   Recette de muffins faciles
+   Recette de muffins faciles
+   Recette de gyozas faciles
+   Recette de gyozas faciles
+   Baklava : la recette facile
+   Baklava : la recette facile
+   Soupe veloutée de patate douce (recette facile)
+   Soupe veloutée de patate douce (recette facile)
+   Recette de mafé
+   Recette de mafé
+   Recette de coleslaw
+   Recette de coleslaw
+   Recette de la ratatouille
+   Recette de la ratatouille
+   Recette risotto
+   Recette risotto
+   Recette des cygnes
+   Recette des cygnes
+
+Nos suggestions de recettes
+
+     * Recette des makrouts
+     * Recette de panna cotta facile
+     * Recette de filet mignon facile
+     * Soupe à l'oignon : la meilleure recette
+     * Lasagne de légumes : la meilleure recette
+     * Pain pita : la recette facile
+     * La recette du tartare de bœuf facile
+
+Recette par plat
+
+   Verrines
+   Verrines
+
+   Terrines
+   Terrines
+
+   Tartares
+   Tartares
+
+   Sushis
+   Sushis
+
+   Tartines salées
+   Tartines salées
+
+   Tartes salées
+   Tartes salées
+
+   Salades
+   Salades
+
+   Quiches
+   Quiches
+   Voir plus de Recette par plat
+   Gaspachos, Foie gras, Feuilletés, Carpaccios, Bricks, Aumônières,
+
+Vidéos gourmandes
+
+   Velouté de céleri rave au parmesan : la recette ultra réconfortante de
+   Simone Zanoni
+   Velouté de céleri rave au parmesan : la recette ultra réconfortante de
+   Simone Zanoni
+
+   Céleri rémoulade : l'ingrédient secret que rajoute Philippe Etchebest
+   dans sa recette
+   Céleri rémoulade : l'ingrédient secret que rajoute Philippe Etchebest
+   dans sa recette
+
+   Tout savoir sur le céleri-rave : saison, variétés, conservation,
+   bienfaits, recettes
+   Tout savoir sur le céleri-rave : saison, variétés, conservation,
+   bienfaits, recettes
+   Voir + de vidéos Cuisine
+
+Des recettes & des astuces pour me régaler
+
+   Je m'inscris aux newsletters
+
+Top recettes
+
+   Quiche aux poireaux
+   Quiche aux poireaux
+   4
+
+   Brick aux épinards et chèvre
+   Brick aux épinards et chèvre
+   4.3
+
+   Endivettes apéro
+   Endivettes apéro
+   4.3
+
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Pinterest
+   (BUTTON)
+   Ajouter à mes favoris
+   (BUTTON)
+   Copier le lien
+   Lien copié !
+   (BUTTON)
+   Partager sur Twitter
+
+   Je sauvegarde mes recettes et je les consulte dans mon carnet de
+   recettes
+
+   J'ai compris !
+   Abonnement prismashop
+
+   Cuisine Actuelle vous livre toutes ses recettes de cuisine
+
+   ©2024 - Prisma Média - Groupe Vivendi - Tous droits réservés
+     * Conditions générales d'utilisation
+     * Paramétrer vos cookies
+     * Mentions Légales
+     * Charte pour la protection des données
+     * Publicité
+     * Contacts & Crédits
+     * Votre kiosque
+     * Équipe éditoriale
+
+   Fréquentation certifiée par l'OJD
+   facebook instagram pinterest

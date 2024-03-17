@@ -1,0 +1,528 @@
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-KHBLFN
+
+   [caz.svg] [caz-white.svg]
+     * Recettes (BUTTON)
+          +
+               o Catégories
+               o Les bases Les bases
+               o Apéritif Apéritif
+               o Entrées Entrées
+               o Plats Plats
+               o Desserts Desserts
+               o Boissons Boissons
+               o Menu de la semaine Menu de la semaine
+               o Menu de la semaine Batch Cooking Menu de la semaine Batch
+                 Cooking
+               o Ingrédients
+               o Viandes Viandes
+               o Poissons Poissons
+               o Fruits Fruits
+               o Légumes Légumes
+               o Fromage Fromage
+               o Cuisson des aliments Cuisson des aliments
+               o Émissions
+               o Top Chef Top Chef
+               o Tous en Cuisine avec Cyril Lignac Tous en cuisine
+               o Le meilleur Pâtissier Le Meilleur Pâtissier
+               o Le Meilleur Pâtissier les Professionnels Le Meilleur
+                 Pâtissier les Professionnels
+               o RTL Vous Régale RTL vous régale
+               o RTL Nous Voilà Bien RTL Nous voilà bien
+               o Objectif Top Chef Objectif Top Chef
+               o Batch Cooking Batchcooking
+               o RTL L'Astuce du Chef L'astuce du Chef
+               o L'Académie des Gâteaux L'Académie des Gâteaux
+               o Le combat des régions Le combat des régions
+               o La Meilleure Boulangerie de France La meilleure
+                 Boulangerie de France
+               o Snack Masters Snack Masters
+               o Recettes d'hiver
+               o Recettes d'hiver à réaliser en Février avec des aliments
+                 de saison bien sûr ! Recettes de Février
+               o Tartiflette facile et rapide Tartiflette facile et rapide
+               o Recette facile de tarte salée à emporter au bureau Tarte
+                 pour pause déj'
+               o Pâtes à la carbonara et noix de muscade Plats d'hiver en
+                 20 min
+               o Gratin de poireaux aux fruits de mer Gratins hivernaux
+               o soupe a la patate douce Soupes d'hiver express
+               o Recette de crêpe facile Crêpes réconfortantes
+               o Idées de recettes à réaliser en Mars avec des aliments de
+                 saison ! Recettes de Mars
+               o Soupe de butternut Soupe de butternut
+               o blanquette de veau à l'ancienne Blanquette de veau
+               o sauce bechamel Sauce Béchamel maison
+     * Menu (BUTTON)
+          +
+               o Menu sur mesure
+               o Blettes sautées à l'ail Menu vegan du 11 au 15 mars
+               o Tarte aux poireaux et gruyère Menu végé du 11 au 15 mars
+               o Bagels pizza au chorizo Menu étudiant du 11 au 15 mars
+               o Riz cantonnais à l'ananas Menu familial du 11 au 15 mars
+               o Menu pas cher
+               o Paillassons lyonnais de pommes de terre Menu du 11 au 15
+                 mars
+               o pudding salé Menu du 4 au 8 mars
+               o Gratin léger de navets à la crème et au fromage Menu du
+                 26 février au 1 mars
+               o Menu Batch Cooking
+               o beignets de blettes Menu du 11 au 15 mars
+               o Menu Batch Cooking du 4 mars au 8 mars Menu du 4 au 8
+                 mars
+               o Menu Batch Cooking du 26 février au 1er mars Menu du 26
+                 février au 1 mars
+     * Thèmes (BUTTON)
+          +
+               o Robots culinaires
+               o Recettes Thermomix Recettes Thermomix
+               o Recettes Cookeo Recettes Cookeo
+               o Recettes Companion Recettes Companion
+               o Recettes Monsieur Cuisine Recettes Monsieur Cuisine
+               o Recettes Cook Expert Recettes Cook Expert
+               o Recettes KitchenAid Recettes KitchenAid
+               o Recettes à l'extracteur de jus Recettes à l'extracteur de
+                 jus
+               o Recettes Compact Cook Recettes Compact Cook
+               o Les classiques
+               o Recettes traditionnelles Recettes traditionnelles
+               o Recettes pas chères Recettes pas chères
+               o Cuisine régionale Cuisine régionale
+               o Cuisine du monde Cuisine du monde
+               o Cuisine maman / bébé Cuisine maman / bébé
+               o Recettes de chefs Recettes de chefs
+               o Bien manger Bien manger
+               o Recettes faciles et rapides Recettes faciles et rapides
+               o Recettes anti-gaspi Recettes anti-gaspi
+               o Recettes préférées des Français Recettes préférées des
+                 Français
+               o Fêtes
+               o Catégorie plats Ramadan Ramadan
+               o Fête de Pâques Pâques
+               o Fêtes des mères
+               o Halloween Halloween
+               o dinde de thanksgiving Thanksgiving
+               o chapon de noel Recettes de Noël
+               o fête - nouvel an Nouvel An
+               o Epiphanie - galette des rois Galette des Rois
+               o nouvel-an-lunaire Nouvel An lunaire
+               o Comment réchauffer des crêpes ? Chandeleur
+               o beignets Mardi-gras
+               o 15 recettes de poisson blanc Saint-Valentin
+               o Fêtes : gâteaux d'anniversaire Gâteaux d'anniversaire
+               o Minceur
+               o Mousse concombres, crevettes Apéritif minceur
+               o Scampis au beurre allégé Entrées minceur
+               o Soupe de lentilles corail au Monsieur Cuisine Soupes
+                 minceur
+               o Cookies light Desserts minceur
+               o toasts légumes Plats minceur
+               o boisson detox concombre pomme et gingembre Recettes détox
+     * 🧀 Journée du fromage
+     * 🌙 Ramadan (BUTTON)
+          +
+               o Top recettes
+               o Msemen Msemen
+               o Chorba algérienne Chorba algérienne
+               o Tajine au poulet Tajine de poulet aux épices
+               o Houmous libanais Houmous libanais
+               o La véritable recette de couscous La véritable recette de
+                 couscous
+               o brick thon oeuf Bricks au thon et à l'oeuf
+               o Menu Ramadan Menu
+               o dattes ramadan Menu du Ramadan du 11 au 15 mars
+               o idée menu de ramadan Menu spécial Ramadan 2024
+               o Astuces
+               o Ramadan 2024 Quelles sont les dates du Ramadan 2024 ?
+               o idée menu de ramadan Idée de menu complet pour Ramadan
+               o diapo bricks 10 astuces pour réussir ses bricks
+               o épices Quelles épices pour un tajine ?
+               o Comment cuire des pois chiches secs ? Comment cuire des
+                 pois chiches secs ?
+               o conserver la menthe fraiche Comment conserver de la
+                 menthe fraîche ?
+               o Toutes nos recettes
+               o recette ramadan 80 recettes pour fêter le Ramadan
+               o 35 desserts pour le Ramadan 35 desserts pour le Ramadan
+               o Tajine aux lentilles 30 recettes végétariennes pour le
+                 Ramadan
+               o chakchouka 50 idées de plat pour le Ramadan
+               o bricks figues chèvre 30 recettes de bricks pour le
+                 Ramadan
+     * 🐰 Pâques (BUTTON)
+          +
+               o Top recettes
+               o Gigot d'agneau à l'ail
+               o Épaule d'agneau entière rôtie au four
+               o Pâté berrichon ou pâté de Pâques
+               o Gigot d'agneau au four (cuisson lente)
+               o Œufs mimosa au thon de ma grand-mère
+               o Gâteau de pâques au chocolat
+               o Astuces
+               o 5 astuces pour réussir la cuisson du gigot d'agneau
+               o Comment cuire des œufs durs ?
+               o Comment cuire des asperges ?
+               o Comment cuire une souris d'agneau ?
+               o Comment bien choisir sa viande d'agneau ?
+               o Comment faire des oeufs en chocolat sans moule ?
+               o Toutes nos recettes
+               o 100 recettes rapides pour votre repas de pâques
+               o 100 idées pour un repas de Pâques traditionnel
+               o 50 desserts de Pâques facile
+               o 50 idées d'entrées pour pâques 2024
+               o 50 idées d'accompagnements de gigot d'agneau
+     * TopChef Top Chef, saison 15 : le concours culinaire sur M6
+     * Actus (BUTTON)
+          +
+               o Actualités
+               o actu - chaud devant Actualités récentes
+               o Tous des Chefs Actualités des chefs
+               o Aliments
+               o actu - conservation Conservation
+               o actu - cuisson Cuisson
+               o Encyclopedie Glossaire
+               o Conseils
+               o Dessert diététique de pommes et poire au four Suggestions
+                 du chefs
+               o LA technique efficace Apprendre à cuisiner
+
+     * Tous en cuisine Top Chef Objectif Top Chef Le Meilleur Pâtissier
+       Tous des chefs
+
+     * 🌙
+     *
+     * ____________________
+     *
+
+   ____________________ (BUTTON)
+
+    1. Accueil
+
+     Categories
+
+     Desserts
+
+     Cakes
+
+     Cake au citron simplissime
+
+Cake au citron simplissime
+
+   Cake au citron
+   Logo CuisineAZ
+   Par CuisineAZ
+   1 h 10 min
+   Facile
+   € 0,80 €/pers
+   371/pers
+   45 commentaires
+   (BUTTON)
+
+   La douceur et le fondant d'un bon cake au citron, voilà un délice
+   auquel personne ne résiste bien longtemps ! Très facile à réaliser,
+   cette recette gourmande à base de farine, d'œufs, de beurre, de sucre,
+   de lait et bien sûr de citron (jus et zeste) se prépare en un tour de
+   fouet. Un gâteau indémodable à couper en tranches généreuses pour le
+   dessert, pour le goûter... ou pour quand vous voulez !
+
+Ingrédients :
+
+   (BUTTON) 6 Pers.
+   €   4,80 €
+     *
+     * Citron(s) Citron(s) 1
+     * Farine Farine 200 g
+     * Levure chimique Levure chimique 1 sachet(s)
+     * Sucre semoule Sucre semoule 175 g
+     * Beurre demi-sel ramolli Beurre demi-sel ramolli 80 g
+     * Œuf(s) Œuf(s) 3
+     * Lait Lait 10 cl
+
+Préparation :
+
+     * Préparation 20 min
+     * Cuisson 50 min
+     * (BUTTON)
+
+     * 1
+       Préchauffez votre four th.6 (180°C). Lavez très soigneusement le
+       citron (surtout s'il n'est pas bio) puis essuyez-le. Râpez le zeste
+       dans un bol et pressez le jus à part. Fouettez le beurre avec le
+       sucre jusqu'à obtenir une pommade bien homogène. Ajoutez les œufs
+       et mélangez, puis ajoutez le lait, le jus de citron et les zestes.
+       Incorporez enfin la farine tamisée et la levure.
+     * 2
+       Versez cette préparation dans un moule à cake beurré et fariné et
+       enfournez pour 35 à 45 min (pour vérifier la cuisson de votre cake,
+       plantez la pointe d'un couteau au centre, si la pointe ressort
+       intacte, c'est qu'il est cuit !). Au bout de 15 min de cuisson,
+       faites une entaille sur le dos du cake pour qu'il cuise et gonfle
+       de façon plus esthétique.
+     * 3
+       Laissez refroidir avant de le démouler.
+
+Diététique :
+
+   Notre recette de cake au citron est à la fois très simple, rapide à
+   réaliser et délicieuse ! Il se compose d’œufs riches en protéines de
+   qualité, de farine source de glucides qui fournissent de l’énergie à
+   l’organisme et de vitamines du groupe B. Ce cake contient également du
+   beurre riche en acides gras saturés et du sucre, il devra donc être
+   consommé avec modération. Pour rendre cette recette beaucoup plus
+   saine, il est possible de remplacer la farine par une farine
+   semi-complète, le beurre par de l’huile végétale et une partie du sucre
+   par du miel.
+   Four Facile Citron Gouter
+
+Astuces
+
+   Amusez-vous à customiser votre cake au citron comme bon vous semble !
+   Vous pouvez par exemple ajouter à votre pâte à gâteau des graines de
+   pavot (elles se marient divinement bien avec le citron), un petit bout
+   de gingembre râpé ou quelques dés de gingembre confit. Pour renforcer
+   les parfums d'agrumes, vous pouvez aussi utiliser le zeste d'une
+   orange. En bref, beaucoup de possibilités pour beaucoup de saveurs !
+
+Questions fréquentes
+
+   Quel moule conseillez-vous pour réaliser ce cake au citron ?
+
+   Vous pouvez utiliser un moule à cake rectangulaire ou rond pour
+   réaliser cette recette de cake au citron. Pour varier les formes, vous
+   pouvez aussi verser votre pâte dans un moule à savarin. Vous pouvez
+   également utiliser des petits moules à muffins pour réaliser des
+   portions individuelles. Ils cuiront cependant plus vite, donc réduisez
+   le temps de cuisson et surveillez régulièrement.
+
+   Peut-on préparer ce cake au citron la veille ?
+
+   Oui, vous pouvez préparer votre cake la veille. Nous vous suggérons de
+   le conserver au réfrigérateur dans un contenant hermétique ou de
+   l’envelopper dans un papier aluminium ou dans un film alimentaire afin
+   qu’il ne sèche pas.
+
+   Que conseillez-vous pour que le gâteau se démoule facilement ?
+
+   Nous vous conseillons de beurrer votre moule à gâteau puis de le
+   fariner. Pensez ensuite à bien tapoter votre moule à l'envers afin de
+   retirer l'excédent de farine. Vous pouvez également utiliser un moule
+   en silicone qui permettra un démoulage facile et efficace.
+
+   Est-il possible de diminuer la quantité de sucre ?
+
+   Si vous préférez les gâteaux peu sucrés, vous pouvez diminuer la
+   quantité de sucre et en mettre seulement 120 g. Vous pouvez également
+   utiliser du sucre dont le pouvoir sucrant est plus élevé et ainsi
+   diviser la quantité par deux.
+
+   Est-il indispensable de tamiser la farine ?
+
+   Cela n’est pas une étape indispensable mais le fait de tamiser la
+   farine permet d’apporter de la légèreté à votre préparation et aussi
+   d’éviter les grumeaux. Alors, nous vous conseillons de réaliser cette
+   étape.
+   Abonnez-vous aux recettes pas chères en Newsletters et recevez
+   Top 30 des recettes Cuisineaz
+   ____________________ OK
+   Top 30 des recettes Cuisineaz
+
+   Votre adresse email sera utilisée par Digital Prisma Players pour vous
+   envoyer votre newsletter contenant des offres commerciales
+   personnalisées. Elle pourra également être transférée à certains de nos
+   partenaires, sous forme pseudonymisée, si vous avez accepté dans notre
+   bandeau cookies que vos données personnelles soient collectées via des
+   traceurs et utilisées à des fins de publicité personnalisée. A tout
+   moment, vous pourrez vous désinscrire en utilisant le lien de
+   désabonnement intégré dans la newsletter et/ou refuser l’utilisation de
+   traceurs via le lien « Préférences Cookies » figurant sur notre
+   service. Pour en savoir plus et exercer vos droits , prenez
+   connaissance de notre Charte de Confidentialité.
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Noter la recette:
+   (BUTTON) ENVOYER
+
+Commentaires :
+
+     * (45)
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Noter la recette:
+   (BUTTON) ENVOYER
+
+   j'ai oublié un ingrédient(le lait),le gâteau était assez sec.
+   Lydaw
+   30 janvier 2019
+   (BUTTON) 0 (BUTTON) 1 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Pour satisfaire votre gourmandise, nous avons pris en compte vos
+   commentaires... Cela nous a été d’une grande aide pour améliorer cette
+   recette, alors merci à vous toutes et vous tous! L’équipe n’attend plus
+   que votre avis pour savoir si vous vous êtes régalés!
+   Equipe CuisineAZ
+   12 juillet 2017
+   (BUTTON) 3 (BUTTON) 1 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Un délicieux dessert ou goûter à apprécier en hiver en pleine saison
+   des agrumes ! J'y ajoute des graines de chia trempées dans de l'eau
+   pour remplacer les oeufs, elles apportent du moelleux et remplacement
+   également une partie de la matière grasse, à tester !
+   Maeva
+   18 mai 2017
+   (BUTTON) 0 (BUTTON) 0 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Je trouve qu'il y a trop de sucre mais la recette a l'air très bonne.
+   Carole
+   17 mai 2017
+   (BUTTON) 3 (BUTTON) 1 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Très bon et super simple Ce que je fais c'est un peu moins de sucre , 1
+   citron en plus pour bien accentuer le goût , et un coeur caramel au
+   beurre salé Et pour changer un peu de poivre du timut ou sinon pour
+   faire plus classique des pépites de chocolat , ou de la menthe ciselée
+   la danse des casseroles
+   16 mai 2017
+   (BUTTON) 0 (BUTTON) 0 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Délicieux également en rajoutant des graines de pavot !
+   Marie
+   16 mai 2017
+   (BUTTON) 0 (BUTTON) 0 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   J'adore le cake au citron. On peut faire une variante avec l'ajout de
+   thé matcha ou de gingembre.
+   Nicolas
+   16 mai 2017
+   (BUTTON) 0 (BUTTON) 0 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   le citron bio c'est mieux pour des zestes sans pesticides (sinon lavez
+   le bien sous l'eau chaude avec du produit vaisselle avant le le zester
+   )
+   Hélène
+   16 mai 2017
+   (BUTTON) 0 (BUTTON) 0 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   J'adore, ça me rappelle des souvenirs. Quand j'allais chez ma
+   grand-mère, j'avais pour le goûter un cake au citron ! Miam !!
+   Pretty Little
+   16 mai 2017
+   (BUTTON) 0 (BUTTON) 0 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Je glace mon cake au citron avec un mélange de sucre glace et citron,
+   c'est une tuerie
+   Severine
+   15 mai 2017
+   (BUTTON) 2 (BUTTON) 0 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Bonne recette à tenter avec des cerises : Le mariage citron-cerise
+   étant particulièrement savoureux.
+   Guila et Lilou
+   15 mai 2017
+   (BUTTON) 1 (BUTTON) 0 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Lorsque j'ai des oranges non traitées sous la main, j'utilise leur
+   zeste à la place de ceux du citron ! C'est très bon aussi :-)
+   Noémie
+   15 mai 2017
+   (BUTTON) 1 (BUTTON) 0 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Excellent à refaire !!!!!
+   Jujay
+   26 février 2016
+   (BUTTON) 3 (BUTTON) 2 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Les gens sont bizarres... Si on lit bien la recette, il y a bien de la
+   levure, et le sel se trouve... Dans le beurre demi-sel !!! Tout est là.
+   Rien à réduire. Pour ce qui est de savoir si c'est un cake, c'est
+   forcément un cake si vous le mettez dans un moule à cake, c'est sûr que
+   dans un plat à tarte, ça risque de ressembler à une tarte ! Essayez de
+   le faire cuire louche après louche dans une poêle, ça ressemblera à des
+   crêpes !!!! MDR...
+   Viviane
+   26 septembre 2015
+   (BUTTON) 12 (BUTTON) 4 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   Simplement facile :-) explications complètes et il suffit de lire en
+   entier la recette ! Tout y est et je ne comprends pas les gens qui
+   disent qu'il manque la levure !!
+   Laureine
+   13 août 2015
+   (BUTTON) 4 (BUTTON) 0 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   super bon mais la prochaine foi, j mets moin de sucre et plus de
+   citrons.
+   karine
+   08 mai 2014
+   (BUTTON) 5 (BUTTON) 0 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   150gr de sucre suffisent,50 gr de beurre et deux voir trois citrons et
+   on obtient un gâteau moelleux et savoureux.
+   marie Laure
+   22 mars 2014
+   (BUTTON) 13 (BUTTON) 0 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   variante:100gr de sucre, pas de beurre et 2 oranges! Miam!
+   marie Laure
+   27 mars 2014
+   (BUTTON) 1 (BUTTON) 0 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   cette recette est vraiment simple à faire et c'est délicieux merci
+   Véronique
+   21 février 2014
+   (BUTTON) 1 (BUTTON) 0 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   très bon cake.. il n'a cependant pas gonflé... je metterai moins de
+   sucre egalement...;) j'ai ajouté apres 15 min des noix ca a donné du
+   croquant..
+   sophia
+   10 novembre 2013
+   (BUTTON) 3 (BUTTON) 0 (BUTTON) Signaler un abus (BUTTON) Répondre
+
+   pour les amateur de citron mieux vaut une bonne tarte au citron mais
+   sinon recette plutot pas mal
+   oumeya
+   03 octobre 2013
+   (BUTTON) 4 (BUTTON) 1 (BUTTON) Signaler un abus (BUTTON) Répondre
+   Plus de commentaires
+
+Recettes similaires :
+
+   Mug cake cacao sans œuf
+   Mug cake cacao sans œuf
+   Cake nature sucré facile et rapide
+   Cake nature sucré facile et rapide
+   Cake Pops
+   Cake Pops facile
+   Banana bread aux flocons d avoine
+   Banana bread aux flocons d'avoine
+   cake banane
+   Cake à la banane sans beurre
+   Carrot cake au Monsieur Cuisine
+   Carrot cake au Monsieur Cuisine
+   Quatre quart au Monsieur Cuisine
+   Quatre quart au Monsieur Cuisine
+   Cake nature au Kitchenaid
+   Cake nature au Kitchenaid
+   Pain d'épices au Kitchenaid
+   Pain d'épices au Kitchenaid
+   cake pas cher
+   Cake pas cher
+   Haut de page
+
+   PasseportSanté.net Meteocity Deco.fr Fourchette & Bikini
+     * Annonceurs - Publicité
+     * Partenariats
+     * Presse
+
+     * Nous contacter
+     * Mentions légales
+     * Charte de confidentialité
+     * (BUTTON) Paramétrer mes cookies
