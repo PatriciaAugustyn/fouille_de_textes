@@ -76,3 +76,13 @@ En lançant l'aspiration, nous nous sommes rendu compte qu'un site bloque les as
 (13/02/24)
 
 Nous avons ajouté les txt des urls de test, et ainsi fait leurs aspirations qui ont été rangées dans le dossier donnees/aspirations/test/ par site et par étiquette.
+
+(17/03/24)
+
+Ajout du programme qui récupère les dumps-text des aspirations html de nos sites.
+La commande principale est la suivante `dumps=$(lynx -dump -nolist ../aspirations/${chemin}/${etiquette}-$i.html > ../dumps-text/${chemin}/${etiquette}-$i.txt)`. Elle peremt de récupérer les fichiers du dossier d'aspirations et de prendre le text sans url et les placer dans des dossiers prévus à cet effet dans `dumps-text/`. Voici l'exemple d'une commande lancé pour convertir les aspirations en dumps-text : `bash dump.sh entrainement/aperitif aperitif` pour les urls d'entrainement ou `bash dump.sh test/cuisineaz/entree cuisineaz_entree` pour les urls de test.
+Le programme prend en argument une partie du chemin des aspirations et les étiquettes de chaque fichier.
+Une boucle est utilisée pour itérer sur les fichiers de chaque dossier d'aspiration, elle tourne le nombre de fois correspondant au nombre de fichiers dans chaque dossier. Ceci est définit par la commande suivante : `ls ../aspirations/${chemin}/*.html | wc -l`, elle compte le nombre de fichier html dans le dossier indiqué en chemin.
+
+Idée pour la suite :
+- Pourrions-nous peut être faire un nettoyage dans nos données pour ne garder que ce qui nous intéresse à l'aide de regex. Par exemple : retirer tous les contenus textes des menus déroulant des pages, ne garder que les listes d'ingrédients et les indications de préparation.
