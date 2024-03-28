@@ -1,9 +1,9 @@
 from bs4 import BeautifulSoup
 import requests
-import os
+#import os
 
 
-with open("../URLs/larecette_url_boisson_test.txt", "r") as urls:
+with open("../URLs/larecette_url_dessert_test.txt", "r") as urls:
     for i, line in enumerate(urls):
         link = line.strip()
         response = requests.get(link)
@@ -13,5 +13,5 @@ with open("../URLs/larecette_url_boisson_test.txt", "r") as urls:
         narrow_contents = soup.find_all(class_="g1-content-narrow")
 
         for j, content in enumerate(narrow_contents):
-            with open(f"../aspirations/test/boisson/larecette_{i+1}_boisson_.html", "w", encoding="utf-8") as file:
+            with open(f"../clean-text/test/dessert/larecette_dessert_{i+1}.html", "w", encoding="utf-8") as file:
                 file.write(str(content))
