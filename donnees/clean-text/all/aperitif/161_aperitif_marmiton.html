@@ -1,0 +1,598 @@
+<div class="recipeV2-container">
+<div class="mrtn-content">
+<p class="af-bread-crumb" id="af-bread-crumb">
+<a href="https://www.marmiton.org">Accueil</a> &gt; <a href="/recettes">Recettes</a> &gt; <a href="/recettes/index/categorie/aperitif-ou-buffet/">apéritif ou buffet</a> &gt; <a href="/recettes/index/categorie/bouchee-ou-amuse-bouche/">bouchée ou amuse-bouche</a> &gt; <a href="/recettes/index/categorie/chips/">chips</a> &gt; <span>Chips de parmesan</span></p>
+<div class="recipe-header__title">
+<div class="main-title">
+<h1>Chips de parmesan</h1>
+<div class="show-more__modal" style="display: none;">
+<div class="show-more__close-container"><i class="show-more__close icon-icon_cross_big"></i></div>
+<div class="modal__tags">
+<span class="modal__tag recipe-header-modal__seasonal">De saison</span>
+<span class="modal__tag">Amuse-gueule</span>
+<a class="modal__tag" href="https://www.marmiton.org/recettes/selection_vegetarien.aspx">Vegetarian</a>
+<a class="modal__tag" href="https://www.marmiton.org/recettes/selection_sans_gluten.aspx">Gluten free</a>
+<a class="modal__tag" href="https://www.marmiton.org/recettes/selection_cuisine_rapide.aspx">Quick</a>
+<a class="modal__tag" href="/recettes/index/categorie/bouchee-ou-amuse-bouche/">Bouchée ou amuse-bouche</a>
+<a class="modal__tag" href="/recettes/index/categorie/chips/">Chips</a>
+<a class="modal__tag" href="/recettes/selection_recettes_vegetariennes_noel.aspx">Noël végétarien                    </a>
+</div>
+<img alt="ecoscore c" class="score-img" src="https://static.afcdn.com/relmrtn/Front/Component/nutriscore/assets/ecoscore_c.png"/>
+<span>
+                    Score calculé par                    <img alt="etiquettable" src="https://static.afcdn.com/relmrtn/Front/Component/nutriscore/assets/etiquettable.png"/>
+</span>
+</div>
+</div>
+<div class="recipe-header__rating-container">
+<div class="recipe-header__rating">
+<a class="recipe-header__rating-stars" href="#topReviewsTitle">
+<div class="mrtn-stars" data-mode="readonly"><span class="icon-star-half icon-icon_star_halfempty mrtn-star"></span><span class="icon-star-full-active icon-icon_star_full mrtn-star"></span><span class="icon-star-full-active icon-icon_star_full mrtn-star"></span><span class="icon-star-full-active icon-icon_star_full mrtn-star"></span><span class="icon-star-full-active icon-icon_star_full mrtn-star"></span></div> <span class="recipe-header__rating-text">4.1/5</span>
+</a>
+</div>
+<!-- should not be printed in sites without comments -->
+<div class="recipe-header__comment">
+<i class="icon icon-icon_comment"></i>
+<a href="#topReviewsTitle">
+                28 commentaires            </a>
+</div>
+</div>
+</div>
+<img class="lazyload mrtn-print-only" data-src="https://assets.afcdn.com/recipe/20210818/121597_w300h200c1cx1060cy707cxt0cyt0cxb2121cyb1414.webp" data-srcset="https://assets.afcdn.com/recipe/20210818/121597_w150h100c1cx1060cy707cxt0cyt0cxb2121cyb1414.webp 150w,
+https://assets.afcdn.com/recipe/20210818/121597_w300h200c1cx1060cy707cxt0cyt0cxb2121cyb1414.webp 300w,
+https://assets.afcdn.com/recipe/20210818/121597_w600h400c1cx1060cy707cxt0cyt0cxb2121cyb1414.webp 2x" height="200" id="recipe-picture-print" sizes="300px" src="https://static.afcdn.com/relmrtn/lazyload.png" style=" aspect-ratio: 300/200;" width="300"/>
+<div class="recipe-media-viewer">
+<script id="af-diapo__layout" type="text/html-handlebars">
+	<div class="af_diapo">
+
+		<div class="af_diapo__left-container">
+
+			<div class="af_diapo__main-content">
+				<div class="controlL af_diapo__control af_diapo__control--disabled" id="af_diapo_left">
+					<span class="icon icon-arrow-left"></span>
+				</div>
+
+				<div class="af_diapo__img-container">
+
+					{{> diapoPicture }}
+
+				</div>
+
+				<div class="controlR af_diapo__control" id="af_diapo_right">
+					<span class="icon icon-arrow-right"></span>
+				</div>
+
+				<div class="af_diapo__keyboard-helper mrtn-keyboard">
+					<span class="icon-keyboard_top">
+						<span class="path1"></span><span class="path2"></span><span class="path3"></span>
+					</span><!--
+
+					--><br><!--
+
+					--><span class="icon-keyboard_left mrtn-keyboard--active">
+						<span class="path1"></span><span class="path2"></span><span class="path3"></span>
+					</span><!--
+
+					--><span class="icon-keyboard_bottom">
+						<span class="path1"></span><span class="path2"></span><span class="path3"></span>
+					</span><!--
+
+					--><span class="icon-keyboard_right mrtn-keyboard--active">
+						<span class="path1"></span><span class="path2"></span><span class="path3"></span>
+					</span>
+				</div>
+			</div>
+
+			<div class="af_diapo_footer" id="af_diapo_footer"></div>
+
+
+
+		</div>
+
+
+
+		<div class="af_diapo__right-container">
+
+			<div class="af_diapo__right-container__header">
+				{{> diapoHeader }}
+			</div>
+
+
+			<div class="af_diapo__right-container__sub-header {{subHeaderClass}}">
+				{{> diapoSubHeader }}
+			</div>
+
+			<div>{{{sButtons}}}</div>
+
+
+			<div id="overlayDiapoPub" class="af_diapo_pub">{{{getAdPlacementHTML}}}</div>
+
+		</div>
+
+		<div id="debug-diapo"></div>
+
+	</div>
+
+</script>
+<script id="af-diapo__picture-tmpl" type="text/html-handlebars">
+		<h2 class="af_diapo_titre af_diapo_titre_left">{{diapoTitle}}</h2>
+		<a class="backToSourceLink" href="{{subtitleLink}}">{{subtitleLabel}}</a>
+		<img id="{{diapoID}}_zoom" class="af_diapo_zoom" src="{{photoSrc}}" />
+		<div>{{{sButtons}}}</div>
+</script>
+<script id="af-diapo__header-tmpl" type="text/html-handlebars">
+	{{#if isSeeAlso}}
+		<a href="#" class="diapo-btn-reload-link" id="diapo-btn-reload-link">
+			<div class="diapo-btn-reload">
+				<img src="https://static.afcdn.com/relmrtnFront/Component/diapoDesktop/assets/reload.png" alt="">{{seealsoReplayTitle}}
+			</div>
+		</a>
+	{{else}}
+		<div class="af_diapo_nbphotos">
+			<span class="af_diapo_nbphotos__current-index">{{currentIndex}}</span> / {{nbPhotos}}
+		</div>
+	{{/if}}
+
+
+	<div>
+		{{#if hasAlert}}
+			<span id="af_diapo_alert_btn" class="af_diapo_alert" data-picture-url="{{photoSrc}}" data-picture-id="{{photoId}}" title="alerter">
+				<span class="icon icon-warning"></span>
+			</span>
+		{{/if}}
+
+		<span id="af_diapo_closeBtn" class="af_diapo_closeBtn" title="fermer le diaporama">
+			<span class="icon icon-icon_cross_big icon-close-btn"></span>
+		</span>
+	</div>
+</script>
+<script id="af-diapo__sub-header-tmpl" type="text/html-handlebars">
+    {{#if ratingComponent}}
+		{{{ratingComponent}}}
+	{{/if}}
+	<div class="af-a-text-description {{descriptionClass}}" id="description-{{photoId}}">{{{photoDescription}}}</div>
+	{{#if photoDescription}}
+        {{#unless isOPS}}
+		<div ng-if class="af-description-expand" id="expand-{{photoId}}" onclick="expandDescription('{{photoId}}');">view more</div>
+	    {{/unless}}
+    {{/if}}
+    {{#unless isOPS}}
+	<p><span class="af_diapo_credit">{{photoCredits}}</span></p>
+    {{/unless}}
+</script>
+<script id="mrtn-diapo-see-also" type="text/html-handlebars">
+
+	<div class="af_seealso__container">
+
+			{{#each diapos}}
+			<div class="diapo_table-cell">
+				<div class="diapo_table-cell-container">
+					<a href="{{this.[3]}}" id="af_seealso_link_{{this.[0]}}">
+						<div class="diapo_table-cell-img">
+							<div class="diapo-img">
+								<img alt="" src="https://static.afcdn.com/relmrtn/Front/Component/diapoDesktop/assets/photo.png">{{seealsoShowTitle}}
+							</div>
+							<img alt="" src="{{this.[2]}}" width="200">
+						</div>
+						<p>{{this.[1]}}</p>
+					</a>
+				</div>
+			</div>
+			{{/each}}
+	</div>
+
+</script>
+<div class="af-pin-it-wrapper diapo diapoV marmiton" style="width:auto;">
+<span class="af-pin-it af-to-obfuscate-18797" data-encoded-link="Ly93d3cucGludGVyZXN0LmNvbS9waW4vY3JlYXRlL2J1dHRvbi8/dXJsPWh0dHBzJTNBJTJGJTJGd3d3Lm1hcm1pdG9uLm9yZyUyRnJlY2V0dGVzJTJGcmVjZXR0ZV9jaGlwcy1kZS1wYXJtZXNhbl82NDkwMi5hc3B4JmRlc2NyaXB0aW9uPUNoaXBzK2RlK3Bhcm1lc2FuJm1lZGlhPWh0dHBzJTNBJTJGJTJGYXNzZXRzLmFmY2RuLmNvbSUyRnJlY2lwZSUyRjIwMjEwODE4JTJGMTIxNTk3X3c4MDBoNjAwYzFjeDEwNjBjeTcwN2N4dDBjeXQwY3hiMjEyMWN5YjE0MTQuanBn" data-pin-do="none" onclick="af_ua_trackEvent(\'Share\', \'pinIt Click\', \'pinterest-light\');" target="_blank"><span class="icon icon-pinterest"></span></span> <table class="controls" id="af-diapo-desktop-0_fakeNav" style="height:100%; cursor:pointer;">
+<tr>
+<td>
+<div class="controlL round">
+<span class="icon icon-icon_arrow_big"></span>
+</div>
+</td>
+<td>
+<div class="controlR round">
+<span class="icon icon-arrow-right"></span>
+</div>
+</td>
+</tr>
+</table>
+<img alt="Chips de parmesan" class="lazyload" data-src="https://assets.afcdn.com/recipe/20210818/121597_w648h414c1cx1060cy707.webp" data-srcset="https://assets.afcdn.com/recipe/20210818/121597_w324h207c1cx1060cy707.webp 324w,
+https://assets.afcdn.com/recipe/20210818/121597_w648h414c1cx1060cy707.webp 648w,
+https://assets.afcdn.com/recipe/20210818/121597_w1296h828c1cx1060cy707.webp 2x" height="414" id="af-diapo-desktop-0_img" sizes="648px" src="https://static.afcdn.com/relmrtn/lazyload.png" style=" aspect-ratio: 648/414;" width="648"/> <span class="displayCopyright" style="width:611px;">
+		Iryna Imago	</span>
+<div class="clear-both"></div>
+<div class="clear-both"></div>
+</div>
+<div class="recipe-media-viewer-media-container recipe-media-viewer-media-container-video">
+<!-- ESITAG --><!-- ESI - DailymotionPlayer : http://www.marmiton.org/reloaded/esi/videoplayer.php?adRule=&aspectRatio=&context=recipe&dailymotion=1&dailymotionEmbedLibId=x861b&device=desktop&isCM=0&npr=0&pegasusDisabled=&playlistid=&position=MTF_content&pubt=&startOnSight=1&stickTo=bottom-right&stickyFullMobile=&stickyScrollUp=&videoid=528198 -->
+<link href="https://geo.dailymotion.com" rel="dns-prefetch"/>
+<script crossorigin="anonymous" src="https://static.afcdn.com/relmrtn/concat.js?PCM-C0vNS8kvUjVySyxNA5EpxUCyIKc0PTOvGCLqnJ9XkppX4p1aWZ5flFKsl1Vs65yfW5CfBxQEqkhJzMypzM0vyczPC8hJrEwtwiYG1KRnZGBkYmBsZGlobmQMAA" type="text/javascript"></script>
+<script data-vendor="iab:573" src="https://geo.dailymotion.com/libs/player/x861b.js" type="didomi/javascript"></script>
+<div id="daily-player"></div><script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function() {
+ init_dailymotion_player('daily-player', 'x81y2da', '', 1);// Wait for the monetization before launching the content
+ document.addEventListener('admDailymotionReady', () => load_dailymotion_content('daily-player', 'x81y2da', ''));
+ // Force the video in case of an issue (timeout: 5s)
+ setTimeout(() => load_dailymotion_content('daily-player', 'x81y2da', ''), 5000);});
+</script>
+</div>
+<div class="recipe-media-viewer-thumbnail">
+<div class="recipe-media-viewer-thumbnail-container" id="recipe-media-viewer-thumbnail-container-0">
+<img class="lazyload recipe-media-viewer-picture" data-src="https://assets.afcdn.com/recipe/20210818/121597_w157h157c1cx1060cy707cxt0cyt0cxb2121cyb1414.webp" data-srcset="https://assets.afcdn.com/recipe/20210818/121597_w79h79c1cx1060cy707cxt0cyt0cxb2121cyb1414.webp 79w,
+https://assets.afcdn.com/recipe/20210818/121597_w157h157c1cx1060cy707cxt0cyt0cxb2121cyb1414.webp 157w,
+https://assets.afcdn.com/recipe/20210818/121597_w314h314c1cx1060cy707cxt0cyt0cxb2121cyb1414.webp 2x" height="157" id="recipe-media-viewer-thumbnail-0" sizes="157px" src="https://static.afcdn.com/relmrtn/lazyload.png" style=" aspect-ratio: 157/157;" width="157"/> </div>
+<div class="recipe-media-viewer-thumbnail-container" id="recipe-media-viewer-thumbnail-container-1">
+<img class="lazyload recipe-media-viewer-picture" data-src="https://assets.afcdn.com/recipe/20160610/5828_w157h157c1cx3000cy2000.webp" data-srcset="https://assets.afcdn.com/recipe/20160610/5828_w79h79c1cx3000cy2000.webp 79w,
+https://assets.afcdn.com/recipe/20160610/5828_w157h157c1cx3000cy2000.webp 157w,
+https://assets.afcdn.com/recipe/20160610/5828_w314h314c1cx3000cy2000.webp 2x" height="157" id="recipe-media-viewer-thumbnail-1" sizes="157px" src="https://static.afcdn.com/relmrtn/lazyload.png" style=" aspect-ratio: 157/157;" width="157"/> </div>
+<div class="recipe-media-viewer-thumbnail-container" id="recipe-media-viewer-thumbnail-container-2">
+<img class="lazyload recipe-media-viewer-picture" data-src="https://assets.afcdn.com/recipe/20160610/5829_w157h157c1cx2000cy3000.webp" data-srcset="https://assets.afcdn.com/recipe/20160610/5829_w79h79c1cx2000cy3000.webp 79w,
+https://assets.afcdn.com/recipe/20160610/5829_w157h157c1cx2000cy3000.webp 157w,
+https://assets.afcdn.com/recipe/20160610/5829_w314h314c1cx2000cy3000.webp 2x" height="157" id="recipe-media-viewer-thumbnail-2" sizes="157px" src="https://static.afcdn.com/relmrtn/lazyload.png" style=" aspect-ratio: 157/157;" width="157"/> </div>
+<div class="recipe-media-viewer-thumbnail-container" id="recipe-media-viewer-thumbnail-container-3">
+<span id="recipe-media-viewer-thumbnail-more">+ 6</span>
+</div>
+</div>
+</div>
+<div class="recipe-primary">
+<div class="recipe-primary__item">
+<i class="icon icon-timer1"></i>
+<span>7 min</span>
+</div>
+<span class="recipe-primary__separator">●</span>
+<div class="recipe-primary__item">
+<i class="icon icon-difficulty"></i>
+<span>très facile</span>
+</div>
+<span class="recipe-primary__separator">●</span>
+<div class="recipe-primary__item">
+<i class="icon icon-price"></i>
+<span>moyen</span>
+</div>
+</div>
+<div class="recipe-buttons-container">
+<div class="recipe-buttons padded-content">
+<button class="mrtn-btn mrtn-btn-tertiary connectedUsersOnly" id="add-recipe-to-cookbook">
+<i class="icon icon-icon_heart"></i>
+<span>Mon carnet</span>
+</button>
+<button class="mrtn-btn mrtn-btn-tertiary" id="share-recipe">
+<i class="recipe-buttons-icon-share"></i>
+<span>Partager</span>
+</button>
+</div>
+<div class="recipe-buttons-share-modal">
+<div class="recipe-buttons-share-modal-close"></div>
+<h5 class="recipe-buttons-share-modal-title">Partager la recette</h5>
+<div class="recipe-buttons-share-modal-list">
+<div class="recipe-buttons-share-modal-element">
+<a data-action="share/whatsapp/share" href="https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.marmiton.org%2Frecettes%2Frecette_chips-de-parmesan_64902.aspx" target="_blank">
+<button class="recipe-buttons-share-button recipe-buttons-share-whatsapp"></button>
+                    Whatsapp
+                </a>
+</div>
+<div class="recipe-buttons-share-modal-element">
+<a href="mailto:?subject=Chips+de+parmesan&amp;body=https%3A%2F%2Fwww.marmiton.org%2Frecettes%2Frecette_chips-de-parmesan_64902.aspx" target="_blank">
+<button class="recipe-buttons-share-button recipe-buttons-share-mail"></button>
+                    Mail
+                </a>
+</div>
+<div class="recipe-buttons-share-modal-element">
+<a href="https://m.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.marmiton.org%2Frecettes%2Frecette_chips-de-parmesan_64902.aspx&amp;quote=Chips+de+parmesan&amp;p[images][0]=https://assets.afcdn.com/recipe/20210818/121597_origin.jpg" target="_blank">
+<button class="recipe-buttons-share-button recipe-buttons-share-facebook"></button>
+                    Facebook
+                </a>
+</div>
+<div class="recipe-buttons-share-modal-element">
+<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.marmiton.org%2Frecettes%2Frecette_chips-de-parmesan_64902.aspx&amp;text=Chips+de+parmesan" target="_blank">
+<button class="recipe-buttons-share-button recipe-buttons-share-twitter"></button>
+                    Twitter
+                </a>
+</div>
+<div class="recipe-buttons-share-modal-element">
+<button class="recipe-buttons-share-button recipe-buttons-share-copy-link" data-done-text="Lien copié" data-url="https%3A%2F%2Fwww.marmiton.org%2Frecettes%2Frecette_chips-de-parmesan_64902.aspx"></button>
+<span>Copier le lien</span>
+</div>
+</div>
+</div>
+</div>
+<div class="mrtn-recette_ingredients">
+<div class="mrtn-recette_bloc-head">
+<div class="mrtn-recette_bloc-head-title">
+<div class="mrtn-recette_bloc-head-title-icon mrtn-recette_bloc-head-title-icon-ingredients"></div>
+                Ingrédients    </div>
+</div>
+<div class="mrtn-recette_ingredients-content no-show-more" data-servingscount="1">
+<div class="mrtn-recette_ingredients-filters">
+<script id="recipe-ingredients__qt-counter_template" type="text/html">
+    <div class="recipe-ingredients__qt-counter <%=size%>">
+        <div class="recipe-ingredients__qt-counter__increment recipe-ingredients__qt-counter__increment-minus minus">−</div>
+        <div class="recipe-ingredients__qt-counter__value_container unit-<%=withUnit%>">
+            <input
+                class="recipe-ingredients__qt-counter__value title-5"
+                type="text"
+                value="<%=value%>"
+                min="<%=min%>"
+                max="<%=max%>"
+                aria-label="counter"
+            >
+            <span class="recipe-ingredients__qt-counter_unit"><%=unit%></span>
+        </div>
+        <div class="recipe-ingredients__qt-counter__increment recipe-ingredients__qt-counter__increment-plus plus">+</div>
+    </div>
+</script>
+<script id="quantity-counter_template" type="text/html">
+    <div class="quantity-counter">
+        <div class="quantity-counter__action minus">−</div>
+
+        <div class="quantity-counter__value">
+            <input
+                    class="recipe-ingredients__qt-counter__value title-5"
+                    type="text"
+                    value="<%=value%>"
+                    min="<%=min%>"
+                    max="<%=max%>"
+                    aria-label="counter"
+            >
+            <div class="quantity-counter__unit"><%=unit%></div>
+        </div>
+        <div class="quantity-counter__action plus">+</div>
+    </div>
+</script>
+<div class="mrtn-recette_ingredients-counter" data-servingsnb="1" data-servingsunit="personne">
+</div>
+<div class="type-of-display">
+<div class="vertical-display"><span></span></div>
+<div class="horizontal-display"><span></span></div>
+</div>
+</div>
+<div class="mrtn-recette_ingredients-items">
+<div class="card-ingredient" data-brandid="163" data-brandname="Amazon" data-ismusthave="false" data-name="poivre" data-visibleonfirstdisplay="true">
+<span class="card-ingredient-link af-to-obfuscate-18797" data-encoded-link="aHR0cHM6Ly9mbGl6Lmx5L1dwcDFfdw==" target="_blank"> <div class="card-ingredient-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20170607/67563_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+</span> <div class="card-ingredient-content">
+<div class="card-ingredient-checkbox">
+<input class="checkbox" id="check835" type="checkbox"/>
+<label for="check835"></label>
+</div>
+<span class="card-ingredient-link af-to-obfuscate-18797" data-encoded-link="aHR0cHM6Ly9mbGl6Lmx5L1dwcDFfdw==" target="_blank"> <span class="card-ingredient-title">
+<span class="card-ingredient-quantity" data-ingredientquantity="0">
+<span class="count"></span>
+<span class="unit" data-unitplural="" data-unitsingular="">
+</span>
+</span>
+<span class="ingredient-name" data-ingredientnameplural="poivre" data-ingredientnamesingular="poivre">
+                                        poivre                                    </span>
+<span class="ingredient-complement" data-ingredientcomplementplural="(facultatif)" data-ingredientcomplementsingular="(facultatif)">
+                                        (facultatif)                                    </span>
+</span>
+</span> </div>
+</div>
+<div class="card-ingredient" data-brandid="" data-brandname="" data-ismusthave="false" data-name="parmesan râpé" data-visibleonfirstdisplay="true">
+<div class="card-ingredient-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20170607/67737_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+<div class="card-ingredient-content">
+<div class="card-ingredient-checkbox">
+<input class="checkbox" id="check1678" type="checkbox"/>
+<label for="check1678"></label>
+</div>
+<span class="card-ingredient-title">
+<span class="card-ingredient-quantity" data-ingredientquantity="100">
+<span class="count">100</span>
+<span class="unit" data-unitplural="g" data-unitsingular="g">
+                                            g                                        </span>
+</span>
+                                    de                                     <span class="ingredient-name" data-ingredientnameplural="parmesan râpé" data-ingredientnamesingular="parmesan râpé">
+                                        parmesan râpé                                    </span>
+<span class="ingredient-complement" data-ingredientcomplementplural="" data-ingredientcomplementsingular="">
+</span>
+</span>
+</div>
+</div>
+</div>
+<div class="mrtn-recette_ingredients-show-more">
+<span class="mrtn-recette_ingredients-show-more-more">Voir plus</span>
+<span class="mrtn-recette_ingredients-show-more-less">Voir moins</span>
+</div>
+<div class="mrtn-recette_affiliation-description">
+    En cliquant sur les liens, vous pouvez être redirigé vers d’autres pages de notre site, ou sur Amazon.fr</div>
+</div>
+</div>
+<div class="mrtn_format mrtn-hide-on-print">
+<div class="ad-container ad-container-dyninfeed"><div class="ad-label">La suite après cette publicité</div><div class="ad-logo" data-ad="dyninfeed" data-ad-pos="23" id="dyninfeed_1"></div></div> </div>
+<div class="mrtn-recette_utensils">
+<div class="mrtn-recette_bloc-head">
+<div class="mrtn-recette_bloc-head-title">
+<div class="mrtn-recette_bloc-head-title-icon mrtn-recette_bloc-head-title-icon-utensils"></div>
+                Ustensiles    </div>
+</div>
+<div class="mrtn-recette_utensils-content">
+<div class="mrtn-recette_utensils-items">
+<div class="card-utensil" data-brandid="122" data-brandname="Marmiton" data-name="Four" data-visibleonfirstdisplay="true">
+<div class="card-utensil-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20181011/82609_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+<div class="card-utensil-content">
+<div class="card-utensil-quantity">
+                            1                            Four                        </div>
+<div class="card-utensil-title">
+<s></s>
+<span>Top des meilleurs fours</span>
+</div>
+<a class="card-utensil-link" href="https://www.marmiton.org/shopping/envie-d-un-four-encastrable-au-top-voici-les-6-meilleurs-fours-avec-pyrolyse-s4008147.html">+ de détails</a> </div>
+</div>
+<div class="card-utensil" data-brandid="122" data-brandname="Marmiton" data-name="Set 3 poêles" data-visibleonfirstdisplay="true">
+<div class="card-utensil-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20170706/70154_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+<div class="card-utensil-content">
+<div class="card-utensil-quantity">
+                            1                            Set 3 poêles                        </div>
+<div class="card-utensil-title">
+<s></s>
+<span>Notre sélection des meilleures poêles</span>
+</div>
+<a class="card-utensil-link" href="https://www.marmiton.org/shopping/notre-selection-des-meilleures-poeles-s4011549.html">+ de détails</a> </div>
+</div>
+<div class="card-utensil" data-brandid="122" data-brandname="Marmiton" data-name="Râpe" data-visibleonfirstdisplay="true">
+<div class="card-utensil-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20170613/68861_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+<div class="card-utensil-content">
+<div class="card-utensil-quantity">
+                            1                            Râpe                        </div>
+<div class="card-utensil-title">
+<s></s>
+<span>Top des meilleures râpes</span>
+</div>
+<a class="card-utensil-link" href="https://www.marmiton.org/shopping/rape-a-fromage-quel-sera-le-meilleur-modele-pour-vous-s4040702.html">+ de détails</a> </div>
+</div>
+<div class="card-utensil" data-brandid="122" data-brandname="Marmiton" data-name="Spatule" data-visibleonfirstdisplay="true">
+<div class="card-utensil-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20220516/132053_origin.jpeg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+<div class="card-utensil-content">
+<div class="card-utensil-quantity">
+                            1                            Spatule                        </div>
+<div class="card-utensil-title">
+<s></s>
+<span>Top des meilleures spatules</span>
+</div>
+<a class="card-utensil-link" href="https://www.marmiton.org/shopping/selection-de-spatules-quel-modele-se-retrouvera-dans-votre-cuisine-s4041263.html">+ de détails</a> </div>
+</div>
+</div>
+<div class="mrtn-recette_affiliation-description">
+    En cliquant sur les liens, vous pouvez être redirigé vers d’autres pages de notre site, ou sur Amazon.fr</div>
+</div>
+</div>
+<div class="recipe-preparation">
+<div class="mrtn-recette_bloc-head">
+<div class="mrtn-recette_bloc-head-title">
+<div class="mrtn-recette_bloc-head-title-icon mrtn-recette_bloc-head-title-icon-preparation"></div>
+                Préparation    </div>
+</div>
+<div class="recipe-preparation__time">
+<div class="time__total">
+<span>Temps total : </span>
+<div>7 min</div>
+</div>
+<div class="time__details">
+<div>
+<span>Préparation :</span>
+<div>1 min</div>
+</div>
+<div>
+<span>Repos :</span>
+<div>-</div>
+</div>
+<div>
+<span>Cuisson :</span>
+<div>6 min</div>
+</div>
+</div>
+</div>
+</div>
+<div class="recipe-preparation">
+<div class="recipe-step-list">
+<div class="ad-container ad-container-nativeposition"><div class="" data-ad="nativeposition" id="nativeposition"></div></div> <div class="recipe-step-list__container">
+<div class="recipe-step-list__head">
+<span>Étape 1</span>
+</div>
+<!-- addLink doesn't work, text-with-link replaced by text waiting fixes -->
+<p>Faire chauffer le four à 180-200°C (thermostat 6-7).</p>
+</div>
+<div class="recipe-step-list__container">
+<div class="recipe-step-list__head">
+<span>Étape 2</span>
+<div>
+<img class="lazyload" data-src="https://assets.afcdn.com/recipe/20170607/67737_w40h40c1.jpg" src="https://static.afcdn.com/relmrtn/lazyload.png"/> </div>
+</div>
+<!-- addLink doesn't work, text-with-link replaced by text waiting fixes -->
+<p>Etaler une mince couche de parmesan sur une feuille de papier de cuisson ou de silicone.</p>
+</div>
+<div class="recipe-step-list__container">
+<div class="recipe-step-list__head">
+<span>Étape 3</span>
+</div>
+<!-- addLink doesn't work, text-with-link replaced by text waiting fixes -->
+<p>Poivrer si vous aimez.</p>
+</div>
+<div class="recipe-step-list__container">
+<div class="recipe-step-list__head">
+<span>Étape 4</span>
+</div>
+<!-- addLink doesn't work, text-with-link replaced by text waiting fixes -->
+<p>Mettre au four 5 à 7 min suivant le four, en surveillant la coloration.</p>
+</div>
+<div class="recipe-step-list__container">
+<div class="recipe-step-list__head">
+<span>Étape 5</span>
+<div>
+<img class="lazyload" data-src="https://assets.afcdn.com/recipe/20170607/67737_w40h40c1.jpg" src="https://static.afcdn.com/relmrtn/lazyload.png"/> </div>
+</div>
+<!-- addLink doesn't work, text-with-link replaced by text waiting fixes -->
+<p>Le parmesan fondu doit à peine brunir.</p>
+</div>
+<div class="recipe-step-list__container">
+<div class="recipe-step-list__head">
+<span>Étape 6</span>
+</div>
+<!-- addLink doesn't work, text-with-link replaced by text waiting fixes -->
+<p>Laisser refroidir et décoller du papier.</p>
+</div>
+<div class="recipe-step-list__container">
+<div class="recipe-step-list__head">
+<span>Étape 7</span>
+</div>
+<!-- addLink doesn't work, text-with-link replaced by text waiting fixes -->
+<p>Casser en morceaux de la taille d'une chips.</p>
+</div>
+<div class="recipe-step-list__container">
+<div class="recipe-step-list__head">
+<span>Étape 8</span>
+</div>
+<!-- addLink doesn't work, text-with-link replaced by text waiting fixes -->
+<p>Cela peut également se faire à la poêle : </p>
+</div>
+<div class="recipe-step-list__container">
+<div class="recipe-step-list__head">
+<span>Étape 9</span>
+<div>
+<img class="lazyload" data-src="https://assets.afcdn.com/recipe/20170607/67737_w40h40c1.jpg" src="https://static.afcdn.com/relmrtn/lazyload.png"/> </div>
+</div>
+<!-- addLink doesn't work, text-with-link replaced by text waiting fixes -->
+<p>Déposer des petits tas de parmesan râpé sur une poêle chaude légèrement huilée.</p>
+</div>
+<div class="recipe-step-list__container">
+<div class="recipe-step-list__head">
+<span>Étape 10</span>
+</div>
+<!-- addLink doesn't work, text-with-link replaced by text waiting fixes -->
+<p>Laisser fondre puis durcir, et retirer à l'aide d'une spatule dès que la consistance semble bonne.</p>
+</div>
+</div>
+</div>
+<div class="mrtn-hide-on-print recipe-memo padded-content connectedUsersOnly"></div>
+<script id="recipe-memo-template" type="text/html">
+    <div class="mrtn-input" id="recipe-memo">
+        <i class="icon icon-edit" id="recipe-memo-icon"></i>
+        <input type="text" value="<%= comment %>" name="recipeMemo" placeholder=" " readonly>
+        <span>J'ajoute mon grain de sel</span>
+    </div>
+</script>
+<div class="separator"></div>
+<div class="mrtn-hide-on-print recipe-author-note">
+<div class="recipe-author-note__head">
+<div>
+<span class="recipe-author-note__picture">v</span>
+<span class="recipe-author-note__author-name">victor_17543916</span>
+</div>
+<a class="recipe-author-more-recipe" href="/recettes/recette-meme-auteur.aspx?pseudo=victor_17543916">Voir toutes les recettes</a>
+</div>
+<p>Note de l'auteur :</p>
+<i>« Pour ceux qui aiment : mettre un peu de piment d'Espelette, du paprika ou une pointe de muscade, mais dans ce cas à la sortie du four car la muscade n'aime pas être cuite.
+Peut aussi servir à décorer certains plats comme un risotto. »</i>
+</div>
+<div class="separator"></div>
+</div>
+<div class="mrtn-sidebar">
+<div class="sticky-col-ads mrtn_format mrtn-hide-on-print">
+<div class="ad-container ad-container-300_atf"><div class="ad-label">La suite après cette publicité</div><div class="ad-logo" data-ad="300_atf" id="300_atf"></div></div> </div>
+</div>
+</div>

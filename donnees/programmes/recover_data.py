@@ -6,7 +6,7 @@ etiquettes=["entree", "plat", "dessert", "aperitif", "boisson"]
 for num_eti in range(len(etiquettes)):
     etiquette = etiquettes[num_eti]
 
-    with open(f"../URLs/all_url_{etiquette}_ent.txt", "r") as urls:
+    with open(f"../URLs/all_url_{etiquette}_ent_clean.txt", "r") as urls:
         for i, line in enumerate(urls):
             i+=1 # pour ne pas commencer à 0
 
@@ -73,5 +73,5 @@ for num_eti in range(len(etiquettes)):
                         k=str(i)
                     with open(f"../clean-text/all/{etiquette}/{k}_{etiquette}_{site}.html", "w", encoding="utf-8") as file:
                         file.write(str(content))
-    print("Aspiration terminée !")
+    print("Aspiration de ",etiquettes[num_eti], " terminée !")
 

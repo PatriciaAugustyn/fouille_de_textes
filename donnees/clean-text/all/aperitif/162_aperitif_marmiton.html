@@ -1,0 +1,885 @@
+<div class="recipeV2-container">
+<div class="mrtn-content">
+<p class="af-bread-crumb" id="af-bread-crumb">
+<a href="https://www.marmiton.org">Accueil</a> &gt; <a href="/recettes">Recettes</a> &gt; <a href="/recettes/index/categorie/aperitif-ou-buffet/">apéritif ou buffet</a> &gt; <a href="/recettes/index/categorie/aperitif-dinatoire/">apéritif dînatoire</a> &gt; <a href="/recettes/index/categorie/dip-et-tartinade/">dip et tartinade</a> &gt; <span>Rillettes de truites gourmande</span></p>
+<div class="recipe-header__title">
+<div class="main-title">
+<h1>Rillettes de truites gourmande</h1>
+<div class="show-more__modal" style="display: none;">
+<div class="show-more__close-container"><i class="show-more__close icon-icon_cross_big"></i></div>
+<div class="modal__tags">
+<span class="modal__tag recipe-header-modal__seasonal">Pas de saison</span>
+<span class="modal__tag">Entrée</span>
+<a class="modal__tag" href="/recettes/index/categorie/dip-et-tartinade/">Dip et tartinade</a>
+<a class="modal__tag" href="/recettes/index/categorie/aperitif-dinatoire/">Apéritif dînatoire</a>
+<a class="modal__tag" href="/recettes/index/categorie/rillettes/">Rillettes</a>
+</div>
+<img alt="ecoscore d" class="score-img" src="https://static.afcdn.com/relmrtn/Front/Component/nutriscore/assets/ecoscore_d.png"/>
+<span>
+                    Score calculé par                    <img alt="etiquettable" src="https://static.afcdn.com/relmrtn/Front/Component/nutriscore/assets/etiquettable.png"/>
+</span>
+</div>
+</div>
+<div class="recipe-header__rating-container">
+<div class="recipe-header__rating">
+<a class="recipe-header__rating-stars" href="#topReviewsTitle">
+<div class="mrtn-stars" data-mode="readonly"><span class="icon-star-full-active icon-icon_star_full mrtn-star"></span><span class="icon-star-full-active icon-icon_star_full mrtn-star"></span><span class="icon-star-full-active icon-icon_star_full mrtn-star"></span><span class="icon-star-full-active icon-icon_star_full mrtn-star"></span><span class="icon-star-full-active icon-icon_star_full mrtn-star"></span></div> <span class="recipe-header__rating-text">5/5</span>
+</a>
+</div>
+<!-- should not be printed in sites without comments -->
+<div class="recipe-header__comment">
+<i class="icon icon-icon_comment"></i>
+<a href="#topReviewsTitle">
+                5 commentaires            </a>
+</div>
+</div>
+</div>
+<img class="lazyload mrtn-print-only" data-src="https://assets.afcdn.com/recipe/20150921/36693_w300h200c1cx324cy216.webp" data-srcset="https://assets.afcdn.com/recipe/20150921/36693_w150h100c1cx324cy216.webp 150w,
+https://assets.afcdn.com/recipe/20150921/36693_w300h200c1cx324cy216.webp 300w,
+https://assets.afcdn.com/recipe/20150921/36693_w600h400c1cx324cy216.webp 2x" height="200" id="recipe-picture-print" sizes="300px" src="https://static.afcdn.com/relmrtn/lazyload.png" style=" aspect-ratio: 300/200;" width="300"/>
+<div class="recipe-media-viewer">
+<script id="af-diapo__layout" type="text/html-handlebars">
+	<div class="af_diapo">
+
+		<div class="af_diapo__left-container">
+
+			<div class="af_diapo__main-content">
+				<div class="controlL af_diapo__control af_diapo__control--disabled" id="af_diapo_left">
+					<span class="icon icon-arrow-left"></span>
+				</div>
+
+				<div class="af_diapo__img-container">
+
+					{{> diapoPicture }}
+
+				</div>
+
+				<div class="controlR af_diapo__control" id="af_diapo_right">
+					<span class="icon icon-arrow-right"></span>
+				</div>
+
+				<div class="af_diapo__keyboard-helper mrtn-keyboard">
+					<span class="icon-keyboard_top">
+						<span class="path1"></span><span class="path2"></span><span class="path3"></span>
+					</span><!--
+
+					--><br><!--
+
+					--><span class="icon-keyboard_left mrtn-keyboard--active">
+						<span class="path1"></span><span class="path2"></span><span class="path3"></span>
+					</span><!--
+
+					--><span class="icon-keyboard_bottom">
+						<span class="path1"></span><span class="path2"></span><span class="path3"></span>
+					</span><!--
+
+					--><span class="icon-keyboard_right mrtn-keyboard--active">
+						<span class="path1"></span><span class="path2"></span><span class="path3"></span>
+					</span>
+				</div>
+			</div>
+
+			<div class="af_diapo_footer" id="af_diapo_footer"></div>
+
+
+
+		</div>
+
+
+
+		<div class="af_diapo__right-container">
+
+			<div class="af_diapo__right-container__header">
+				{{> diapoHeader }}
+			</div>
+
+
+			<div class="af_diapo__right-container__sub-header {{subHeaderClass}}">
+				{{> diapoSubHeader }}
+			</div>
+
+			<div>{{{sButtons}}}</div>
+
+
+			<div id="overlayDiapoPub" class="af_diapo_pub">{{{getAdPlacementHTML}}}</div>
+
+		</div>
+
+		<div id="debug-diapo"></div>
+
+	</div>
+
+</script>
+<script id="af-diapo__picture-tmpl" type="text/html-handlebars">
+		<h2 class="af_diapo_titre af_diapo_titre_left">{{diapoTitle}}</h2>
+		<a class="backToSourceLink" href="{{subtitleLink}}">{{subtitleLabel}}</a>
+		<img id="{{diapoID}}_zoom" class="af_diapo_zoom" src="{{photoSrc}}" />
+		<div>{{{sButtons}}}</div>
+</script>
+<script id="af-diapo__header-tmpl" type="text/html-handlebars">
+	{{#if isSeeAlso}}
+		<a href="#" class="diapo-btn-reload-link" id="diapo-btn-reload-link">
+			<div class="diapo-btn-reload">
+				<img src="https://static.afcdn.com/relmrtnFront/Component/diapoDesktop/assets/reload.png" alt="">{{seealsoReplayTitle}}
+			</div>
+		</a>
+	{{else}}
+		<div class="af_diapo_nbphotos">
+			<span class="af_diapo_nbphotos__current-index">{{currentIndex}}</span> / {{nbPhotos}}
+		</div>
+	{{/if}}
+
+
+	<div>
+		{{#if hasAlert}}
+			<span id="af_diapo_alert_btn" class="af_diapo_alert" data-picture-url="{{photoSrc}}" data-picture-id="{{photoId}}" title="alerter">
+				<span class="icon icon-warning"></span>
+			</span>
+		{{/if}}
+
+		<span id="af_diapo_closeBtn" class="af_diapo_closeBtn" title="fermer le diaporama">
+			<span class="icon icon-icon_cross_big icon-close-btn"></span>
+		</span>
+	</div>
+</script>
+<script id="af-diapo__sub-header-tmpl" type="text/html-handlebars">
+    {{#if ratingComponent}}
+		{{{ratingComponent}}}
+	{{/if}}
+	<div class="af-a-text-description {{descriptionClass}}" id="description-{{photoId}}">{{{photoDescription}}}</div>
+	{{#if photoDescription}}
+        {{#unless isOPS}}
+		<div ng-if class="af-description-expand" id="expand-{{photoId}}" onclick="expandDescription('{{photoId}}');">view more</div>
+	    {{/unless}}
+    {{/if}}
+    {{#unless isOPS}}
+	<p><span class="af_diapo_credit">{{photoCredits}}</span></p>
+    {{/unless}}
+</script>
+<script id="mrtn-diapo-see-also" type="text/html-handlebars">
+
+	<div class="af_seealso__container">
+
+			{{#each diapos}}
+			<div class="diapo_table-cell">
+				<div class="diapo_table-cell-container">
+					<a href="{{this.[3]}}" id="af_seealso_link_{{this.[0]}}">
+						<div class="diapo_table-cell-img">
+							<div class="diapo-img">
+								<img alt="" src="https://static.afcdn.com/relmrtn/Front/Component/diapoDesktop/assets/photo.png">{{seealsoShowTitle}}
+							</div>
+							<img alt="" src="{{this.[2]}}" width="200">
+						</div>
+						<p>{{this.[1]}}</p>
+					</a>
+				</div>
+			</div>
+			{{/each}}
+	</div>
+
+</script>
+<div class="af-pin-it-wrapper diapo diapoV marmiton" style="width:auto;">
+<span class="af-pin-it af-to-obfuscate-74245" data-encoded-link="Ly93d3cucGludGVyZXN0LmNvbS9waW4vY3JlYXRlL2J1dHRvbi8/dXJsPWh0dHBzJTNBJTJGJTJGd3d3Lm1hcm1pdG9uLm9yZyUyRnJlY2V0dGVzJTJGcmVjZXR0ZV9yaWxsZXR0ZXMtZGUtdHJ1aXRlcy1nb3VybWFuZGVfNzM0MTUuYXNweCZkZXNjcmlwdGlvbj0mbWVkaWE9aHR0cHMlM0ElMkYlMkZhc3NldHMuYWZjZG4uY29tJTJGcmVjaXBlJTJGMjAxNTA5MjElMkYzNjY5M193ODAwaDYwMGMxY3gzMjRjeTIxNi5qcGc=" data-pin-do="none" onclick="af_ua_trackEvent(\'Share\', \'pinIt Click\', \'pinterest-light\');" target="_blank"><span class="icon icon-pinterest"></span></span> <table class="controls" id="af-diapo-desktop-0_fakeNav" style="height:100%; cursor:pointer;">
+<tr>
+<td>
+<div class="controlL round">
+<span class="icon icon-icon_arrow_big"></span>
+</div>
+</td>
+<td>
+<div class="controlR round">
+<span class="icon icon-arrow-right"></span>
+</div>
+</td>
+</tr>
+</table>
+<img class="lazyload" data-src="https://assets.afcdn.com/recipe/20150921/36693_w648h414c1cx324cy216.webp" data-srcset="https://assets.afcdn.com/recipe/20150921/36693_w324h207c1cx324cy216.webp 324w,
+https://assets.afcdn.com/recipe/20150921/36693_w648h414c1cx324cy216.webp 648w,
+https://assets.afcdn.com/recipe/20150921/36693_w1296h828c1cx324cy216.webp 2x" height="414" id="af-diapo-desktop-0_img" sizes="648px" src="https://static.afcdn.com/relmrtn/lazyload.png" style=" aspect-ratio: 648/414;" width="648"/> <span class="displayCopyright" style="width:611px;">
+</span>
+<div class="clear-both"></div>
+<div class="clear-both"></div>
+</div>
+<div class="recipe-media-viewer-media-container recipe-media-viewer-media-container-picture-only">
+<img class="lazyload recipe-media-viewer-picture" data-src="https://assets.afcdn.com/recipe/20150921/36693_w1024h768c1cx324cy216.jpg" id="recipe-media-viewer-main-picture" src="https://static.afcdn.com/relmrtn/lazyload.png"/> <div class="recipe-media-viewer-counter">
+<span>1/1</span>
+</div>
+</div>
+</div>
+<div class="recipe-primary">
+<div class="recipe-primary__item">
+<i class="icon icon-timer1"></i>
+<span>47 min</span>
+</div>
+<span class="recipe-primary__separator">●</span>
+<div class="recipe-primary__item">
+<i class="icon icon-difficulty"></i>
+<span>facile</span>
+</div>
+<span class="recipe-primary__separator">●</span>
+<div class="recipe-primary__item">
+<i class="icon icon-price"></i>
+<span>bon marché</span>
+</div>
+</div>
+<div class="recipe-buttons-container">
+<div class="recipe-buttons padded-content">
+<button class="mrtn-btn mrtn-btn-tertiary connectedUsersOnly" id="add-recipe-to-cookbook">
+<i class="icon icon-icon_heart"></i>
+<span>Mon carnet</span>
+</button>
+<button class="mrtn-btn mrtn-btn-tertiary" id="share-recipe">
+<i class="recipe-buttons-icon-share"></i>
+<span>Partager</span>
+</button>
+</div>
+<div class="recipe-buttons-share-modal">
+<div class="recipe-buttons-share-modal-close"></div>
+<h5 class="recipe-buttons-share-modal-title">Partager la recette</h5>
+<div class="recipe-buttons-share-modal-list">
+<div class="recipe-buttons-share-modal-element">
+<a data-action="share/whatsapp/share" href="https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.marmiton.org%2Frecettes%2Frecette_rillettes-de-truites-gourmande_73415.aspx" target="_blank">
+<button class="recipe-buttons-share-button recipe-buttons-share-whatsapp"></button>
+                    Whatsapp
+                </a>
+</div>
+<div class="recipe-buttons-share-modal-element">
+<a href="mailto:?subject=Rillettes+de+truites+gourmande&amp;body=https%3A%2F%2Fwww.marmiton.org%2Frecettes%2Frecette_rillettes-de-truites-gourmande_73415.aspx" target="_blank">
+<button class="recipe-buttons-share-button recipe-buttons-share-mail"></button>
+                    Mail
+                </a>
+</div>
+<div class="recipe-buttons-share-modal-element">
+<a href="https://m.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.marmiton.org%2Frecettes%2Frecette_rillettes-de-truites-gourmande_73415.aspx&amp;quote=Rillettes+de+truites+gourmande&amp;p[images][0]=https://assets.afcdn.com/recipe/20150921/36693_origin.jpg" target="_blank">
+<button class="recipe-buttons-share-button recipe-buttons-share-facebook"></button>
+                    Facebook
+                </a>
+</div>
+<div class="recipe-buttons-share-modal-element">
+<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.marmiton.org%2Frecettes%2Frecette_rillettes-de-truites-gourmande_73415.aspx&amp;text=Rillettes+de+truites+gourmande" target="_blank">
+<button class="recipe-buttons-share-button recipe-buttons-share-twitter"></button>
+                    Twitter
+                </a>
+</div>
+<div class="recipe-buttons-share-modal-element">
+<button class="recipe-buttons-share-button recipe-buttons-share-copy-link" data-done-text="Lien copié" data-url="https%3A%2F%2Fwww.marmiton.org%2Frecettes%2Frecette_rillettes-de-truites-gourmande_73415.aspx"></button>
+<span>Copier le lien</span>
+</div>
+</div>
+</div>
+</div>
+<div class="mrtn-recette_ingredients">
+<div class="mrtn-recette_bloc-head">
+<div class="mrtn-recette_bloc-head-title">
+<div class="mrtn-recette_bloc-head-title-icon mrtn-recette_bloc-head-title-icon-ingredients"></div>
+                Ingrédients    </div>
+</div>
+<div class="mrtn-recette_ingredients-content no-show-more" data-servingscount="4">
+<div class="mrtn-recette_ingredients-filters">
+<script id="recipe-ingredients__qt-counter_template" type="text/html">
+    <div class="recipe-ingredients__qt-counter <%=size%>">
+        <div class="recipe-ingredients__qt-counter__increment recipe-ingredients__qt-counter__increment-minus minus">−</div>
+        <div class="recipe-ingredients__qt-counter__value_container unit-<%=withUnit%>">
+            <input
+                class="recipe-ingredients__qt-counter__value title-5"
+                type="text"
+                value="<%=value%>"
+                min="<%=min%>"
+                max="<%=max%>"
+                aria-label="counter"
+            >
+            <span class="recipe-ingredients__qt-counter_unit"><%=unit%></span>
+        </div>
+        <div class="recipe-ingredients__qt-counter__increment recipe-ingredients__qt-counter__increment-plus plus">+</div>
+    </div>
+</script>
+<script id="quantity-counter_template" type="text/html">
+    <div class="quantity-counter">
+        <div class="quantity-counter__action minus">−</div>
+
+        <div class="quantity-counter__value">
+            <input
+                    class="recipe-ingredients__qt-counter__value title-5"
+                    type="text"
+                    value="<%=value%>"
+                    min="<%=min%>"
+                    max="<%=max%>"
+                    aria-label="counter"
+            >
+            <div class="quantity-counter__unit"><%=unit%></div>
+        </div>
+        <div class="quantity-counter__action plus">+</div>
+    </div>
+</script>
+<div class="mrtn-recette_ingredients-counter" data-servingsnb="4" data-servingsunit="personnes">
+</div>
+<div class="type-of-display">
+<div class="vertical-display"><span></span></div>
+<div class="horizontal-display"><span></span></div>
+</div>
+</div>
+<div class="mrtn-recette_ingredients-items">
+<div class="mrtn-recette_ingredients-items-group-title"></div>
+<div class="card-ingredient" data-brandid="163" data-brandname="Amazon" data-ismusthave="false" data-name="sel" data-visibleonfirstdisplay="true">
+<span class="card-ingredient-link af-to-obfuscate-74245" data-encoded-link="aHR0cHM6Ly9mbGl6Lmx5L3FXVzVfdw==" target="_blank"> <div class="card-ingredient-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20170607/67687_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+</span> <div class="card-ingredient-content">
+<div class="card-ingredient-checkbox">
+<input class="checkbox" id="check990" type="checkbox"/>
+<label for="check990"></label>
+</div>
+<span class="card-ingredient-link af-to-obfuscate-74245" data-encoded-link="aHR0cHM6Ly9mbGl6Lmx5L3FXVzVfdw==" target="_blank"> <span class="card-ingredient-title">
+<span class="card-ingredient-quantity" data-ingredientquantity="0">
+<span class="count"></span>
+<span class="unit" data-unitplural="" data-unitsingular="">
+</span>
+</span>
+<span class="ingredient-name" data-ingredientnameplural="sel" data-ingredientnamesingular="sel">
+                                        sel                                    </span>
+<span class="ingredient-complement" data-ingredientcomplementplural="" data-ingredientcomplementsingular="">
+</span>
+</span>
+</span> </div>
+</div>
+<div class="card-ingredient" data-brandid="163" data-brandname="Amazon" data-ismusthave="false" data-name="poivre" data-visibleonfirstdisplay="true">
+<span class="card-ingredient-link af-to-obfuscate-74245" data-encoded-link="aHR0cHM6Ly9mbGl6Lmx5L1dwcDFfdw==" target="_blank"> <div class="card-ingredient-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20170607/67563_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+</span> <div class="card-ingredient-content">
+<div class="card-ingredient-checkbox">
+<input class="checkbox" id="check835" type="checkbox"/>
+<label for="check835"></label>
+</div>
+<span class="card-ingredient-link af-to-obfuscate-74245" data-encoded-link="aHR0cHM6Ly9mbGl6Lmx5L1dwcDFfdw==" target="_blank"> <span class="card-ingredient-title">
+<span class="card-ingredient-quantity" data-ingredientquantity="0">
+<span class="count"></span>
+<span class="unit" data-unitplural="" data-unitsingular="">
+</span>
+</span>
+<span class="ingredient-name" data-ingredientnameplural="poivre" data-ingredientnamesingular="poivre">
+                                        poivre                                    </span>
+<span class="ingredient-complement" data-ingredientcomplementplural="" data-ingredientcomplementsingular="">
+</span>
+</span>
+</span> </div>
+</div>
+<div class="card-ingredient" data-brandid="122" data-brandname="Marmiton" data-ismusthave="false" data-name="carotte" data-visibleonfirstdisplay="true">
+<a class="card-ingredient-link" href="https://www.marmiton.org/shopping/choisir-et-cuisiner-les-carottes-pour-leurs-nombreuses-qualites-s4044996.html"> <div class="card-ingredient-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20170607/67370_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+</a> <div class="card-ingredient-content">
+<div class="card-ingredient-checkbox">
+<input class="checkbox" id="check172" type="checkbox"/>
+<label for="check172"></label>
+</div>
+<a class="card-ingredient-link" href="https://www.marmiton.org/shopping/choisir-et-cuisiner-les-carottes-pour-leurs-nombreuses-qualites-s4044996.html"> <span class="card-ingredient-title">
+<span class="card-ingredient-quantity" data-ingredientquantity="3">
+<span class="count">3</span>
+<span class="unit" data-unitplural="rondelles" data-unitsingular="rondelle">
+                                            rondelles                                        </span>
+</span>
+                                    de                                     <span class="ingredient-name" data-ingredientnameplural="carotte" data-ingredientnamesingular="carotte">
+                                        carotte                                    </span>
+<span class="ingredient-complement" data-ingredientcomplementplural="passées au presse-ail" data-ingredientcomplementsingular="passées au presse-ail">
+                                        passées au presse-ail                                    </span>
+</span>
+</a> </div>
+</div>
+<div class="card-ingredient" data-brandid="163" data-brandname="Amazon" data-ismusthave="false" data-name="crème fraîche" data-visibleonfirstdisplay="true">
+<span class="card-ingredient-link af-to-obfuscate-74245" data-encoded-link="aHR0cHM6Ly93d3cuYW1hem9uLmZyL1lvcGxhaXQtQ3IlQzMlQThtZS1mcmElQzMlQUVjaGUtZW50aSVDMyVBOHJlLXBvdC9kcC9CMDlYMkpUUlhQP3RhZz1tdC1pLTE4NjktMjE=" target="_blank"> <div class="card-ingredient-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20170607/67763_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+</span> <div class="card-ingredient-content">
+<div class="card-ingredient-checkbox">
+<input class="checkbox" id="check1869" type="checkbox"/>
+<label for="check1869"></label>
+</div>
+<span class="card-ingredient-link af-to-obfuscate-74245" data-encoded-link="aHR0cHM6Ly93d3cuYW1hem9uLmZyL1lvcGxhaXQtQ3IlQzMlQThtZS1mcmElQzMlQUVjaGUtZW50aSVDMyVBOHJlLXBvdC9kcC9CMDlYMkpUUlhQP3RhZz1tdC1pLTE4NjktMjE=" target="_blank"> <span class="card-ingredient-title">
+<span class="card-ingredient-quantity" data-ingredientquantity="1">
+<span class="count">1</span>
+<span class="unit" data-unitplural="petits pots" data-unitsingular="petit pot">
+                                            petit pot                                        </span>
+</span>
+                                    de                                     <span class="ingredient-name" data-ingredientnameplural="crème fraîche" data-ingredientnamesingular="crème fraîche">
+                                        crème fraîche                                    </span>
+<span class="ingredient-complement" data-ingredientcomplementplural="(allégée si vous préférez)" data-ingredientcomplementsingular="(allégée si vous préférez)">
+                                        (allégée si vous préférez)                                    </span>
+</span>
+</span> </div>
+</div>
+<div class="card-ingredient" data-brandid="122" data-brandname="Marmiton" data-ismusthave="false" data-name="aneth" data-visibleonfirstdisplay="true">
+<a class="card-ingredient-link" href="https://www.marmiton.org/shopping/comment-choisir-et-utiliser-l-aneth-s4044246.html"> <div class="card-ingredient-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20170607/67431_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+</a> <div class="card-ingredient-content">
+<div class="card-ingredient-checkbox">
+<input class="checkbox" id="check23" type="checkbox"/>
+<label for="check23"></label>
+</div>
+<a class="card-ingredient-link" href="https://www.marmiton.org/shopping/comment-choisir-et-utiliser-l-aneth-s4044246.html"> <span class="card-ingredient-title">
+<span class="card-ingredient-quantity" data-ingredientquantity="0">
+<span class="count"></span>
+<span class="unit" data-unitplural="" data-unitsingular="">
+</span>
+</span>
+<span class="ingredient-name" data-ingredientnameplural="aneth" data-ingredientnamesingular="aneth">
+                                        aneth                                    </span>
+<span class="ingredient-complement" data-ingredientcomplementplural="en poudre" data-ingredientcomplementsingular="en poudre">
+                                        en poudre                                    </span>
+</span>
+</a> </div>
+</div>
+<div class="card-ingredient" data-brandid="" data-brandname="" data-ismusthave="false" data-name="truite" data-visibleonfirstdisplay="true">
+<div class="card-ingredient-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20170607/67556_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+<div class="card-ingredient-content">
+<div class="card-ingredient-checkbox">
+<input class="checkbox" id="check1086" type="checkbox"/>
+<label for="check1086"></label>
+</div>
+<span class="card-ingredient-title">
+<span class="card-ingredient-quantity" data-ingredientquantity="1">
+<span class="count">1</span>
+<span class="unit" data-unitplural="" data-unitsingular="">
+</span>
+</span>
+<span class="ingredient-name" data-ingredientnameplural="truites" data-ingredientnamesingular="truite">
+                                        truite                                    </span>
+<span class="ingredient-complement" data-ingredientcomplementplural="portion (saumonée ou non, c'est juste la couleur qui change) vidée" data-ingredientcomplementsingular="portion (saumonée ou non, c'est juste la couleur qui change) vidée">
+                                        portion (saumonée ou non, c'est juste la couleur qui change) vidée                                    </span>
+</span>
+</div>
+</div>
+<div class="card-ingredient" data-brandid="" data-brandname="" data-ismusthave="false" data-name="ciboulette" data-visibleonfirstdisplay="true">
+<div class="card-ingredient-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20170607/67695_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+<div class="card-ingredient-content">
+<div class="card-ingredient-checkbox">
+<input class="checkbox" id="check244" type="checkbox"/>
+<label for="check244"></label>
+</div>
+<span class="card-ingredient-title">
+<span class="card-ingredient-quantity" data-ingredientquantity="10">
+<span class="count">10</span>
+<span class="unit" data-unitplural="brins" data-unitsingular="brin">
+                                            brins                                        </span>
+</span>
+                                    de                                     <span class="ingredient-name" data-ingredientnameplural="ciboulette" data-ingredientnamesingular="ciboulette">
+                                        ciboulette                                    </span>
+<span class="ingredient-complement" data-ingredientcomplementplural="" data-ingredientcomplementsingular="">
+</span>
+</span>
+</div>
+</div>
+<div class="card-ingredient" data-brandid="" data-brandname="" data-ismusthave="false" data-name="jus de citron" data-visibleonfirstdisplay="true">
+<div class="card-ingredient-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20231211/147331_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+<div class="card-ingredient-content">
+<div class="card-ingredient-checkbox">
+<input class="checkbox" id="check1233" type="checkbox"/>
+<label for="check1233"></label>
+</div>
+<span class="card-ingredient-title">
+<span class="card-ingredient-quantity" data-ingredientquantity="1">
+<span class="count">1</span>
+<span class="unit" data-unitplural="cuillères à café" data-unitsingular="cuillère à café">
+                                            cuillère à café                                        </span>
+</span>
+                                    de                                     <span class="ingredient-name" data-ingredientnameplural="jus de citron" data-ingredientnamesingular="jus de citron">
+                                        jus de citron                                    </span>
+<span class="ingredient-complement" data-ingredientcomplementplural="" data-ingredientcomplementsingular="">
+</span>
+</span>
+</div>
+</div>
+<div class="card-ingredient" data-brandid="" data-brandname="" data-ismusthave="false" data-name="beurre demi-sel" data-visibleonfirstdisplay="true">
+<div class="card-ingredient-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20201201/115999_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+<div class="card-ingredient-content">
+<div class="card-ingredient-checkbox">
+<input class="checkbox" id="check76" type="checkbox"/>
+<label for="check76"></label>
+</div>
+<span class="card-ingredient-title">
+<span class="card-ingredient-quantity" data-ingredientquantity="100">
+<span class="count">100</span>
+<span class="unit" data-unitplural="g" data-unitsingular="g">
+                                            g                                        </span>
+</span>
+                                    de                                     <span class="ingredient-name" data-ingredientnameplural="beurre demi-sel" data-ingredientnamesingular="beurre demi-sel">
+                                        beurre demi-sel                                    </span>
+<span class="ingredient-complement" data-ingredientcomplementplural="ramolli" data-ingredientcomplementsingular="ramolli">
+                                        ramolli                                    </span>
+</span>
+</div>
+</div>
+<div class="mrtn-recette_ingredients-items-group-title">Pour le court-bouillon:</div>
+<div class="card-ingredient" data-brandid="54" data-brandname="Maggi" data-ismusthave="false" data-name="cube de bouillon" data-visibleonfirstdisplay="false">
+<span class="card-ingredient-link af-to-obfuscate-74245" data-encoded-link="aHR0cHM6Ly93d3cuY3JvcXVvbnNsYXZpZS5mci9tYXJxdWUvbWFnZ2kta3ViLW9yLTMyLWN1YmVzLTEyOGc=" target="_blank"> <div class="card-ingredient-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20240411/150544_origin.png" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+</span> <div class="card-ingredient-content">
+<div class="card-ingredient-checkbox">
+<input class="checkbox" id="check1964" type="checkbox"/>
+<label for="check1964"></label>
+</div>
+<span class="card-ingredient-link af-to-obfuscate-74245" data-encoded-link="aHR0cHM6Ly93d3cuY3JvcXVvbnNsYXZpZS5mci9tYXJxdWUvbWFnZ2kta3ViLW9yLTMyLWN1YmVzLTEyOGc=" target="_blank"> <span class="card-ingredient-title">
+<span class="card-ingredient-quantity" data-ingredientquantity="1">
+<span class="count">1</span>
+<span class="unit" data-unitplural="" data-unitsingular="">
+</span>
+</span>
+<span class="ingredient-name" data-ingredientnameplural="cubes de bouillon" data-ingredientnamesingular="cube de bouillon">
+                                        cube de bouillon                                    </span>
+<span class="ingredient-complement" data-ingredientcomplementplural="de poulet (facultatif, sinon mettez du sel)" data-ingredientcomplementsingular="de poulet (facultatif, sinon mettez du sel)">
+                                        de poulet (facultatif, sinon mettez du sel)                                    </span>
+</span>
+</span> </div>
+</div>
+<div class="card-ingredient" data-brandid="163" data-brandname="Amazon" data-ismusthave="false" data-name="thym" data-visibleonfirstdisplay="false">
+<span class="card-ingredient-link af-to-obfuscate-74245" data-encoded-link="aHR0cHM6Ly93d3cuYW1hem9uLmZyL1RoeW0tQmlvLWluZnVzaW9uLSVDMyVBOXBpY2UtMjAwZy9kcC9CMDFNRE5HSVVCLz90YWc9bXQtaS0xMDUxLTIx" target="_blank"> <div class="card-ingredient-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20170607/67735_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+</span> <div class="card-ingredient-content">
+<div class="card-ingredient-checkbox">
+<input class="checkbox" id="check1051" type="checkbox"/>
+<label for="check1051"></label>
+</div>
+<span class="card-ingredient-link af-to-obfuscate-74245" data-encoded-link="aHR0cHM6Ly93d3cuYW1hem9uLmZyL1RoeW0tQmlvLWluZnVzaW9uLSVDMyVBOXBpY2UtMjAwZy9kcC9CMDFNRE5HSVVCLz90YWc9bXQtaS0xMDUxLTIx" target="_blank"> <span class="card-ingredient-title">
+<span class="card-ingredient-quantity" data-ingredientquantity="1">
+<span class="count">1</span>
+<span class="unit" data-unitplural="pincées" data-unitsingular="pincée">
+                                            pincée                                        </span>
+</span>
+                                    de                                     <span class="ingredient-name" data-ingredientnameplural="thym" data-ingredientnamesingular="thym">
+                                        thym                                    </span>
+<span class="ingredient-complement" data-ingredientcomplementplural="" data-ingredientcomplementsingular="">
+</span>
+</span>
+</span> </div>
+</div>
+<div class="card-ingredient" data-brandid="122" data-brandname="Marmiton" data-ismusthave="false" data-name="carotte" data-visibleonfirstdisplay="false">
+<a class="card-ingredient-link" href="https://www.marmiton.org/shopping/choisir-et-cuisiner-les-carottes-pour-leurs-nombreuses-qualites-s4044996.html"> <div class="card-ingredient-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20170607/67370_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+</a> <div class="card-ingredient-content">
+<div class="card-ingredient-checkbox">
+<input class="checkbox" id="check172" type="checkbox"/>
+<label for="check172"></label>
+</div>
+<a class="card-ingredient-link" href="https://www.marmiton.org/shopping/choisir-et-cuisiner-les-carottes-pour-leurs-nombreuses-qualites-s4044996.html"> <span class="card-ingredient-title">
+<span class="card-ingredient-quantity" data-ingredientquantity="0.5">
+<span class="count">0.5</span>
+<span class="unit" data-unitplural="" data-unitsingular="">
+</span>
+</span>
+<span class="ingredient-name" data-ingredientnameplural="carottes" data-ingredientnamesingular="carotte">
+                                        carotte                                    </span>
+<span class="ingredient-complement" data-ingredientcomplementplural="" data-ingredientcomplementsingular="">
+</span>
+</span>
+</a> </div>
+</div>
+<div class="card-ingredient" data-brandid="163" data-brandname="Amazon" data-ismusthave="false" data-name="feuille de laurier" data-visibleonfirstdisplay="false">
+<span class="card-ingredient-link af-to-obfuscate-74245" data-encoded-link="aHR0cHM6Ly93d3cuYW1hem9uLmZyL0R1Y3Jvcy1MYXVyaWVyLWJyYW5jaGVzLWVudGklQzMlQThyZXMtc2FjaGV0L2RwL0IwNzFIOEc0NUc/dGFnPW10LWktMTYzNS0yMQ==" target="_blank"> <div class="card-ingredient-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20170621/68932_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+</span> <div class="card-ingredient-content">
+<div class="card-ingredient-checkbox">
+<input class="checkbox" id="check1635" type="checkbox"/>
+<label for="check1635"></label>
+</div>
+<span class="card-ingredient-link af-to-obfuscate-74245" data-encoded-link="aHR0cHM6Ly93d3cuYW1hem9uLmZyL0R1Y3Jvcy1MYXVyaWVyLWJyYW5jaGVzLWVudGklQzMlQThyZXMtc2FjaGV0L2RwL0IwNzFIOEc0NUc/dGFnPW10LWktMTYzNS0yMQ==" target="_blank"> <span class="card-ingredient-title">
+<span class="card-ingredient-quantity" data-ingredientquantity="2">
+<span class="count">2</span>
+<span class="unit" data-unitplural="" data-unitsingular="">
+</span>
+</span>
+<span class="ingredient-name" data-ingredientnameplural="feuilles de laurier" data-ingredientnamesingular="feuille de laurier">
+                                        feuilles de laurier                                    </span>
+<span class="ingredient-complement" data-ingredientcomplementplural="" data-ingredientcomplementsingular="">
+</span>
+</span>
+</span> </div>
+</div>
+<div class="card-ingredient" data-brandid="122" data-brandname="Marmiton" data-ismusthave="false" data-name="clou de girofle" data-visibleonfirstdisplay="false">
+<a class="card-ingredient-link" href="https://www.marmiton.org/shopping/clou-de-girofle-comment-le-choisir-et-le-cuisiner-s4038897.html?utm-source=ingredients-recettes"> <div class="card-ingredient-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20170607/67585_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+</a> <div class="card-ingredient-content">
+<div class="card-ingredient-checkbox">
+<input class="checkbox" id="check1198" type="checkbox"/>
+<label for="check1198"></label>
+</div>
+<a class="card-ingredient-link" href="https://www.marmiton.org/shopping/clou-de-girofle-comment-le-choisir-et-le-cuisiner-s4038897.html?utm-source=ingredients-recettes"> <span class="card-ingredient-title">
+<span class="card-ingredient-quantity" data-ingredientquantity="4">
+<span class="count">4</span>
+<span class="unit" data-unitplural="" data-unitsingular="">
+</span>
+</span>
+<span class="ingredient-name" data-ingredientnameplural="clous de girofle" data-ingredientnamesingular="clou de girofle">
+                                        clous de girofle                                    </span>
+<span class="ingredient-complement" data-ingredientcomplementplural="" data-ingredientcomplementsingular="">
+</span>
+</span>
+</a> </div>
+</div>
+<div class="card-ingredient" data-brandid="163" data-brandname="Amazon" data-ismusthave="false" data-name="oignon" data-visibleonfirstdisplay="false">
+<span class="card-ingredient-link af-to-obfuscate-74245" data-encoded-link="aHR0cHM6Ly93d3cuYW1hem9uLmZyL01vbm9wcml4LU9JR05PTi1KQVVORS1maWxldC01MDBnL2RwL0IwN0dSN1NXTDgvP3RhZz1tdC1pLTcyMS0yMQ==" target="_blank"> <div class="card-ingredient-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20170607/67621_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+</span> <div class="card-ingredient-content">
+<div class="card-ingredient-checkbox">
+<input class="checkbox" id="check721" type="checkbox"/>
+<label for="check721"></label>
+</div>
+<span class="card-ingredient-link af-to-obfuscate-74245" data-encoded-link="aHR0cHM6Ly93d3cuYW1hem9uLmZyL01vbm9wcml4LU9JR05PTi1KQVVORS1maWxldC01MDBnL2RwL0IwN0dSN1NXTDgvP3RhZz1tdC1pLTcyMS0yMQ==" target="_blank"> <span class="card-ingredient-title">
+<span class="card-ingredient-quantity" data-ingredientquantity="0.5">
+<span class="count">0.5</span>
+<span class="unit" data-unitplural="" data-unitsingular="">
+</span>
+</span>
+<span class="ingredient-name" data-ingredientnameplural="oignons" data-ingredientnamesingular="oignon">
+                                        oignon                                    </span>
+<span class="ingredient-complement" data-ingredientcomplementplural="" data-ingredientcomplementsingular="">
+</span>
+</span>
+</span> </div>
+</div>
+<div class="card-ingredient" data-brandid="" data-brandname="" data-ismusthave="false" data-name="vin blanc sec" data-visibleonfirstdisplay="false">
+<div class="card-ingredient-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20170607/67422_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+<div class="card-ingredient-content">
+<div class="card-ingredient-checkbox">
+<input class="checkbox" id="check2090" type="checkbox"/>
+<label for="check2090"></label>
+</div>
+<span class="card-ingredient-title">
+<span class="card-ingredient-quantity" data-ingredientquantity="1">
+<span class="count">1</span>
+<span class="unit" data-unitplural="verres" data-unitsingular="verre">
+                                            verre                                        </span>
+</span>
+                                    de                                     <span class="ingredient-name" data-ingredientnameplural="vin blanc sec" data-ingredientnamesingular="vin blanc sec">
+                                        vin blanc sec                                    </span>
+<span class="ingredient-complement" data-ingredientcomplementplural="" data-ingredientcomplementsingular="">
+</span>
+</span>
+</div>
+</div>
+</div>
+<div class="mrtn-recette_ingredients-show-more">
+<span class="mrtn-recette_ingredients-show-more-more">Voir plus</span>
+<span class="mrtn-recette_ingredients-show-more-less">Voir moins</span>
+</div>
+<div class="mrtn-recette_affiliation-description">
+    En cliquant sur les liens, vous pouvez être redirigé vers d’autres pages de notre site, ou sur Amazon.fr</div>
+</div>
+</div>
+<div class="mrtn_format mrtn-hide-on-print">
+<div class="ad-container ad-container-dyninfeed"><div class="ad-label">La suite après cette publicité</div><div class="ad-logo" data-ad="dyninfeed" data-ad-pos="23" id="dyninfeed_1"></div></div> </div>
+<div class="mrtn-recette_utensils">
+<div class="mrtn-recette_bloc-head">
+<div class="mrtn-recette_bloc-head-title">
+<div class="mrtn-recette_bloc-head-title-icon mrtn-recette_bloc-head-title-icon-utensils"></div>
+                Ustensiles    </div>
+</div>
+<div class="mrtn-recette_utensils-content show-more">
+<div class="mrtn-recette_utensils-items">
+<div class="card-utensil" data-brandid="122" data-brandname="Marmiton" data-name="casserole" data-visibleonfirstdisplay="true">
+<div class="card-utensil-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20200214/107619_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+<div class="card-utensil-content">
+<div class="card-utensil-quantity">
+                            1                            casserole                        </div>
+<div class="card-utensil-title">
+<s></s>
+<span>Top 3 des batteries de casseroles</span>
+</div>
+<a class="card-utensil-link" href="https://www.marmiton.org/shopping/bien-choisir-ses-casseroles-s4012760.html">+ de détails</a> </div>
+</div>
+<div class="card-utensil" data-brandid="122" data-brandname="Marmiton" data-name="Four" data-visibleonfirstdisplay="true">
+<div class="card-utensil-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20170706/70127_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+<div class="card-utensil-content">
+<div class="card-utensil-quantity">
+                            1                            Four                        </div>
+<div class="card-utensil-title">
+<s></s>
+<span>top des meilleurs fours</span>
+</div>
+<a class="card-utensil-link" href="https://www.marmiton.org/shopping/envie-d-un-four-encastrable-au-top-voici-les-6-meilleurs-fours-avec-pyrolyse-s4008147.html">+ de détails</a> </div>
+</div>
+<div class="card-utensil" data-brandid="" data-brandname="" data-name="fourchette" data-visibleonfirstdisplay="true">
+<div class="card-utensil-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20170613/68878_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+<div class="card-utensil-content">
+<div class="card-utensil-quantity">
+                            1                            fourchette                        </div>
+<div class="card-utensil-title">
+<s></s>
+<span></span>
+</div>
+<a class="card-utensil-link" href="/recettes/index/ustensile/fourchette">+ de détails</a> </div>
+</div>
+<div class="card-utensil" data-brandid="163" data-brandname="Amazon" data-name="Fouet cuisine" data-visibleonfirstdisplay="true">
+<div class="card-utensil-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20220411/130933_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+<div class="card-utensil-content">
+<div class="card-utensil-quantity">
+                            1                            Fouet cuisine                        </div>
+<div class="card-utensil-title">
+<s></s>
+<span>Top 5 des meilleurs fouets</span>
+</div>
+<span class="card-utensil-link af-to-obfuscate-74245" data-encoded-link="aHR0cHM6Ly93d3cuYW1hem9uLmZyL2dwL2Jlc3RzZWxsZXJzL2tpdGNoZW4vNDA3MTEwMDMxP3RhZz1tdC11LTI0LTIx" target="_blank">Acheter</span> </div>
+</div>
+<div class="card-utensil" data-brandid="163" data-brandname="Amazon" data-name="saladier" data-visibleonfirstdisplay="false">
+<div class="card-utensil-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20181011/82618_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+<div class="card-utensil-content">
+<div class="card-utensil-quantity">
+                            1                            saladier                        </div>
+<div class="card-utensil-title">
+<s></s>
+<span>Les meilleures ventes</span>
+</div>
+<span class="card-utensil-link af-to-obfuscate-74245" data-encoded-link="aHR0cHM6Ly93d3cuYW1hem9uLmZyL2dwL2Jlc3RzZWxsZXJzL2tpdGNoZW4vMzEzODIwODAzMT90YWc9bXQtdS04MC0yMQ==" target="_blank">Acheter</span> </div>
+</div>
+<div class="card-utensil" data-brandid="122" data-brandname="Marmiton" data-name="balance de cuisine" data-visibleonfirstdisplay="false">
+<div class="card-utensil-image">
+<img alt="" class="lazyload item__icon" data-src="https://assets.afcdn.com/recipe/20210428/119884_origin.jpg" height="150px" src="https://static.afcdn.com/relmrtn/lazyload.png" width="150px"/> </div>
+<div class="card-utensil-content">
+<div class="card-utensil-quantity">
+                            1                            balance de cuisine                        </div>
+<div class="card-utensil-title">
+<s></s>
+<span>Top des meilleures balances</span>
+</div>
+<a class="card-utensil-link" href="https://www.marmiton.org/shopping/les-meilleures-balances-de-cuisine-s2980668.html">+ de détails</a> </div>
+</div>
+</div>
+<div class="mrtn-recette_utensils-show-more">
+<span class="mrtn-recette_utensils-show-more-more">Voir plus</span>
+<span class="mrtn-recette_utensils-show-more-less">Voir moins</span>
+</div>
+<div class="mrtn-recette_affiliation-description">
+    En cliquant sur les liens, vous pouvez être redirigé vers d’autres pages de notre site, ou sur Amazon.fr</div>
+</div>
+</div>
+<div class="recipe-preparation">
+<div class="mrtn-recette_bloc-head">
+<div class="mrtn-recette_bloc-head-title">
+<div class="mrtn-recette_bloc-head-title-icon mrtn-recette_bloc-head-title-icon-preparation"></div>
+                Préparation    </div>
+</div>
+<div class="recipe-preparation__time">
+<div class="time__total">
+<span>Temps total : </span>
+<div>47 min</div>
+</div>
+<div class="time__details">
+<div>
+<span>Préparation :</span>
+<div>35 min</div>
+</div>
+<div>
+<span>Repos :</span>
+<div>-</div>
+</div>
+<div>
+<span>Cuisson :</span>
+<div>12 min</div>
+</div>
+</div>
+</div>
+</div>
+<div class="recipe-preparation">
+<div class="recipe-step-list">
+<div class="ad-container ad-container-nativeposition"><div class="" data-ad="nativeposition" id="nativeposition"></div></div> <div class="recipe-step-list__container">
+<div class="recipe-step-list__head">
+<span>Étape 1</span>
+</div>
+<!-- addLink doesn't work, text-with-link replaced by text waiting fixes -->
+<p>Dans une grosse casserole, préparez les ingrédients du court-bouillon et ajoutez de l'eau pour que la truite puisse être immergée par la suite. </p>
+</div>
+<div class="recipe-step-list__container">
+<div class="recipe-step-list__head">
+<span>Étape 2</span>
+</div>
+<!-- addLink doesn't work, text-with-link replaced by text waiting fixes -->
+<p>Faites bouillir, puis mettez sur feu doux pendant 10 min.</p>
+</div>
+<div class="recipe-step-list__container">
+<div class="recipe-step-list__head">
+<span>Étape 3</span>
+</div>
+<!-- addLink doesn't work, text-with-link replaced by text waiting fixes -->
+<p>Plongez la truite dans le court-bouillon pendant 12 min, eau frémissante.</p>
+</div>
+<div class="recipe-step-list__container">
+<div class="recipe-step-list__head">
+<span>Étape 4</span>
+</div>
+<!-- addLink doesn't work, text-with-link replaced by text waiting fixes -->
+<p>Ensuite prenez la truite et retirez la peau, la tête, les nageoires, les arêtes et émiettez-la à l'aide d'une fourchette.</p>
+</div>
+<div class="recipe-step-list__container">
+<div class="recipe-step-list__head">
+<span>Étape 5</span>
+</div>
+<!-- addLink doesn't work, text-with-link replaced by text waiting fixes -->
+<p>Fouettez la crème pour qu'elle soit bien ferme. </p>
+</div>
+<div class="recipe-step-list__container">
+<div class="recipe-step-list__head">
+<span>Étape 6</span>
+</div>
+<!-- addLink doesn't work, text-with-link replaced by text waiting fixes -->
+<p>Ajoutez le beurre aux miettes de truites et mélangez bien dans un petit saladier.</p>
+</div>
+<div class="recipe-step-list__container">
+<div class="recipe-step-list__head">
+<span>Étape 7</span>
+</div>
+<!-- addLink doesn't work, text-with-link replaced by text waiting fixes -->
+<p>Ensuite ajoutez la crème fouettée avec la ciboulette ciselée, l'aneth, les rondelles de carottes pressées (ou coupées en tout petits morceaux) et le jus de citron. Salez et poivrez à votre goût. </p>
+</div>
+<div class="recipe-step-list__container">
+<div class="recipe-step-list__head">
+<span>Étape 8</span>
+</div>
+<!-- addLink doesn't work, text-with-link replaced by text waiting fixes -->
+<p>Réservez au frais pendant minimum 1 h.</p>
+</div>
+<div class="recipe-step-list__container">
+<div class="recipe-step-list__head">
+<span>Étape 9</span>
+</div>
+<!-- addLink doesn't work, text-with-link replaced by text waiting fixes -->
+<p>Servez sur des tranches de pain de campagne légèrement toastées.</p>
+</div>
+<div class="recipe-step-list__container">
+<div class="recipe-step-list__head">
+<span>Étape 10</span>
+</div>
+<!-- addLink doesn't work, text-with-link replaced by text waiting fixes -->
+<p>Régalez-vous!</p>
+</div>
+</div>
+</div>
+<div class="mrtn-hide-on-print recipe-memo padded-content connectedUsersOnly"></div>
+<script id="recipe-memo-template" type="text/html">
+    <div class="mrtn-input" id="recipe-memo">
+        <i class="icon icon-edit" id="recipe-memo-icon"></i>
+        <input type="text" value="<%= comment %>" name="recipeMemo" placeholder=" " readonly>
+        <span>J'ajoute mon grain de sel</span>
+    </div>
+</script>
+<div class="separator"></div>
+<div class="mrtn-hide-on-print recipe-author-note">
+<div class="recipe-author-note__head">
+<div>
+<span class="recipe-author-note__picture">P</span>
+<span class="recipe-author-note__author-name">Paaztek</span>
+</div>
+<a class="recipe-author-more-recipe" href="/recettes/recette-meme-auteur.aspx?pseudo=Paaztek">Voir toutes les recettes</a>
+</div>
+</div>
+<div class="separator"></div>
+</div>
+<div class="mrtn-sidebar">
+<div class="sticky-col-ads mrtn_format mrtn-hide-on-print">
+<div class="ad-container ad-container-300_atf"><div class="ad-label">La suite après cette publicité</div><div class="ad-logo" data-ad="300_atf" id="300_atf"></div></div> </div>
+</div>
+</div>
