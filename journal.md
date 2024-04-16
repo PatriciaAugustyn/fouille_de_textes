@@ -86,3 +86,90 @@ Une boucle est utilisée pour itérer sur les fichiers de chaque dossier d'aspir
 
 Idée pour la suite :
 - Pourrions-nous peut être faire un nettoyage dans nos données pour ne garder que ce qui nous intéresse à l'aide de regex. Par exemple : retirer tous les contenus textes des menus déroulant des pages, ne garder que les listes d'ingrédients et les indications de préparation.
+
+
+## Semaine 4 et 5
+
+### Lise
+
+#### constitution du corpus all/ :
+
+Je me suis occupée des urls de train. Nous avons eu un rappel qui était de faire 80% de train et 20% de test. Or, nous étions parti sur 50/50, ce qui n'était pas une très bonne idée, car il faut une assez grande quantité de train pour obtenir un modèle performant et un minimum de test pour vérifié si ce dernier catégorise correctement et pas de manière aléatoire.
+
+Cependant, en revisionnant la vidéo tuto de Weka, nous avons compris que le logiciel fait lui-même le split entre train et test. Ainsi notre corpus peut être regroupé dans un même dossier et non pas séparé entre train et test.
+J'ai donc fait un script basé sur le programme beautifulsoup créé par Patricia, qui permet de récupéré les balises nous intéressant en fonction du site parcouru. Voir `recover_date.py`.
+J'ai placé toutes les urls train + test dans de nouveaux fichiers txt nommés comme `all_url_plat_ent.txt` pour pouvoir toutes les parcourir en même temps et renvoyé les fichiers html correspondant dans le dossier `/clean-text/all/`.
+Le programme va parcourir de lui-même chaque fichier txt contenant les urls des 5 étiquettes différentes.
+
+```py
+etiquettes=["entree", "plat", "dessert", "aperitif", "boisson"]
+
+for num_eti in range(len(etiquettes)):
+    etiquette = etiquettes[num_eti]
+
+    with open(f"../URLs/all_url_{etiquette}_ent_clean.txt", "r") as urls:
+        for i, line in enumerate(urls):
+
+        [...]
+
+                with open(f"../clean-text/all/{etiquette}/{k}_{etiquette}_{site}.html", "w", encoding="utf-8") as file:
+                    file.write(str(content))
+    print("Aspiration de ",etiquettes[num_eti], " terminée !")
+```
+
+En procédant comme celà, nous avons remarqué que des urls posées problèmes en particulier celles du site chefsimon et 750g. En effet, dans le cas du site chefsimon, le problème vient du fait que le site n'est pas homogène et les div ne sont aps nommées de la même manière entre chaque page. Pour le site 750g, le problème est que pour certaines urls, les recettes sont inéxistantes et la page présente juste un lien vers un autre site contenant la recette en question.
+Nous avons donc retiré manuellement les urls dans ce cas. Car après de nombreux essaie par le code, nous n'avons pas trouvé de manière automatique de passer automatiquement les urls qui n'ont pas la div demandée avec beautifulsoup.
+
+
+#### choix des div :
+
+Concernant le choix des div, comme les sites ne sont pas tous formés de la même manière, nous avons choisi que dans le pire des cas nous prendrons les instructions de la recette (car ce dernier contient du vocabulaire + les citations des ingrédients), dans le meilleur des cas nous prenons le titre, la liste d'ingrédients et les instructions. Nous devons nous restreindre à ces choix car pour certains sites nous aurions été contraintes à prendre aussi en compte toutes les informations textuelles renvoyant à d'autres articles de recette, et ceci aurait influencer nos futurs résultats.
+Ex : avoir une suggestion d'article d'un dessert alors que la recette actuelle est une entrée.
+Voilà les effectif avant / après nettoyage manuel :
+
+- aperitif : 190 -> 180
+- plat : 190 -> 182
+- entree : 190 -> 175
+- dessert : 190 -> 190
+- boisson : 190 -> 166
+
+
+#### suppression des doublons
+
+A ce stade de notre avancement, nous nous sommes rendues compte de la présence de doublons dans les listes de nos urls. Pour remédier à cela automatiquement, nous avons fait un programme qui vient retirer les doublons et réécrit une nouvelle liste sans doublons dans un nouveau document txt contenant le mot clean, tel que `all_url_plat_ent.txt` devient `all_url_plat_ent_clean.txt`. Voilà la liste de nos nouveaux effectifs pour chaque étiquettes :
+
+- aperitif : 180 -> 169
+- plat : 182 -> 182
+- entree : 175 -> 173
+- dessert : 190 -> 183
+- boisson : 166 -> 163
+
+Le programme servant à faire ce nettoyage s'appelle `urls_cleaner.py` et contient les lignes de code suivantes :
+
+```py
+etiquettes=["aperitif", "entree", "plat", "dessert", "boisson"]
+
+for i in range(len(etiquettes)):
+    txt = open(f"../URLs/all_url_{etiquettes[i]}_ent.txt", "r")
+    urls = txt.readlines()
+    txt.close()
+
+    urls_nettoyees = []
+    for url in urls:
+        if url not in urls_nettoyees:
+            urls_nettoyees.append(url)
+        else:
+            continue
+
+    txt_nettoye = open(f"../URLs/all_url_{etiquettes[i]}_ent_clean.txt", "a")
+    txt_nettoye.writelines(urls_nettoyees)
+    txt_nettoye.close()
+```
+
+
+#### prochain objectif :
+
+Savoir si la variation de nos effectifs pose problème pour la suite, convertir tous ces fichiers html en format txt vers le dossier `donnees/corpus/all/`.
+
+
+
