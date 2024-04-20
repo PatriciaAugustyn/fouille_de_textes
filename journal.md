@@ -92,6 +92,8 @@ Idée pour la suite :
 
 ### Lise
 
+(14/04/24)
+
 #### constitution du corpus all/ :
 
 Je me suis occupée des urls de train. Nous avons eu un rappel qui était de faire 80% de train et 20% de test. Or, nous étions parti sur 50/50, ce qui n'était pas une très bonne idée, car il faut une assez grande quantité de train pour obtenir un modèle performant et un minimum de test pour vérifié si ce dernier catégorise correctement et pas de manière aléatoire.
@@ -171,5 +173,30 @@ for i in range(len(etiquettes)):
 
 Savoir si la variation de nos effectifs pose problème pour la suite, convertir tous ces fichiers html en format txt vers le dossier `donnees/corpus/all/`.
 
+(20/04/24)
 
+#### constitution du corpus entier final de manipulation pour weka
 
+==> La variabilité de nos effectifs dans les données n'est aps grave car ce qui compte c'est la quantité de mots que contient chaque partie du corpus par étiquette.
+
+Le corpus corpus/all/ vient d'être créé. Il contient tout les html du corpus clean-html/all/ en version dump-text.
+C'est ce corpus que l'on va lancé dans Weka.
+Le dossier clean-text/ a été renommé en clean-html/ car il ne contient que des documents html.
+
+C'est le script bash dump.sh qui a été utilisé pour convertir tous nos documents html en document dump-text. Quelque modification y ont été faite car les fichiers n'était plus nommés de la même manière :
+
+```sh
+#!/usr/bin/env bash
+
+etiquette=$1
+nb_fichiers_html=$(ls ../clean-html/all/${etiquette}/*.html | wc -l)
+
+for (( i=100; i<=${nb_fichiers_html}; i++ ))
+do
+	dumps=$(lynx -dump -nolist ../clean-html/all/${etiquette}/$i*.html > ../corpus/all/${etiquette}/${etiquette}-$i.txt)
+done
+
+# commande lancement : bash dump.sh boisson
+```
+
+`for (( i=100; i<=${nb_fichiers_html}; i++ ))` et `../clean-html/all/${etiquette}/$i*.html` : ces deux lignes ont subits des modifications pour d'abord convertir les fichiers entre 0 et 10 puis les fichiers entre 10 et 100 et les fichiers au dessus de 100.
