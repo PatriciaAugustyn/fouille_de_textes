@@ -1,10 +1,11 @@
 #!/usr/bin/env bash
 
-chemin=$1
-etiquette=$2
-nb_fichiers_html=$(ls ../aspirations/${chemin}/*.html | wc -l)
+etiquette=$1
+nb_fichiers_html=$(ls ../clean-html/all/${etiquette}/*.html | wc -l)
 
-for (( i=1; i<=${nb_fichiers_html}; i++ ))
+for (( i=100; i<=${nb_fichiers_html}; i++ ))
 do
-	dumps=$(lynx -dump -nolist ../aspirations/${chemin}/${etiquette}-$i.html > ../dumps-text/${chemin}/${etiquette}-$i.txt)
+	dumps=$(lynx -dump -nolist ../clean-html/all/${etiquette}/$i*.html > ../corpus/all/${etiquette}/${etiquette}-$i.txt)
 done
+
+# commande lancement : bash dump.sh boisson
