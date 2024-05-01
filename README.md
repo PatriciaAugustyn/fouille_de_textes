@@ -29,6 +29,13 @@ pip install beautifulsoup4 requests
 Pour lancer nos programmes, voici des lignes de commande que vous pouvez tester :
 
 - **aspiration.sh** :
+```
+bash aspirations.sh $etiquette $nom_fichier_liste_urls
+```
+Par exemple, vous pouvez lancer :
+```
+bash aspirations.sh boisson all_url_boisson_ent.txt
+```
 
 - **dump.sh** :
 ```
