@@ -28,7 +28,7 @@ pip install beautifulsoup4 requests
 
 Pour lancer nos programmes, voici des lignes de commande que vous pouvez tester :
 
-- **aspiration.sh** :
+- **aspiration.sh** : aspirer nos URLs en format HTML
 ```
 bash aspirations.sh $etiquette $nom_fichier_liste_urls
 ```
@@ -37,19 +37,19 @@ Par exemple, vous pouvez lancer :
 bash aspirations.sh boisson all_url_boisson_ent.txt
 ```
 
-- **dump.sh** :
+- **dump.sh** : récupérer le texte de nos fichiers HTML
 ```
 bash dump.sh boisson
 ```
 
 Vous pouvez remplacer `boisson` par nos 5 catégories : `aperitif`, `entree`, `plat`, `dessert` et `boisson`
 
-- **recover_data.py** :
+- **recover_data.py** : récupérer la class qui nous intéresse pour chaque site
 ```
 python3 recover_data.py
 ```
 
-- **urls_cleaner.py** :
+- **urls_cleaner.py** : nettoyer le fichier de nos liens
 ```
 python3 urls_cleaner.py
 ```
